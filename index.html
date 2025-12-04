@@ -1,36 +1,251 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Eyoyastars - Coming Soon</title>
+    <title>AstroFocus — Official Product Page</title>
     <style>
-        body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-            background: #0a0a0f;
-            color: #e0e0e0;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            min-height: 100vh;
-            margin: 0;
-            padding: 2rem;
-            text-align: center;
+        /* --- Reset & Base Styles (Astro Theme: Cosmic Cockpit) --- */
+        :root {
+            /* Dark Backgrounds & Text */
+            --color-bg-dark: #050505;
+            /* Deepest Black */
+            --color-bg-panel: #0F1115;
+            /* Panel Gray */
+
+            /* Text Colors */
+            --color-text-primary: #F8FAFC;
+            /* Runway White */
+            --color-text-secondary: #94A3B8;
+            /* Muted Slate */
+            --color-text-dim: #475569;
+            /* Dark Slate */
+
+            /* Accents (Cockpit Lights) */
+            --color-accent-blue: #3B82F6;
+            /* Instrument Blue */
+            --color-accent-green: #10B981;
+            /* Signal Green */
+            --color-accent-amber: #F59E0B;
+            /* Warning Amber */
+            --color-accent-red: #EF4444;
+            /* Critical Red */
+
+            /* Borders */
+            --color-border: #1E293B;
+            --color-border-active: #334155;
+
+            --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+            --font-mono: 'JetBrains Mono', 'Fira Code', 'Roboto Mono', monospace;
         }
-        h1 {
-            font-size: 2rem;
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: var(--font-sans);
+            background-color: var(--color-bg-dark);
+            color: var(--color-text-primary);
+            line-height: 1.6;
+            -webkit-font-smoothing: antialiased;
+            padding: 2rem;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+
+        header {
+            text-align: center;
+            margin-bottom: 4rem;
+            padding-bottom: 2rem;
+            border-bottom: 1px solid var(--color-border);
+        }
+
+        .logo {
+            font-family: var(--font-mono);
+            font-size: 1.5rem;
+            font-weight: 700;
+            letter-spacing: 0.1em;
+            color: var(--color-text-primary);
+            text-transform: uppercase;
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
             margin-bottom: 1rem;
         }
+
+        .logo::before {
+            content: '';
+            display: block;
+            width: 8px;
+            height: 8px;
+            background-color: var(--color-accent-blue);
+            border-radius: 50%;
+            box-shadow: 0 0 8px var(--color-accent-blue);
+        }
+
+        .subtitle {
+            color: var(--color-text-secondary);
+            font-size: 0.9rem;
+            font-style: italic;
+        }
+
+        section {
+            margin-bottom: 3rem;
+        }
+
+        h1 {
+            font-size: 2.5rem;
+            font-weight: 700;
+            margin-bottom: 1rem;
+            color: var(--color-text-primary);
+        }
+
+        h2 {
+            font-size: 1.5rem;
+            font-weight: 600;
+            margin-bottom: 1rem;
+            color: var(--color-text-primary);
+            font-family: var(--font-mono);
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            font-size: 0.875rem;
+            color: var(--color-accent-blue);
+        }
+
         p {
+            color: var(--color-text-secondary);
+            margin-bottom: 1rem;
             font-size: 1rem;
-            opacity: 0.8;
+        }
+
+        .product-list {
+            list-style: none;
+            margin: 1.5rem 0;
+        }
+
+        .product-list li {
+            padding: 0.75rem 0;
+            color: var(--color-text-secondary);
+            border-bottom: 1px solid var(--color-border);
+        }
+
+        .product-list li:last-child {
+            border-bottom: none;
+        }
+
+        .product-list li::before {
+            content: "→ ";
+            color: var(--color-accent-blue);
+            font-weight: 700;
+            margin-right: 0.5rem;
+        }
+
+        .contact-info {
+            background: var(--color-bg-panel);
+            padding: 1.5rem;
+            border-radius: 8px;
+            border: 1px solid var(--color-border);
+            margin: 1.5rem 0;
+        }
+
+        .contact-info a {
+            color: var(--color-accent-blue);
+            text-decoration: none;
+            transition: color 0.3s ease;
+        }
+
+        .contact-info a:hover {
+            color: var(--color-accent-green);
+        }
+
+        .legal {
+            margin-top: 4rem;
+            padding-top: 2rem;
+            border-top: 1px solid var(--color-border);
+            font-size: 0.875rem;
+            color: var(--color-text-dim);
+        }
+
+        .highlight {
+            color: var(--color-accent-blue);
+        }
+
+        @media (max-width: 768px) {
+            body {
+                padding: 1rem;
+            }
+
+            h1 {
+                font-size: 2rem;
+            }
         }
     </style>
 </head>
+
 <body>
-    <div>
-        <h1>Eyoyastars</h1>
-        <p>Coming soon</p>
+    <div class="container">
+        <header>
+            <div class="logo">ASTRO<span style="opacity: 0.7;">FOCUS</span></div>
+            <p class="subtitle">Official Product Page</p>
+        </header>
+
+        <section>
+            <h2>About</h2>
+            <p>
+                AstroFocus is a small independent project creating minimal, clean astrological tools.
+            </p>
+            <p>
+                No portals, no long reports — just simple, direct insights designed for clarity.
+            </p>
+            <p>
+                This site confirms that all products listed on Lemon Squeezy are created and distributed by the same
+                developer.
+            </p>
+        </section>
+
+        <section>
+            <h2>What We Offer</h2>
+            <ul class="product-list">
+                <li><strong>Core Chart Reading</strong> — three essential insights (Energy, Enemy, Direction)</li>
+                <li><strong>Birth Chart Tools</strong> — fast, minimal, interactive</li>
+                <li><strong>Optional Expanded Readings</strong> — deeper explanations and house-based interpretations
+                </li>
+            </ul>
+            <p style="margin-top: 1.5rem;">
+                All readings are generated automatically and delivered instantly after purchase.
+            </p>
+        </section>
+
+        <section>
+            <h2>Contact</h2>
+            <p>For support or questions:</p>
+            <div class="contact-info">
+                <p>📧 <a href="mailto:three.meditation.app@gmail.com">three.meditation.app@gmail.com</a></p>
+                <p style="margin-top: 1rem;">🔗 <a href="https://github.com/BrikAyeEye/eyoyastars.circles.io"
+                        target="_blank">github.com/BrikAyeEye/eyoyastars.circles.io</a></p>
+            </div>
+        </section>
+
+        <section class="legal">
+            <h2>Legal</h2>
+            <p>
+                This site exists to verify the identity of the creator for payment processing through Lemon Squeezy.
+            </p>
+            <p>
+                No user data is stored on this website.
+            </p>
+            <p>
+                All purchases are handled securely through Lemon Squeezy.
+            </p>
+        </section>
     </div>
 </body>
+
 </html>
