@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "generated_at": "2025-11-29T05:12:37.915Z",
+    "total_combinations": 5,
+    "mode": "test"
+  },
+  "planets_in_signs_and_houses": {
+    "Sun": {
+      "Aries": {
+        "1": "You kick doors open and charge ahead, never waiting for permission. Your presence fills the room before you even step in, and people follow because you act before fear takes hold. Identity for you is forged through action and initiative, demanding to be first and fastest. Self-discovery is your main mission, and your vitality thrives on independence. Confidence is your default, even when you fake it. The cost? Waiting feels like an insult, and impatience can burn bridges before they’re built."
+      }
+    },
+    "Moon": {
+      "Gemini": {
+        "10": "You spin feelings into stories that the world can hear. Your mind races to process emotions like data, and you need to speak them out loud—twice, if necessary. Recognition fuels your emotional engine, and public achievement feels like a warm embrace. Restlessness drives you to keep moving, seeking validation in the eyes of others. When your career shines, your heart finds peace, but the cost is a constant need for external approval. Balancing your inner world with outer success is your ongoing challenge."
+      }
+    },
+    "Venus": {
+      "Aquarius": {
+        "4": "You love by breaking molds, weaving future visions into the fabric of home. Your attraction ignites through intellect, but roots in places where you feel safest. Freedom breathes life into your connections, yet your heart craves the security of familiar walls. You build emotional sanctuaries with a revolutionary touch, drawing partners who value both innovation and warmth. The cost? Balancing your need for individuality with the deep ties of family can feel like walking a tightrope."
+      }
+    },
+    "Saturn": {
+      "Cancer": {
+        "4": "You protect what's fragile with iron boundaries, turning emotional maturity into a responsibility you can't ignore. Family becomes your lifelong project, where your authority carries the weight of history. You build structure through emotional depth, not material wealth, and your discipline roots itself in the home. Your drive initiates and leads, but the cost is the pressure to always hold it together. You shine by building foundations that last, but it can feel like a solitary burden."
+      }
+    },
+    "Jupiter": {
+      "Sagittarius": {
+        "9": "You chase truth by outrunning limits. Philosophy is your compass, and spontaneity is the vehicle that keeps you moving. Luck dances with your optimism, expanding horizons with every passionate leap. Growth comes when you're free to explore, but the cost is leaving stability behind. Adventure fuels your belief system, turning every journey into a classroom. You shine brightest when expanding what you believe, but the thrill of the chase can sometimes blur the destination."
+      }
+    }
+  }
+}

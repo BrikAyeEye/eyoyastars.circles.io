@@ -1,0 +1,1808 @@
+{
+    "meta": {
+        "type": "placements",
+        "description": "Atoms for Planets in Signs"
+    },
+    "atoms": {
+        "Sun_Aries": {
+            "archetype": "The Pioneer",
+            "element": "fire",
+            "modality": "cardinal",
+            "atoms": [
+                "You light matches just to see what burns",
+                "Missions start when you kick doors, not when you ask permission",
+                "People follow because you move before fear remembers its job",
+                "You define yourself through bold action and immediate initiative.",
+                "Your identity demands to be first, fastest, and most fearless.",
+                "Waiting feels like a personal insult to your core being.",
+                "You shine brightest when you're charging ahead of the pack.",
+                "Your ego is a weapon of momentum, not a shield of protection."
+            ]
+        },
+        "Sun_Taurus": {
+            "archetype": "The Builder",
+            "element": "earth",
+            "modality": "fixed",
+            "atoms": [
+                "You haul dreams into brick and steel",
+                "Patience is your war drum, consistency your quiet rebellion",
+                "Nothing you claim leaves your hands unchanged",
+                "You build your identity through steady, tangible achievement.",
+                "Your sense of self is rooted in what you can touch and hold.",
+                "Patience isn't a virtue for you—it's your operating system.",
+                "You define yourself by what you create, not what you destroy.",
+                "Your identity solidifies through consistent, reliable action."
+            ]
+        },
+        "Sun_Gemini": {
+            "archetype": "The Signal",
+            "element": "air",
+            "modality": "mutable",
+            "atoms": [
+                "Your mind runs a dozen news feeds at once and still asks for more bandwidth",
+                "You weaponize curiosity like a scalpel",
+                "Boredom is the only thing you refuse to tolerate",
+                "You express identity with intellectual agility.",
+                "Your sun energy adapts and flows.",
+                "Gemini sun creates a unique synthesis of gemini and sun energies.",
+                "The air mutable combination communicates flexibly.",
+                "You shine with quick versatility."
+            ]
+        },
+        "Sun_Cancer": {
+            "archetype": "The Hearth",
+            "element": "water",
+            "modality": "cardinal",
+            "atoms": [
+                "You carry a shell made of intuition and barbed wire",
+                "Loyalty is your currency, and you give receipts",
+                "Anyone stepping into your orbit feels both scrutinized and protected",
+                "You express identity through emotional depth.",
+                "Your sun energy initiates and leads.",
+                "Cancer sun creates a unique synthesis of cancer and sun energies.",
+                "The water cardinal combination feels immediately.",
+                "You shine through emotional protection."
+            ]
+        },
+        "Sun_Leo": {
+            "archetype": "The Crown",
+            "element": "fire",
+            "modality": "fixed",
+            "atoms": [
+                "Spotlights bend to you like sunflowers",
+                "You manifest warmth and drama in the same breath",
+                "Even your silence feels choreographed",
+                "You express identity with passionate immediacy.",
+                "Your sun energy maintains and persists.",
+                "Leo sun creates a unique synthesis of leo and sun energies.",
+                "The fire fixed combination burns steadily.",
+                "You shine with dramatic confidence."
+            ]
+        },
+        "Sun_Virgo": {
+            "archetype": "The Editor",
+            "element": "earth",
+            "modality": "mutable",
+            "atoms": [
+                "You dissect chaos until it behaves",
+                "Precision is how you show love, upgrades how you apologize",
+                "The world is your draft folder",
+                "You express identity through practical stability.",
+                "Your sun energy adapts and flows.",
+                "Virgo sun creates a unique synthesis of virgo and sun energies.",
+                "The earth mutable combination adapts practically.",
+                "You shine through precise refinement."
+            ]
+        },
+        "Sun_Libra": {
+            "archetype": "The Arbiter",
+            "element": "air",
+            "modality": "cardinal",
+            "atoms": [
+                "You read rooms the way others read headlines, instantly and with judgment",
+                "Harmony isn’t passive; it’s a strategy",
+                "Beauty is your favorite blunt instrument",
+                "You express identity with intellectual agility.",
+                "Your sun energy initiates and leads.",
+                "Libra sun creates a unique synthesis of libra and sun energies.",
+                "The air cardinal combination elevates quickly.",
+                "You shine with elegant balance."
+            ]
+        },
+        "Sun_Scorpio": {
+            "archetype": "The Depth Charge",
+            "element": "water",
+            "modality": "fixed",
+            "atoms": [
+                "You sense motives before the sentence ends",
+                "Intensity is your resting state, transformation your hobby",
+                "People either confess or combust around you",
+                "You express identity through emotional depth.",
+                "Your sun energy maintains and persists.",
+                "Scorpio sun creates a unique synthesis of scorpio and sun energies.",
+                "The water fixed combination emotes deeply.",
+                "You shine through intense transformation."
+            ]
+        },
+        "Sun_Sagittarius": {
+            "archetype": "The Voyager",
+            "element": "fire",
+            "modality": "mutable",
+            "atoms": [
+                "You treat truth like a wildfire—dangerous but cleansing",
+                "Deadlines and borders are suggestions",
+                "Optimism is your fuel, brutal honesty your exhaust",
+                "You express identity with passionate immediacy.",
+                "Your sun energy adapts and flows.",
+                "Sagittarius sun creates a unique synthesis of sagittarius and sun energies.",
+                "The fire mutable combination sparks adaptively.",
+                "You shine with philosophical breadth."
+            ]
+        },
+        "Sun_Capricorn": {
+            "archetype": "The Climber",
+            "element": "earth",
+            "modality": "cardinal",
+            "atoms": [
+                "You see hierarchies like topographical maps and plan your ascent accordingly",
+                "Ambition is your love language",
+                "Discipline lets you bend time to your will",
+                "You express identity through practical stability.",
+                "Your sun energy initiates and leads.",
+                "Capricorn sun creates a unique synthesis of capricorn and sun energies.",
+                "The earth cardinal combination grounds decisively.",
+                "You shine through disciplined mastery."
+            ]
+        },
+        "Sun_Aquarius": {
+            "archetype": "The Disruptor",
+            "element": "air",
+            "modality": "fixed",
+            "atoms": [
+                "You jailbreak every system you touch",
+                "Detachment keeps emotions from fogging your blueprints",
+                "Revolution is just another Tuesday",
+                "You express identity with intellectual agility.",
+                "Your sun energy maintains and persists.",
+                "Aquarius sun creates a unique synthesis of aquarius and sun energies.",
+                "The air fixed combination thinks deeply.",
+                "You shine with revolutionary vision."
+            ]
+        },
+        "Sun_Pisces": {
+            "archetype": "The Oracular",
+            "element": "water",
+            "modality": "mutable",
+            "atoms": [
+                "You translate feelings into myth",
+                "Boundaries blur because you’ve already merged with the collective signal",
+                "Reality takes your notes, not the other way around",
+                "You express identity through emotional depth.",
+                "Your sun energy adapts and flows.",
+                "Pisces sun creates a unique synthesis of pisces and sun energies.",
+                "The water mutable combination flows adaptively.",
+                "You shine through compassionate dissolution."
+            ]
+        },
+        "Moon_Aries": {
+            "archetype": "Ember Heart",
+            "element": "fire",
+            "modality": "cardinal",
+            "atoms": [
+                "Your emotions hit like flash grenades—bright, loud, gone",
+                "You crave reactions more than reassurance",
+                "Peace arrives only after action",
+                "You process emotions with passionate immediacy.",
+                "Your moon energy initiates and leads.",
+                "Aries moon creates a unique synthesis of aries and moon energies.",
+                "The fire cardinal combination ignites immediately.",
+                "You feel with immediate impact."
+            ]
+        },
+        "Moon_Taurus": {
+            "archetype": "Stone Sanctuary",
+            "element": "earth",
+            "modality": "fixed",
+            "atoms": [
+                "You soothe yourself with texture, ritual, and possession",
+                "Slow comfort beats dramatic breakthroughs",
+                "Anyone who disrupts your calm gets locked out",
+                "You process emotions through practical stability.",
+                "Your moon energy maintains and persists.",
+                "Taurus moon creates a unique synthesis of taurus and moon energies.",
+                "The earth fixed combination builds persistently.",
+                "You feel through steady accumulation."
+            ]
+        },
+        "Moon_Gemini": {
+            "archetype": "Whisper Network",
+            "element": "air",
+            "modality": "mutable",
+            "atoms": [
+                "Feelings show up as data points and gossip",
+                "You process emotions by explaining them twice",
+                "Restlessness is your emotional weather pattern",
+                "You process emotions with intellectual agility.",
+                "Your moon energy adapts and flows.",
+                "Gemini moon creates a unique synthesis of gemini and moon energies.",
+                "The air mutable combination communicates flexibly.",
+                "You feel with quick versatility."
+            ]
+        },
+        "Moon_Cancer": {
+            "archetype": "Tidal Soul",
+            "element": "water",
+            "modality": "cardinal",
+            "atoms": [
+                "Your moods move like phases of the moon—predictable only if you’re paying attention",
+                "Home is your fortress and your soft spot",
+                "Loyalty is stitched into every heartbeat",
+                "You process emotions through emotional depth.",
+                "Your moon energy initiates and leads.",
+                "Cancer moon creates a unique synthesis of cancer and moon energies.",
+                "The water cardinal combination feels immediately.",
+                "You feel through emotional protection."
+            ]
+        },
+        "Moon_Leo": {
+            "archetype": "Golden Pulse",
+            "element": "fire",
+            "modality": "fixed",
+            "atoms": [
+                "Validation is the thermostat for your feelings",
+                "You love loudly, sulk theatrically, and forgive with flair",
+                "Affection must come with spotlights",
+                "You process emotions with passionate immediacy.",
+                "Your moon energy maintains and persists.",
+                "Leo moon creates a unique synthesis of leo and moon energies.",
+                "The fire fixed combination burns steadily.",
+                "You feel with dramatic confidence."
+            ]
+        },
+        "Moon_Virgo": {
+            "archetype": "Quiet Analyst",
+            "element": "earth",
+            "modality": "mutable",
+            "atoms": [
+                "You autopsy your emotions before admitting they exist",
+                "Order calms your nerves; usefulness grounds your heart",
+                "Overthinking is just quality control",
+                "You process emotions through practical stability.",
+                "Your moon energy adapts and flows.",
+                "Virgo moon creates a unique synthesis of virgo and moon energies.",
+                "The earth mutable combination adapts practically.",
+                "You feel through precise refinement."
+            ]
+        },
+        "Moon_Libra": {
+            "archetype": "Silk Equilibrium",
+            "element": "air",
+            "modality": "cardinal",
+            "atoms": [
+                "You negotiate with your own feelings like a diplomat",
+                "Emotional stability requires aesthetic balance",
+                "Conflict makes your stomach knot, but you’ll still curate the aftermath",
+                "You process emotions with intellectual agility.",
+                "Your moon energy initiates and leads.",
+                "Libra moon creates a unique synthesis of libra and moon energies.",
+                "The air cardinal combination elevates quickly.",
+                "You feel with elegant balance."
+            ]
+        },
+        "Moon_Scorpio": {
+            "archetype": "Secret Volcano",
+            "element": "water",
+            "modality": "fixed",
+            "atoms": [
+                "Your emotions smolder beneath a locked hatch",
+                "Trust is earned through x-ray honesty",
+                "Betrayal turns your heart into scorched earth",
+                "You process emotions through emotional depth.",
+                "Your moon energy maintains and persists.",
+                "Scorpio moon creates a unique synthesis of scorpio and moon energies.",
+                "The water fixed combination emotes deeply.",
+                "You feel through intense transformation."
+            ]
+        },
+        "Moon_Sagittarius": {
+            "archetype": "Wildfire Spirit",
+            "element": "fire",
+            "modality": "mutable",
+            "atoms": [
+                "You feel best when there’s a horizon to chase",
+                "Emotional ruts trigger your escape velocity",
+                "Truth-telling is your form of intimacy",
+                "You process emotions with passionate immediacy.",
+                "Your moon energy adapts and flows.",
+                "Sagittarius moon creates a unique synthesis of sagittarius and moon energies.",
+                "The fire mutable combination sparks adaptively.",
+                "You feel with philosophical breadth."
+            ]
+        },
+        "Moon_Capricorn": {
+            "archetype": "Granite Core",
+            "element": "earth",
+            "modality": "cardinal",
+            "atoms": [
+                "Stoicism is your emotional armor",
+                "You grieve in spreadsheets and love through reliability",
+                "Vulnerability arrives only after a background check",
+                "You process emotions through practical stability.",
+                "Your moon energy initiates and leads.",
+                "Capricorn moon creates a unique synthesis of capricorn and moon energies.",
+                "The earth cardinal combination grounds decisively.",
+                "You feel through disciplined mastery."
+            ]
+        },
+        "Moon_Aquarius": {
+            "archetype": "Electric Calm",
+            "element": "air",
+            "modality": "fixed",
+            "atoms": [
+                "You prefer logic to tears and distance to drama",
+                "Emotional clarity shows up as sudden downloads",
+                "Your heart speaks in hypotheses",
+                "You process emotions with intellectual agility.",
+                "Your moon energy maintains and persists.",
+                "Aquarius moon creates a unique synthesis of aquarius and moon energies.",
+                "The air fixed combination thinks deeply.",
+                "You feel with revolutionary vision."
+            ]
+        },
+        "Moon_Pisces": {
+            "archetype": "Dream Reservoir",
+            "element": "water",
+            "modality": "mutable",
+            "atoms": [
+                "You absorb everyone’s feelings like it’s a side gig",
+                "Escapism is your first aid kit",
+                "Compassion floods every crack, even the undeserving ones",
+                "You process emotions through emotional depth.",
+                "Your moon energy adapts and flows.",
+                "Pisces moon creates a unique synthesis of pisces and moon energies.",
+                "The water mutable combination flows adaptively.",
+                "You feel through compassionate dissolution."
+            ]
+        },
+        "Mercury_Aries": {
+            "archetype": "The Sprinter",
+            "element": "fire",
+            "modality": "cardinal",
+            "atoms": [
+                "Thoughts hit the page before spellcheck catches up",
+                "You argue like a spark plug, firing first and editing later",
+                "Your words are impact grenades, efficient and loud",
+                "You communicate thoughts with passionate immediacy.",
+                "Your mercury energy initiates and leads.",
+                "Aries mercury creates a unique synthesis of aries and mercury energies.",
+                "The fire cardinal combination ignites immediately.",
+                "You think with immediate impact."
+            ]
+        },
+        "Mercury_Taurus": {
+            "archetype": "The Mason",
+            "element": "earth",
+            "modality": "fixed",
+            "atoms": [
+                "You build arguments brick by brick until they can’t be toppled",
+                "Patience makes your logic sound inevitable",
+                "Silence is your favorite rhetorical pause",
+                "You communicate thoughts through practical stability.",
+                "Your mercury energy maintains and persists.",
+                "Taurus mercury creates a unique synthesis of taurus and mercury energies.",
+                "The earth fixed combination builds persistently.",
+                "You think through steady accumulation."
+            ]
+        },
+        "Mercury_Gemini": {
+            "archetype": "The Switchboard",
+            "element": "air",
+            "modality": "mutable",
+            "atoms": [
+                "Every idea gets patched into three more channels",
+                "You remix facts mid-sentence and still land the point",
+                "Conversation is a sport you always play to win",
+                "You communicate thoughts with intellectual agility.",
+                "Your mercury energy adapts and flows.",
+                "Gemini mercury creates a unique synthesis of gemini and mercury energies.",
+                "The air mutable combination communicates flexibly.",
+                "You think with quick versatility."
+            ]
+        },
+        "Mercury_Cancer": {
+            "archetype": "The Archivist",
+            "element": "water",
+            "modality": "cardinal",
+            "atoms": [
+                "Memory and mood braid into every sentence",
+                "You speak in emotional weather reports, forecasting safety or storm",
+                "Soft words, sharp implications",
+                "You communicate thoughts through emotional depth.",
+                "Your mercury energy initiates and leads.",
+                "Cancer mercury creates a unique synthesis of cancer and mercury energies.",
+                "The water cardinal combination feels immediately.",
+                "You think through emotional protection."
+            ]
+        },
+        "Mercury_Leo": {
+            "archetype": "The Herald",
+            "element": "fire",
+            "modality": "fixed",
+            "atoms": [
+                "You deliver messages like royal decrees",
+                "Dramatic emphasis is your punctuation",
+                "Confidence fills any gaps the facts can’t cover",
+                "You communicate thoughts with passionate immediacy.",
+                "Your mercury energy maintains and persists.",
+                "Leo mercury creates a unique synthesis of leo and mercury energies.",
+                "The fire fixed combination burns steadily.",
+                "You think with dramatic confidence."
+            ]
+        },
+        "Mercury_Virgo": {
+            "archetype": "The Calibrator",
+            "element": "earth",
+            "modality": "mutable",
+            "atoms": [
+                "You diagnose flaws in arguments faster than people finish them",
+                "Precision is your comfort zone; data is your love language",
+                "Overthinking is just quality assurance",
+                "You communicate thoughts through practical stability.",
+                "Your mercury energy adapts and flows.",
+                "Virgo mercury creates a unique synthesis of virgo and mercury energies.",
+                "The earth mutable combination adapts practically.",
+                "You think through precise refinement."
+            ]
+        },
+        "Mercury_Libra": {
+            "archetype": "The Diplomat",
+            "element": "air",
+            "modality": "cardinal",
+            "atoms": [
+                "Every sentence balances fairness with style",
+                "You negotiate opinions like treaties, ensuring both sides leave impressed",
+                "Charm is your thesis statement",
+                "You communicate thoughts with intellectual agility.",
+                "Your mercury energy initiates and leads.",
+                "Libra mercury creates a unique synthesis of libra and mercury energies.",
+                "The air cardinal combination elevates quickly.",
+                "You think with elegant balance."
+            ]
+        },
+        "Mercury_Scorpio": {
+            "archetype": "The Interrogator",
+            "element": "water",
+            "modality": "fixed",
+            "atoms": [
+                "You hear lies breathing under the dialogue",
+                "Questions cut straight to the marrow",
+                "Words are blades you wield with unnerving calm",
+                "You communicate thoughts through emotional depth.",
+                "Your mercury energy maintains and persists.",
+                "Scorpio mercury creates a unique synthesis of scorpio and mercury energies.",
+                "The water fixed combination emotes deeply.",
+                "You think through intense transformation."
+            ]
+        },
+        "Mercury_Sagittarius": {
+            "archetype": "The Broadcaster",
+            "element": "fire",
+            "modality": "mutable",
+            "atoms": [
+                "You serve truth unfiltered and at high volume",
+                "Philosophies arrive fully formed, even if you came up with them while running late",
+                "Hyperbole is just enthusiasm in your dialect",
+                "You communicate thoughts with passionate immediacy.",
+                "Your mercury energy adapts and flows.",
+                "Sagittarius mercury creates a unique synthesis of sagittarius and mercury energies.",
+                "The fire mutable combination sparks adaptively.",
+                "You think with philosophical breadth."
+            ]
+        },
+        "Mercury_Capricorn": {
+            "archetype": "The Strategist",
+            "element": "earth",
+            "modality": "cardinal",
+            "atoms": [
+                "You communicate like you’re drafting corporate bylaws",
+                "Every word has a job and a deadline",
+                "Sarcasm doubles as quality control",
+                "You communicate thoughts through practical stability.",
+                "Your mercury energy initiates and leads.",
+                "Capricorn mercury creates a unique synthesis of capricorn and mercury energies.",
+                "The earth cardinal combination grounds decisively.",
+                "You think through disciplined mastery."
+            ]
+        },
+        "Mercury_Aquarius": {
+            "archetype": "The Frequency",
+            "element": "air",
+            "modality": "fixed",
+            "atoms": [
+                "Ideas download straight from the future",
+                "You talk in prototypes and proof-of-concept metaphors",
+                "Detachment keeps you objective, not cold",
+                "You communicate thoughts with intellectual agility.",
+                "Your mercury energy maintains and persists.",
+                "Aquarius mercury creates a unique synthesis of aquarius and mercury energies.",
+                "The air fixed combination thinks deeply.",
+                "You think with revolutionary vision."
+            ]
+        },
+        "Mercury_Pisces": {
+            "archetype": "The Mystic Scribe",
+            "element": "water",
+            "modality": "mutable",
+            "atoms": [
+                "You narrate reality like a lucid dream",
+                "Logic bends around intuition and still lands somewhere true",
+                "People listen because you make the surreal sound sensible",
+                "You communicate thoughts through emotional depth.",
+                "Your mercury energy adapts and flows.",
+                "Pisces mercury creates a unique synthesis of pisces and mercury energies.",
+                "The water mutable combination flows adaptively.",
+                "You think through compassionate dissolution."
+            ]
+        },
+        "Venus_Aries": {
+            "archetype": "Volcanic Crush",
+            "element": "fire",
+            "modality": "cardinal",
+            "atoms": [
+                "You fall fast, loud, and with a competitive streak",
+                "Love feels like a mission you must win",
+                "Boredom is the only deal-breaker",
+                "You attract values with passionate immediacy.",
+                "Your venus energy initiates and leads.",
+                "Aries venus creates a unique synthesis of aries and venus energies.",
+                "The fire cardinal combination ignites immediately.",
+                "You attract with immediate impact."
+            ]
+        },
+        "Venus_Taurus": {
+            "archetype": "Devoted Collector",
+            "element": "earth",
+            "modality": "fixed",
+            "atoms": [
+                "You romance through permanence—textures, rituals, shared assets",
+                "Loyalty is non-negotiable; indulgence is a sacred right",
+                "You curate relationships like heirlooms",
+                "You attract values through practical stability.",
+                "Your venus energy maintains and persists.",
+                "Taurus venus creates a unique synthesis of taurus and venus energies.",
+                "The earth fixed combination builds persistently.",
+                "You attract through steady accumulation."
+            ]
+        },
+        "Venus_Gemini": {
+            "archetype": "Flirt Circuit",
+            "element": "air",
+            "modality": "mutable",
+            "atoms": [
+                "Your heart bond happens through wordplay and late-night tangents",
+                "You crave minds that multitask",
+                "Commitment must come with curiosity",
+                "You attract values with intellectual agility.",
+                "Your venus energy adapts and flows.",
+                "Gemini venus creates a unique synthesis of gemini and venus energies.",
+                "The air mutable combination communicates flexibly.",
+                "You attract with quick versatility."
+            ]
+        },
+        "Venus_Cancer": {
+            "archetype": "Moonlit Anchor",
+            "element": "water",
+            "modality": "cardinal",
+            "atoms": [
+                "You seduce through caretaking and emotional clairvoyance",
+                "Softness is your power move",
+                "Anyone in your orbit gets fed, warned, and fiercely defended",
+                "You attract values through emotional depth.",
+                "Your venus energy initiates and leads.",
+                "Cancer venus creates a unique synthesis of cancer and venus energies.",
+                "The water cardinal combination feels immediately.",
+                "You attract through emotional protection."
+            ]
+        },
+        "Venus_Leo": {
+            "archetype": "Royal Heat",
+            "element": "fire",
+            "modality": "fixed",
+            "atoms": [
+                "Love requires spectacle, loyalty, and applause",
+                "You gift affection like gold coins and expect devotion in return",
+                "Drama is just proof of passion",
+                "You attract values with passionate immediacy.",
+                "Your venus energy maintains and persists.",
+                "Leo venus creates a unique synthesis of leo and venus energies.",
+                "The fire fixed combination burns steadily.",
+                "You attract with dramatic confidence."
+            ]
+        },
+        "Venus_Virgo": {
+            "archetype": "Sacred Service",
+            "element": "earth",
+            "modality": "mutable",
+            "atoms": [
+                "You prove love by refining lives—tuning habits, fixing chaos, upgrading comfort",
+                "Perfectionism is how you protect what you treasure",
+                "Compliments must be practical",
+                "You attract values through practical stability.",
+                "Your venus energy adapts and flows.",
+                "Virgo venus creates a unique synthesis of virgo and venus energies.",
+                "The earth mutable combination adapts practically.",
+                "You attract through precise refinement."
+            ]
+        },
+        "Venus_Libra": {
+            "archetype": "Velvet Gravity",
+            "element": "air",
+            "modality": "cardinal",
+            "atoms": [
+                "Aesthetic chemistry is step one, mutual admiration step two",
+                "You balance affection with precision",
+                "Harmony is the glue; elegance is the wrapping",
+                "You attract values with intellectual agility.",
+                "Your venus energy initiates and leads.",
+                "Libra venus creates a unique synthesis of libra and venus energies.",
+                "The air cardinal combination elevates quickly.",
+                "You attract with elegant balance."
+            ]
+        },
+        "Venus_Scorpio": {
+            "archetype": "Obsidian Heart",
+            "element": "water",
+            "modality": "fixed",
+            "atoms": [
+                "Love is an oath signed in obsession and loyalty",
+                "You crave bonds that survive psychic x-rays",
+                "Half measures trigger your exit plan",
+                "You attract values through emotional depth.",
+                "Your venus energy maintains and persists.",
+                "Scorpio venus creates a unique synthesis of scorpio and venus energies.",
+                "The water fixed combination emotes deeply.",
+                "You attract through intense transformation."
+            ]
+        },
+        "Venus_Sagittarius": {
+            "archetype": "Wild Arrow",
+            "element": "fire",
+            "modality": "mutable",
+            "atoms": [
+                "You court with blunt truth and shared adventures",
+                "Passion thrives on wide horizons",
+                "Anyone trying to cage you becomes history fast",
+                "You attract values with passionate immediacy.",
+                "Your venus energy adapts and flows.",
+                "Sagittarius venus creates a unique synthesis of sagittarius and venus energies.",
+                "The fire mutable combination sparks adaptively.",
+                "You attract with philosophical breadth."
+            ]
+        },
+        "Venus_Capricorn": {
+            "archetype": "Iron Vow",
+            "element": "earth",
+            "modality": "cardinal",
+            "atoms": [
+                "Romance is a long-term investment, not a side quest",
+                "You show affection through reliability and strategic spoiling",
+                "Trust must be earned with receipts",
+                "You attract values through practical stability.",
+                "Your venus energy initiates and leads.",
+                "Capricorn venus creates a unique synthesis of capricorn and venus energies.",
+                "The earth cardinal combination grounds decisively.",
+                "You attract through disciplined mastery."
+            ]
+        },
+        "Venus_Aquarius": {
+            "archetype": "Cosmic Ally",
+            "element": "air",
+            "modality": "fixed",
+            "atoms": [
+                "You love like a futurist—unconventional, idealistic, and fiercely loyal to individuality",
+                "Intellect sparks attraction, freedom keeps it alive",
+                "Emotions get decoded through shared missions",
+                "You attract values with intellectual agility.",
+                "Your venus energy maintains and persists.",
+                "Aquarius venus creates a unique synthesis of aquarius and venus energies.",
+                "The air fixed combination thinks deeply.",
+                "You attract with revolutionary vision."
+            ]
+        },
+        "Venus_Pisces": {
+            "archetype": "Tidal Devotion",
+            "element": "water",
+            "modality": "mutable",
+            "atoms": [
+                "You love in dissolving waves—romantic, empathic, unguarded",
+                "Soul connections are your baseline",
+                "Boundaries blur because you’d rather merge than negotiate",
+                "You attract values through emotional depth.",
+                "Your venus energy adapts and flows.",
+                "Pisces venus creates a unique synthesis of pisces and venus energies.",
+                "The water mutable combination flows adaptively.",
+                "You attract through compassionate dissolution."
+            ]
+        },
+        "Mars_Aries": {
+            "archetype": "The Warrior",
+            "element": "fire",
+            "modality": "cardinal",
+            "atoms": [
+                "You launch before the countdown finishes",
+                "Anger is fuel, not a flaw",
+                "Victory tastes best when everyone doubted your timing",
+                "You take action with passionate immediacy.",
+                "Your mars energy initiates and leads.",
+                "Aries mars creates a unique synthesis of aries and mars energies.",
+                "The fire cardinal combination ignites immediately.",
+                "You act with immediate impact."
+            ]
+        },
+        "Mars_Taurus": {
+            "archetype": "The Juggernaut",
+            "element": "earth",
+            "modality": "fixed",
+            "atoms": [
+                "Once you commit, nothing short of tectonic plates will move you",
+                "Persistence is your artillery",
+                "You’d rather break obstacles than compromise",
+                "You take action through practical stability.",
+                "Your mars energy maintains and persists.",
+                "Taurus mars creates a unique synthesis of taurus and mars energies.",
+                "The earth fixed combination builds persistently.",
+                "You act through steady accumulation."
+            ]
+        },
+        "Mars_Gemini": {
+            "archetype": "The Whirlwind",
+            "element": "air",
+            "modality": "mutable",
+            "atoms": [
+                "You fight with words, wit, and tactical chaos",
+                "Multiplicity keeps you dangerous",
+                "Standing still feels like surrender",
+                "You take action with intellectual agility.",
+                "Your mars energy adapts and flows.",
+                "Gemini mars creates a unique synthesis of gemini and mars energies.",
+                "The air mutable combination communicates flexibly.",
+                "You act with quick versatility."
+            ]
+        },
+        "Mars_Cancer": {
+            "archetype": "The Shieldbearer",
+            "element": "water",
+            "modality": "cardinal",
+            "atoms": [
+                "You defend your people like a tidal fortress",
+                "Emotion flips your fight switch faster than logic",
+                "Retaliation is personalized and unforgettable",
+                "You take action through emotional depth.",
+                "Your mars energy initiates and leads.",
+                "Cancer mars creates a unique synthesis of cancer and mars energies.",
+                "The water cardinal combination feels immediately.",
+                "You act through emotional protection."
+            ]
+        },
+        "Mars_Leo": {
+            "archetype": "The Solar Blade",
+            "element": "fire",
+            "modality": "fixed",
+            "atoms": [
+                "You act with theatrical conviction",
+                "Pride fuels your momentum; applause seals the win",
+                "Every move is a statement piece",
+                "You take action with passionate immediacy.",
+                "Your mars energy maintains and persists.",
+                "Leo mars creates a unique synthesis of leo and mars energies.",
+                "The fire fixed combination burns steadily.",
+                "You act with dramatic confidence."
+            ]
+        },
+        "Mars_Virgo": {
+            "archetype": "The Surgeon",
+            "element": "earth",
+            "modality": "mutable",
+            "atoms": [
+                "You execute with surgical precision",
+                "Efficiency is your preferred weapon",
+                "Rage gets repurposed into flawless strategy",
+                "You take action through practical stability.",
+                "Your mars energy adapts and flows.",
+                "Virgo mars creates a unique synthesis of virgo and mars energies.",
+                "The earth mutable combination adapts practically.",
+                "You act through precise refinement."
+            ]
+        },
+        "Mars_Libra": {
+            "archetype": "The Duelist",
+            "element": "air",
+            "modality": "cardinal",
+            "atoms": [
+                "You fight for equilibrium, even if you must break a few hearts on the way",
+                "Charm masks your tactical edge",
+                "Justice is your trigger",
+                "You take action with intellectual agility.",
+                "Your mars energy initiates and leads.",
+                "Libra mars creates a unique synthesis of libra and mars energies.",
+                "The air cardinal combination elevates quickly.",
+                "You act with elegant balance."
+            ]
+        },
+        "Mars_Scorpio": {
+            "archetype": "The Infiltrator",
+            "element": "water",
+            "modality": "fixed",
+            "atoms": [
+                "You wage war in silence and finish it with scorched earth",
+                "Intensity keeps you relentless",
+                "Enemies never see the strike until it lands",
+                "You take action through emotional depth.",
+                "Your mars energy maintains and persists.",
+                "Scorpio mars creates a unique synthesis of scorpio and mars energies.",
+                "The water fixed combination emotes deeply.",
+                "You act through intense transformation."
+            ]
+        },
+        "Mars_Sagittarius": {
+            "archetype": "The Archer",
+            "element": "fire",
+            "modality": "mutable",
+            "atoms": [
+                "You aim high, fire far, and refuse to retreat",
+                "Actions must align with belief or they fall apart",
+                "Restlessness keeps you in motion",
+                "You take action with passionate immediacy.",
+                "Your mars energy adapts and flows.",
+                "Sagittarius mars creates a unique synthesis of sagittarius and mars energies.",
+                "The fire mutable combination sparks adaptively.",
+                "You act with philosophical breadth."
+            ]
+        },
+        "Mars_Capricorn": {
+            "archetype": "The Commander",
+            "element": "earth",
+            "modality": "cardinal",
+            "atoms": [
+                "You prefer long games with ironclad results",
+                "Discipline sharpens every move",
+                "Rivalries are fuel for your ascent",
+                "You take action through practical stability.",
+                "Your mars energy initiates and leads.",
+                "Capricorn mars creates a unique synthesis of capricorn and mars energies.",
+                "The earth cardinal combination grounds decisively.",
+                "You act through disciplined mastery."
+            ]
+        },
+        "Mars_Aquarius": {
+            "archetype": "The Rebel Engine",
+            "element": "air",
+            "modality": "fixed",
+            "atoms": [
+                "You act to rewrite the rules, not follow them",
+                "Detachment keeps your strategy cold and effective",
+                "Progress is your battlefield",
+                "You take action with intellectual agility.",
+                "Your mars energy maintains and persists.",
+                "Aquarius mars creates a unique synthesis of aquarius and mars energies.",
+                "The air fixed combination thinks deeply.",
+                "You act with revolutionary vision."
+            ]
+        },
+        "Mars_Pisces": {
+            "archetype": "The Undertow",
+            "element": "water",
+            "modality": "mutable",
+            "atoms": [
+                "You fight from the shadows with intuition as your compass",
+                "Energy flows in waves; when you strike, it’s a flood",
+                "Compassion doesn’t mean mercy",
+                "You take action through emotional depth.",
+                "Your mars energy adapts and flows.",
+                "Pisces mars creates a unique synthesis of pisces and mars energies.",
+                "The water mutable combination flows adaptively.",
+                "You act through compassionate dissolution."
+            ]
+        },
+        "Jupiter_Aries": {
+            "archetype": "Brave Expansion",
+            "element": "fire",
+            "modality": "cardinal",
+            "atoms": [
+                "You chase luck by charging first",
+                "Risks feel like a divine dare",
+                "Opportunity shows up when you act louder than doubt",
+                "You expand horizons with passionate immediacy.",
+                "Your jupiter energy initiates and leads.",
+                "Aries jupiter creates a unique synthesis of aries and jupiter energies.",
+                "The fire cardinal combination ignites immediately.",
+                "You expand with immediate impact."
+            ]
+        },
+        "Jupiter_Taurus": {
+            "archetype": "Steady Fortune",
+            "element": "earth",
+            "modality": "fixed",
+            "atoms": [
+                "You grow abundance through patience and tangible value",
+                "Gratitude multiplies your resources",
+                "Stability is your chosen luxury",
+                "You expand horizons through practical stability.",
+                "Your jupiter energy maintains and persists.",
+                "Taurus jupiter creates a unique synthesis of taurus and jupiter energies.",
+                "The earth fixed combination builds persistently.",
+                "You expand through steady accumulation."
+            ]
+        },
+        "Jupiter_Gemini": {
+            "archetype": "Infinite Curator",
+            "element": "air",
+            "modality": "mutable",
+            "atoms": [
+                "You collect perspectives like souvenirs",
+                "Curiosity opens doors others don’t notice",
+                "Conversations are your favorite passport",
+                "You expand horizons with intellectual agility.",
+                "Your jupiter energy adapts and flows.",
+                "Gemini jupiter creates a unique synthesis of gemini and jupiter energies.",
+                "The air mutable combination communicates flexibly.",
+                "You expand with quick versatility."
+            ]
+        },
+        "Jupiter_Cancer": {
+            "archetype": "Sheltering Faith",
+            "element": "water",
+            "modality": "cardinal",
+            "atoms": [
+                "You expand by nurturing what matters",
+                "Emotional wisdom guides every gamble",
+                "Home becomes a sanctuary for everyone you bless",
+                "You expand horizons through emotional depth.",
+                "Your jupiter energy initiates and leads.",
+                "Cancer jupiter creates a unique synthesis of cancer and jupiter energies.",
+                "The water cardinal combination feels immediately.",
+                "You expand through emotional protection."
+            ]
+        },
+        "Jupiter_Leo": {
+            "archetype": "Radiant Triumph",
+            "element": "fire",
+            "modality": "fixed",
+            "atoms": [
+                "Confidence is your magnetic field",
+                "You attract luck when you act like it’s already yours",
+                "Generosity seals the deal",
+                "You expand horizons with passionate immediacy.",
+                "Your jupiter energy maintains and persists.",
+                "Leo jupiter creates a unique synthesis of leo and jupiter energies.",
+                "The fire fixed combination burns steadily.",
+                "You expand with dramatic confidence."
+            ]
+        },
+        "Jupiter_Virgo": {
+            "archetype": "Measured Growth",
+            "element": "earth",
+            "modality": "mutable",
+            "atoms": [
+                "You chase mastery, not hype",
+                "Improvements stack into empires",
+                "Optimism shows up as spreadsheets and actionable faith",
+                "You expand horizons through practical stability.",
+                "Your jupiter energy adapts and flows.",
+                "Virgo jupiter creates a unique synthesis of virgo and jupiter energies.",
+                "The earth mutable combination adapts practically.",
+                "You expand through precise refinement."
+            ]
+        },
+        "Jupiter_Libra": {
+            "archetype": "Diplomatic Horizon",
+            "element": "air",
+            "modality": "cardinal",
+            "atoms": [
+                "Partnerships unlock your fortune",
+                "You broker harmony and watch the returns compound",
+                "Grace is your growth strategy",
+                "You expand horizons with intellectual agility.",
+                "Your jupiter energy initiates and leads.",
+                "Libra jupiter creates a unique synthesis of libra and jupiter energies.",
+                "The air cardinal combination elevates quickly.",
+                "You expand with elegant balance."
+            ]
+        },
+        "Jupiter_Scorpio": {
+            "archetype": "Depth Fortune",
+            "element": "water",
+            "modality": "fixed",
+            "atoms": [
+                "You transform crisis into opportunity",
+                "Intuition guides your high-stakes bets",
+                "Power finds you when you stop pretending you don’t want it",
+                "You expand horizons through emotional depth.",
+                "Your jupiter energy maintains and persists.",
+                "Scorpio jupiter creates a unique synthesis of scorpio and jupiter energies.",
+                "The water fixed combination emotes deeply.",
+                "You expand through intense transformation."
+            ]
+        },
+        "Jupiter_Sagittarius": {
+            "archetype": "Cosmic Nomad",
+            "element": "fire",
+            "modality": "mutable",
+            "atoms": [
+                "You expand by outrunning limits",
+                "Philosophy is your compass, spontaneity your vehicle",
+                "Luck keeps pace with your optimism",
+                "You expand horizons with passionate immediacy.",
+                "Your jupiter energy adapts and flows.",
+                "Sagittarius jupiter creates a unique synthesis of sagittarius and jupiter energies.",
+                "The fire mutable combination sparks adaptively.",
+                "You expand with philosophical breadth."
+            ]
+        },
+        "Jupiter_Capricorn": {
+            "archetype": "Legacy Architect",
+            "element": "earth",
+            "modality": "cardinal",
+            "atoms": [
+                "You invest in structures that outlive you",
+                "Responsibility magnetizes power",
+                "Success is the sermon you preach by example",
+                "You expand horizons through practical stability.",
+                "Your jupiter energy initiates and leads.",
+                "Capricorn jupiter creates a unique synthesis of capricorn and jupiter energies.",
+                "The earth cardinal combination grounds decisively.",
+                "You expand through disciplined mastery."
+            ]
+        },
+        "Jupiter_Aquarius": {
+            "archetype": "Future Syndicate",
+            "element": "air",
+            "modality": "fixed",
+            "atoms": [
+                "You share knowledge like a rebellion manual",
+                "Innovation multiplies your blessings",
+                "Community is your chosen wealth",
+                "You expand horizons with intellectual agility.",
+                "Your jupiter energy maintains and persists.",
+                "Aquarius jupiter creates a unique synthesis of aquarius and jupiter energies.",
+                "The air fixed combination thinks deeply.",
+                "You expand with revolutionary vision."
+            ]
+        },
+        "Jupiter_Pisces": {
+            "archetype": "Mystic Tide",
+            "element": "water",
+            "modality": "mutable",
+            "atoms": [
+                "Faith swells your life in poetic surges",
+                "Compassion invites miracles",
+                "You surf synchronicity like it’s a skill you invented",
+                "You expand horizons through emotional depth.",
+                "Your jupiter energy adapts and flows.",
+                "Pisces jupiter creates a unique synthesis of pisces and jupiter energies.",
+                "The water mutable combination flows adaptively.",
+                "You expand through compassionate dissolution."
+            ]
+        },
+        "Saturn_Aries": {
+            "archetype": "The Self-Made",
+            "element": "fire",
+            "modality": "cardinal",
+            "atoms": [
+                "You build discipline by repeatedly ramming the wall until it learns your name",
+                "Patience is learned, not gifted",
+                "Leadership comes with scar tissue",
+                "You build structure with passionate immediacy.",
+                "Your saturn energy initiates and leads.",
+                "Aries saturn creates a unique synthesis of aries and saturn energies.",
+                "The fire cardinal combination ignites immediately.",
+                "You structure with immediate impact."
+            ]
+        },
+        "Saturn_Taurus": {
+            "archetype": "The Stabilizer",
+            "element": "earth",
+            "modality": "fixed",
+            "atoms": [
+                "You construct patience into wealth",
+                "Security is your sacred contract",
+                "Obstacles crumble under your consistency",
+                "You build structure through practical stability.",
+                "Your saturn energy maintains and persists.",
+                "Taurus saturn creates a unique synthesis of taurus and saturn energies.",
+                "The earth fixed combination builds persistently.",
+                "You structure through steady accumulation."
+            ]
+        },
+        "Saturn_Gemini": {
+            "archetype": "The Analyst",
+            "element": "air",
+            "modality": "mutable",
+            "atoms": [
+                "You systematize curiosity, turning questions into frameworks",
+                "Communication demands rigor",
+                "Every fact gets audited",
+                "You build structure with intellectual agility.",
+                "Your saturn energy adapts and flows.",
+                "Gemini saturn creates a unique synthesis of gemini and saturn energies.",
+                "The air mutable combination communicates flexibly.",
+                "You structure with quick versatility."
+            ]
+        },
+        "Saturn_Cancer": {
+            "archetype": "The Guardian",
+            "element": "water",
+            "modality": "cardinal",
+            "atoms": [
+                "You protect what’s fragile with iron boundaries",
+                "Emotional maturity is earned through responsibility",
+                "Family becomes your lifelong project",
+                "You build structure through emotional depth.",
+                "Your saturn energy initiates and leads.",
+                "Cancer saturn creates a unique synthesis of cancer and saturn energies.",
+                "The water cardinal combination feels immediately.",
+                "You structure through emotional protection."
+            ]
+        },
+        "Saturn_Leo": {
+            "archetype": "The Regal Engineer",
+            "element": "fire",
+            "modality": "fixed",
+            "atoms": [
+                "You architect pride into sustainable influence",
+                "Recognition must be merited",
+                "Authority feels natural once you prove loyalty to your craft",
+                "You build structure with passionate immediacy.",
+                "Your saturn energy maintains and persists.",
+                "Leo saturn creates a unique synthesis of leo and saturn energies.",
+                "The fire fixed combination burns steadily.",
+                "You structure with dramatic confidence."
+            ]
+        },
+        "Saturn_Virgo": {
+            "archetype": "The Precisionist",
+            "element": "earth",
+            "modality": "mutable",
+            "atoms": [
+                "You perfect every moving piece even when no one watches",
+                "Discipline thrives in the details",
+                "Service is your brand of mastery",
+                "You build structure through practical stability.",
+                "Your saturn energy adapts and flows.",
+                "Virgo saturn creates a unique synthesis of virgo and saturn energies.",
+                "The earth mutable combination adapts practically.",
+                "You structure through precise refinement."
+            ]
+        },
+        "Saturn_Libra": {
+            "archetype": "The Arbiter",
+            "element": "air",
+            "modality": "cardinal",
+            "atoms": [
+                "You enforce fairness with courtroom logic",
+                "Relationships require contracts, not vibes",
+                "Harmony is maintained through accountability",
+                "You build structure with intellectual agility.",
+                "Your saturn energy initiates and leads.",
+                "Libra saturn creates a unique synthesis of libra and saturn energies.",
+                "The air cardinal combination elevates quickly.",
+                "You structure with elegant balance."
+            ]
+        },
+        "Saturn_Scorpio": {
+            "archetype": "The Shadowsmith",
+            "element": "water",
+            "modality": "fixed",
+            "atoms": [
+                "You transmute crisis into control",
+                "Power is handled with surgical restraint",
+                "Depth isn’t optional; it’s the curriculum",
+                "You build structure through emotional depth.",
+                "Your saturn energy maintains and persists.",
+                "Scorpio saturn creates a unique synthesis of scorpio and saturn energies.",
+                "The water fixed combination emotes deeply.",
+                "You structure through intense transformation."
+            ]
+        },
+        "Saturn_Sagittarius": {
+            "archetype": "The Doctrine",
+            "element": "fire",
+            "modality": "mutable",
+            "atoms": [
+                "You codify beliefs into structures others can climb",
+                "Freedom runs on principles, not chaos",
+                "Wisdom gets published through lived proof",
+                "You build structure with passionate immediacy.",
+                "Your saturn energy adapts and flows.",
+                "Sagittarius saturn creates a unique synthesis of sagittarius and saturn energies.",
+                "The fire mutable combination sparks adaptively.",
+                "You structure with philosophical breadth."
+            ]
+        },
+        "Saturn_Capricorn": {
+            "archetype": "The Mountain",
+            "element": "earth",
+            "modality": "cardinal",
+            "atoms": [
+                "You embody discipline, ambition, and long-term consequence",
+                "Legacy is your north star",
+                "Authority sticks because you outlast everyone else",
+                "You build structure through practical stability.",
+                "Your saturn energy initiates and leads.",
+                "Capricorn saturn creates a unique synthesis of capricorn and saturn energies.",
+                "The earth cardinal combination grounds decisively.",
+                "You structure through disciplined mastery."
+            ]
+        },
+        "Saturn_Aquarius": {
+            "archetype": "The Innovator",
+            "element": "air",
+            "modality": "fixed",
+            "atoms": [
+                "You run revolutions with spreadsheets",
+                "Structure is how you protect humanity from itself",
+                "Progress must have scaffolding",
+                "You build structure with intellectual agility.",
+                "Your saturn energy maintains and persists.",
+                "Aquarius saturn creates a unique synthesis of aquarius and saturn energies.",
+                "The air fixed combination thinks deeply.",
+                "You structure with revolutionary vision."
+            ]
+        },
+        "Saturn_Pisces": {
+            "archetype": "The Mystic Anchor",
+            "element": "water",
+            "modality": "mutable",
+            "atoms": [
+                "You bind spiritual insight to practical duty",
+                "Compassion wears steel-toed boots",
+                "Dreams get deadlines on your watch",
+                "You build structure through emotional depth.",
+                "Your saturn energy adapts and flows.",
+                "Pisces saturn creates a unique synthesis of pisces and saturn energies.",
+                "The water mutable combination flows adaptively.",
+                "You structure through compassionate dissolution."
+            ]
+        },
+        "Uranus_Aries": {
+            "archetype": "Flashpoint Rebel",
+            "element": "fire",
+            "modality": "cardinal",
+            "atoms": [
+                "You detonate change like a chain reaction",
+                "Impulse is revelation",
+                "Systems adjust or crumble when you enter the room",
+                "You innovate systems with passionate immediacy.",
+                "Your uranus energy initiates and leads.",
+                "Aries uranus creates a unique synthesis of aries and uranus energies.",
+                "The fire cardinal combination ignites immediately.",
+                "You disrupt with immediate impact."
+            ]
+        },
+        "Uranus_Taurus": {
+            "archetype": "Seismic Gardener",
+            "element": "earth",
+            "modality": "fixed",
+            "atoms": [
+                "You terraform stability using shockwaves",
+                "Innovation grows slowly but permanently",
+                "Tradition survives only after renovation",
+                "You innovate systems through practical stability.",
+                "Your uranus energy maintains and persists.",
+                "Taurus uranus creates a unique synthesis of taurus and uranus energies.",
+                "The earth fixed combination builds persistently.",
+                "You disrupt through steady accumulation."
+            ]
+        },
+        "Uranus_Gemini": {
+            "archetype": "Quantum Messenger",
+            "element": "air",
+            "modality": "mutable",
+            "atoms": [
+                "You transmit ideas at lightning speed, splicing concepts mid-flight",
+                "Conversation becomes a lab experiment",
+                "Curiosity is your firmware",
+                "You innovate systems with intellectual agility.",
+                "Your uranus energy adapts and flows.",
+                "Gemini uranus creates a unique synthesis of gemini and uranus energies.",
+                "The air mutable combination communicates flexibly.",
+                "You disrupt with quick versatility."
+            ]
+        },
+        "Uranus_Cancer": {
+            "archetype": "Emotional Uprising",
+            "element": "water",
+            "modality": "cardinal",
+            "atoms": [
+                "You revolt through nurturing",
+                "Domestic life becomes a test lab for radical care",
+                "Intuition delivers disruptive downloads",
+                "You innovate systems through emotional depth.",
+                "Your uranus energy initiates and leads.",
+                "Cancer uranus creates a unique synthesis of cancer and uranus energies.",
+                "The water cardinal combination feels immediately.",
+                "You disrupt through emotional protection."
+            ]
+        },
+        "Uranus_Leo": {
+            "archetype": "Royal Hacker",
+            "element": "fire",
+            "modality": "fixed",
+            "atoms": [
+                "You rewrite the script by owning the stage",
+                "Creativity is your rebellion",
+                "Authenticity hits like a solar flare",
+                "You innovate systems with passionate immediacy.",
+                "Your uranus energy maintains and persists.",
+                "Leo uranus creates a unique synthesis of leo and uranus energies.",
+                "The fire fixed combination burns steadily.",
+                "You disrupt with dramatic confidence."
+            ]
+        },
+        "Uranus_Virgo": {
+            "archetype": "Precision Renegade",
+            "element": "earth",
+            "modality": "mutable",
+            "atoms": [
+                "You debug reality one flaw at a time",
+                "Revolution happens through improved efficiency",
+                "Chaos submits to your spreadsheets",
+                "You innovate systems through practical stability.",
+                "Your uranus energy adapts and flows.",
+                "Virgo uranus creates a unique synthesis of virgo and uranus energies.",
+                "The earth mutable combination adapts practically.",
+                "You disrupt through precise refinement."
+            ]
+        },
+        "Uranus_Libra": {
+            "archetype": "Equity Maverick",
+            "element": "air",
+            "modality": "cardinal",
+            "atoms": [
+                "You upend social constructs with elegance",
+                "Justice gets redesigned in real time",
+                "Charm masks the radical nature of your ideas",
+                "You innovate systems with intellectual agility.",
+                "Your uranus energy initiates and leads.",
+                "Libra uranus creates a unique synthesis of libra and uranus energies.",
+                "The air cardinal combination elevates quickly.",
+                "You disrupt with elegant balance."
+            ]
+        },
+        "Uranus_Scorpio": {
+            "archetype": "Psychic Disruptor",
+            "element": "water",
+            "modality": "fixed",
+            "atoms": [
+                "You hack the underworld and leak its source code",
+                "Transformation is non-negotiable",
+                "Secrets have expiration dates around you",
+                "You innovate systems through emotional depth.",
+                "Your uranus energy maintains and persists.",
+                "Scorpio uranus creates a unique synthesis of scorpio and uranus energies.",
+                "The water fixed combination emotes deeply.",
+                "You disrupt through intense transformation."
+            ]
+        },
+        "Uranus_Sagittarius": {
+            "archetype": "Myth Breaker",
+            "element": "fire",
+            "modality": "mutable",
+            "atoms": [
+                "You shatter dogma with neon flamethrowers of truth",
+                "Philosophies reboot when you touch them",
+                "Wanderlust doubles as a coup",
+                "You innovate systems with passionate immediacy.",
+                "Your uranus energy adapts and flows.",
+                "Sagittarius uranus creates a unique synthesis of sagittarius and uranus energies.",
+                "The fire mutable combination sparks adaptively.",
+                "You disrupt with philosophical breadth."
+            ]
+        },
+        "Uranus_Capricorn": {
+            "archetype": "System Architect",
+            "element": "earth",
+            "modality": "cardinal",
+            "atoms": [
+                "You innovate from within, flipping hierarchies using their own rules",
+                "Tradition only survives if it evolves",
+                "Authority meets its hacker",
+                "You innovate systems through practical stability.",
+                "Your uranus energy initiates and leads.",
+                "Capricorn uranus creates a unique synthesis of capricorn and uranus energies.",
+                "The earth cardinal combination grounds decisively.",
+                "You disrupt through disciplined mastery."
+            ]
+        },
+        "Uranus_Aquarius": {
+            "archetype": "Signal Generator",
+            "element": "air",
+            "modality": "fixed",
+            "atoms": [
+                "You embody the blueprint for the future",
+                "Detachment keeps your perspective uncorrupted",
+                "Revolution arrives as a push notification",
+                "You innovate systems with intellectual agility.",
+                "Your uranus energy maintains and persists.",
+                "Aquarius uranus creates a unique synthesis of aquarius and uranus energies.",
+                "The air fixed combination thinks deeply.",
+                "You disrupt with revolutionary vision."
+            ]
+        },
+        "Uranus_Pisces": {
+            "archetype": "Dream Hacker",
+            "element": "water",
+            "modality": "mutable",
+            "atoms": [
+                "You dissolve reality’s code and rewrite it with empathy",
+                "Boundaries glitch around your presence",
+                "Inspiration behaves like a virus you engineered",
+                "You innovate systems through emotional depth.",
+                "Your uranus energy adapts and flows.",
+                "Pisces uranus creates a unique synthesis of pisces and uranus energies.",
+                "The water mutable combination flows adaptively.",
+                "You disrupt through compassionate dissolution."
+            ]
+        },
+        "Neptune_Aries": {
+            "archetype": "Dream Warrior",
+            "element": "fire",
+            "modality": "cardinal",
+            "atoms": [
+                "You chase visions with a sword in hand",
+                "Inspiration strikes like lightning and expects immediate action",
+                "Mysticism feels more real once you set it on fire",
+                "You dream visions with passionate immediacy.",
+                "Your neptune energy initiates and leads.",
+                "Aries neptune creates a unique synthesis of aries and neptune energies.",
+                "The fire cardinal combination ignites immediately.",
+                "You dream with immediate impact."
+            ]
+        },
+        "Neptune_Taurus": {
+            "archetype": "Velvet Oracle",
+            "element": "earth",
+            "modality": "fixed",
+            "atoms": [
+                "You manifest dreams through texture, ritual, and slow devotion",
+                "Spirituality must be touchable",
+                "Fantasy gets upholstered in luxury",
+                "You dream visions through practical stability.",
+                "Your neptune energy maintains and persists.",
+                "Taurus neptune creates a unique synthesis of taurus and neptune energies.",
+                "The earth fixed combination builds persistently.",
+                "You dream through steady accumulation."
+            ]
+        },
+        "Neptune_Gemini": {
+            "archetype": "Mercurial Muse",
+            "element": "air",
+            "modality": "mutable",
+            "atoms": [
+                "You speak in riddles that somehow decode reality",
+                "Imagination flickers across every conversation",
+                "Truth arrives disguised as gossip",
+                "You dream visions with intellectual agility.",
+                "Your neptune energy adapts and flows.",
+                "Gemini neptune creates a unique synthesis of gemini and neptune energies.",
+                "The air mutable combination communicates flexibly.",
+                "You dream with quick versatility."
+            ]
+        },
+        "Neptune_Cancer": {
+            "archetype": "Moonlit Medium",
+            "element": "water",
+            "modality": "cardinal",
+            "atoms": [
+                "Feelings and visions blend until you can’t tell who cried first",
+                "Intuition guides every instinct",
+                "Home becomes your chapel of wonder",
+                "You dream visions through emotional depth.",
+                "Your neptune energy initiates and leads.",
+                "Cancer neptune creates a unique synthesis of cancer and neptune energies.",
+                "The water cardinal combination feels immediately.",
+                "You dream through emotional protection."
+            ]
+        },
+        "Neptune_Leo": {
+            "archetype": "Solar Prophet",
+            "element": "fire",
+            "modality": "fixed",
+            "atoms": [
+                "You dramatize the divine until everyone pays attention",
+                "Creativity is your altar",
+                "Faith looks like a spotlight you willingly step into",
+                "You dream visions with passionate immediacy.",
+                "Your neptune energy maintains and persists.",
+                "Leo neptune creates a unique synthesis of leo and neptune energies.",
+                "The fire fixed combination burns steadily.",
+                "You dream with dramatic confidence."
+            ]
+        },
+        "Neptune_Virgo": {
+            "archetype": "Sacred Analyst",
+            "element": "earth",
+            "modality": "mutable",
+            "atoms": [
+                "You translate dreams into blueprints",
+                "Practical magic is your specialty",
+                "Miracles get documented and iterated",
+                "You dream visions through practical stability.",
+                "Your neptune energy adapts and flows.",
+                "Virgo neptune creates a unique synthesis of virgo and neptune energies.",
+                "The earth mutable combination adapts practically.",
+                "You dream through precise refinement."
+            ]
+        },
+        "Neptune_Libra": {
+            "archetype": "Aesthetic Mystic",
+            "element": "air",
+            "modality": "cardinal",
+            "atoms": [
+                "Beauty opens your third eye",
+                "Harmony is a spiritual practice, not a compromise",
+                "Relationships become portals to alternate realities",
+                "You dream visions with intellectual agility.",
+                "Your neptune energy initiates and leads.",
+                "Libra neptune creates a unique synthesis of libra and neptune energies.",
+                "The air cardinal combination elevates quickly.",
+                "You dream with elegant balance."
+            ]
+        },
+        "Neptune_Scorpio": {
+            "archetype": "Shadow Visionary",
+            "element": "water",
+            "modality": "fixed",
+            "atoms": [
+                "You dive into psychic trenches and bring back alchemical truths",
+                "Intensity fuels your intuition",
+                "Transformation lives on your tongue",
+                "You dream visions through emotional depth.",
+                "Your neptune energy maintains and persists.",
+                "Scorpio neptune creates a unique synthesis of scorpio and neptune energies.",
+                "The water fixed combination emotes deeply.",
+                "You dream through intense transformation."
+            ]
+        },
+        "Neptune_Sagittarius": {
+            "archetype": "Nomadic Oracle",
+            "element": "fire",
+            "modality": "mutable",
+            "atoms": [
+                "You follow vision quests across continents and philosophies",
+                "Faith must stay mobile",
+                "Synchronicities hitchhike in your wake",
+                "You dream visions with passionate immediacy.",
+                "Your neptune energy adapts and flows.",
+                "Sagittarius neptune creates a unique synthesis of sagittarius and neptune energies.",
+                "The fire mutable combination sparks adaptively.",
+                "You dream with philosophical breadth."
+            ]
+        },
+        "Neptune_Capricorn": {
+            "archetype": "Mythic Architect",
+            "element": "earth",
+            "modality": "cardinal",
+            "atoms": [
+                "You lay foundations for dreams to survive harsh climates",
+                "Discipline makes the impossible practical",
+                "Destiny listens when you draft timelines",
+                "You dream visions through practical stability.",
+                "Your neptune energy initiates and leads.",
+                "Capricorn neptune creates a unique synthesis of capricorn and neptune energies.",
+                "The earth cardinal combination grounds decisively.",
+                "You dream through disciplined mastery."
+            ]
+        },
+        "Neptune_Aquarius": {
+            "archetype": "Signal Dreamer",
+            "element": "air",
+            "modality": "fixed",
+            "atoms": [
+                "You channel collective futures before they trend",
+                "Detachment keeps your downloads clear",
+                "Visionary blueprints come with upgrade instructions",
+                "You dream visions with intellectual agility.",
+                "Your neptune energy maintains and persists.",
+                "Aquarius neptune creates a unique synthesis of aquarius and neptune energies.",
+                "The air fixed combination thinks deeply.",
+                "You dream with revolutionary vision."
+            ]
+        },
+        "Neptune_Pisces": {
+            "archetype": "Oceanic Sage",
+            "element": "water",
+            "modality": "mutable",
+            "atoms": [
+                "You dissolve into universal tides and resurface with compassion",
+                "Boundaries blur into love letters",
+                "Reality softens under your gaze",
+                "You dream visions through emotional depth.",
+                "Your neptune energy adapts and flows.",
+                "Pisces neptune creates a unique synthesis of pisces and neptune energies.",
+                "The water mutable combination flows adaptively.",
+                "You dream through compassionate dissolution."
+            ]
+        },
+        "Pluto_Aries": {
+            "archetype": "Combustion Forge",
+            "element": "fire",
+            "modality": "cardinal",
+            "atoms": [
+                "You reinvent yourself through scorched-earth beginnings",
+                "Power arrives when you dare first and ask later",
+                "Conflict is your preferred catalyst",
+                "You transform power with passionate immediacy.",
+                "Your pluto energy initiates and leads.",
+                "Aries pluto creates a unique synthesis of aries and pluto energies.",
+                "The fire cardinal combination ignites immediately.",
+                "You transform with immediate impact."
+            ]
+        },
+        "Pluto_Taurus": {
+            "archetype": "Obsidian Root",
+            "element": "earth",
+            "modality": "fixed",
+            "atoms": [
+                "You transform through unshakable possession and letting go",
+                "Resources become talismans",
+                "Control is reclaimed by outlasting everything",
+                "You transform power through practical stability.",
+                "Your pluto energy maintains and persists.",
+                "Taurus pluto creates a unique synthesis of taurus and pluto energies.",
+                "The earth fixed combination builds persistently.",
+                "You transform through steady accumulation."
+            ]
+        },
+        "Pluto_Gemini": {
+            "archetype": "Cipher Breaker",
+            "element": "air",
+            "modality": "mutable",
+            "atoms": [
+                "You weaponize information to expose what’s rotten",
+                "Conversations become interrogations",
+                "Curiosity digs graves for old lies",
+                "You transform power with intellectual agility.",
+                "Your pluto energy adapts and flows.",
+                "Gemini pluto creates a unique synthesis of gemini and pluto energies.",
+                "The air mutable combination communicates flexibly.",
+                "You transform with quick versatility."
+            ]
+        },
+        "Pluto_Cancer": {
+            "archetype": "Ancestral Phoenix",
+            "element": "water",
+            "modality": "cardinal",
+            "atoms": [
+                "You rebuild emotional empires from ashes",
+                "Family karma bows to your resilience",
+                "Vulnerability becomes a sharpened tool",
+                "You transform power through emotional depth.",
+                "Your pluto energy initiates and leads.",
+                "Cancer pluto creates a unique synthesis of cancer and pluto energies.",
+                "The water cardinal combination feels immediately.",
+                "You transform through emotional protection."
+            ]
+        },
+        "Pluto_Leo": {
+            "archetype": "Solar Dominion",
+            "element": "fire",
+            "modality": "fixed",
+            "atoms": [
+                "You transmute ego into sovereignty",
+                "Power radiates when you embrace radical authenticity",
+                "Attention is your chosen crucible",
+                "You transform power with passionate immediacy.",
+                "Your pluto energy maintains and persists.",
+                "Leo pluto creates a unique synthesis of leo and pluto energies.",
+                "The fire fixed combination burns steadily.",
+                "You transform with dramatic confidence."
+            ]
+        },
+        "Pluto_Virgo": {
+            "archetype": "Purification Engine",
+            "element": "earth",
+            "modality": "mutable",
+            "atoms": [
+                "You dismantle dysfunction with surgical precision",
+                "Transformation happens one system at a time",
+                "Control thrives in the details",
+                "You transform power through practical stability.",
+                "Your pluto energy adapts and flows.",
+                "Virgo pluto creates a unique synthesis of virgo and pluto energies.",
+                "The earth mutable combination adapts practically.",
+                "You transform through precise refinement."
+            ]
+        },
+        "Pluto_Libra": {
+            "archetype": "Balance Reforged",
+            "element": "air",
+            "modality": "cardinal",
+            "atoms": [
+                "You expose the shadow contracts behind every partnership",
+                "Justice demands intensity",
+                "Harmony can’t exist without truth",
+                "You transform power with intellectual agility.",
+                "Your pluto energy initiates and leads.",
+                "Libra pluto creates a unique synthesis of libra and pluto energies.",
+                "The air cardinal combination elevates quickly.",
+                "You transform with elegant balance."
+            ]
+        },
+        "Pluto_Scorpio": {
+            "archetype": "Underworld Monarch",
+            "element": "water",
+            "modality": "fixed",
+            "atoms": [
+                "You embody metamorphosis itself",
+                "Secrets kneel or combust",
+                "Power feels natural because you earned it in the dark",
+                "You transform power through emotional depth.",
+                "Your pluto energy maintains and persists.",
+                "Scorpio pluto creates a unique synthesis of scorpio and pluto energies.",
+                "The water fixed combination emotes deeply.",
+                "You transform through intense transformation."
+            ]
+        },
+        "Pluto_Sagittarius": {
+            "archetype": "Dogma Burner",
+            "element": "fire",
+            "modality": "mutable",
+            "atoms": [
+                "You incinerate outdated beliefs and preach rebirth",
+                "Truth is a weapon you wield globally",
+                "Expansion requires total surrender",
+                "You transform power with passionate immediacy.",
+                "Your pluto energy adapts and flows.",
+                "Sagittarius pluto creates a unique synthesis of sagittarius and pluto energies.",
+                "The fire mutable combination sparks adaptively.",
+                "You transform with philosophical breadth."
+            ]
+        },
+        "Pluto_Capricorn": {
+            "archetype": "Empire Reclaimer",
+            "element": "earth",
+            "modality": "cardinal",
+            "atoms": [
+                "You dismantle corrupt structures and rebuild them with iron ethics",
+                "Authority is your surgical field",
+                "Legacy is a controlled detonation",
+                "You transform power through practical stability.",
+                "Your pluto energy initiates and leads.",
+                "Capricorn pluto creates a unique synthesis of capricorn and pluto energies.",
+                "The earth cardinal combination grounds decisively.",
+                "You transform through disciplined mastery."
+            ]
+        },
+        "Pluto_Aquarius": {
+            "archetype": "Revolt Catalyst",
+            "element": "air",
+            "modality": "fixed",
+            "atoms": [
+                "You mutate society through radical blueprints",
+                "Collective power surges when you flip the grid",
+                "Detachment helps you pull big levers",
+                "You transform power with intellectual agility.",
+                "Your pluto energy maintains and persists.",
+                "Aquarius pluto creates a unique synthesis of aquarius and pluto energies.",
+                "The air fixed combination thinks deeply.",
+                "You transform with revolutionary vision."
+            ]
+        },
+        "Pluto_Pisces": {
+            "archetype": "Abyss Weaver",
+            "element": "water",
+            "modality": "mutable",
+            "atoms": [
+                "You dissolve power structures in oceans of empathy",
+                "Surrender becomes alchemy",
+                "Spirituality is your pressure cooker",
+                "You transform power through emotional depth.",
+                "Your pluto energy adapts and flows.",
+                "Pisces pluto creates a unique synthesis of pisces and pluto energies.",
+                "The water mutable combination flows adaptively.",
+                "You transform through compassionate dissolution."
+            ]
+        }
+    }
+}

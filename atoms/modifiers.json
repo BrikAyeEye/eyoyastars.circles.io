@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "type": "modifiers",
+        "description": "Atoms for Modifiers (Elements, Modalities, Aspects)"
+    },
+    "modifiers": {
+        "elements": {
+            "fire_high": [
+                "Your chart burns with excess heat, leading to burnout.",
+                "Impulse control is not your strong suit.",
+                "You initiate faster than you can sustain."
+            ],
+            "earth_low": [
+                "You struggle to bring your ideas down to reality.",
+                "Practical details feel like a cage to you.",
+                "Grounding is a skill you have to manually learn."
+            ]
+        },
+        "modalities": {
+            "fixed_high": [
+                "Once you decide, God himself couldn't move you.",
+                "Change feels like a personal attack.",
+                "You are the anchor in every storm."
+            ]
+        },
+        "aspect_archetypes": {
+            "Sun_Moon_Hard": [
+                "Your head and heart are in a constant civil war.",
+                "What you want and what you need are rarely the same thing.",
+                "You shine brightest when you resolve your inner tension."
+            ],
+            "Venus_Mars_Soft": [
+                "Charm and action flow together effortlessly.",
+                "You go after what you want with irresistible grace.",
+                "Creativity is your natural state of being."
+            ]
+        }
+    }
+}

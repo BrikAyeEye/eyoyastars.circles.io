@@ -1,0 +1,6242 @@
+=== ALL BOOM SCREEN SENTENCES (2080 total) ===
+
+[Sun_square_House_1]
+You are A HERO who overcomes CONFLICT to claim YOURSELF.
+
+[Sun_square_House_2]
+You are A HERO who overcomes CONFLICT to build VALUE.
+
+[Sun_square_House_3]
+You are A HERO who overcomes CONFLICT to find YOUR VOICE.
+
+[Sun_square_House_4]
+You are A HERO who overcomes CONFLICT to secure FOUNDATION.
+
+[Sun_square_House_5]
+You are A HERO who overcomes CONFLICT to manifest JOY.
+
+[Sun_square_House_6]
+You are A HERO who overcomes CONFLICT to perfect YOUR CRAFT.
+
+[Sun_square_House_7]
+You are A HERO who overcomes CONFLICT to forge CONNECTION.
+
+[Sun_square_House_8]
+You are A HERO who overcomes CONFLICT to embrace TRANSFORMATION.
+
+[Sun_square_House_9]
+You are A HERO who overcomes CONFLICT to discover TRUTH.
+
+[Sun_square_House_10]
+You are A HERO who overcomes CONFLICT to build A LEGACY.
+
+[Sun_square_House_11]
+You are A HERO who overcomes CONFLICT to manifest YOUR VISION.
+
+[Sun_square_House_12]
+You are A HERO who overcomes CONFLICT to find PEACE.
+
+[Sun_square_NorthNode]
+You are A HERO who overcomes CONFLICT to fulfill THE CALL OF DESTINY.
+
+[Sun_opposition_House_1]
+You are A HERO who overcomes RESISTANCE to claim YOURSELF.
+
+[Sun_opposition_House_2]
+You are A HERO who overcomes RESISTANCE to build VALUE.
+
+[Sun_opposition_House_3]
+You are A HERO who overcomes RESISTANCE to find YOUR VOICE.
+
+[Sun_opposition_House_4]
+You are A HERO who overcomes RESISTANCE to secure FOUNDATION.
+
+[Sun_opposition_House_5]
+You are A HERO who overcomes RESISTANCE to manifest JOY.
+
+[Sun_opposition_House_6]
+You are A HERO who overcomes RESISTANCE to perfect YOUR CRAFT.
+
+[Sun_opposition_House_7]
+You are A HERO who overcomes RESISTANCE to forge CONNECTION AND MEANING.
+
+[Sun_opposition_House_8]
+You are A HERO who overcomes RESISTANCE to embrace TRANSFORMATION.
+
+[Sun_opposition_House_9]
+You are A HERO who overcomes RESISTANCE to discover TRUTH.
+
+[Sun_opposition_House_10]
+You are A HERO who overcomes RESISTANCE to build A LEGACY.
+
+[Sun_opposition_House_11]
+You are A HERO who overcomes RESISTANCE to manifest YOUR VISION.
+
+[Sun_opposition_House_12]
+You are A HERO who overcomes RESISTANCE to find PEACE.
+
+[Sun_opposition_NorthNode]
+You are A HERO who overcomes RESISTANCE to fulfill THE CALL OF DESTINY.
+
+[Sun_Saturn_House_1]
+You are A HERO who breaks through RESTRICTION to claim YOURSELF.
+
+[Sun_Saturn_House_2]
+You are A HERO who breaks through RESTRICTION to build VALUE.
+
+[Sun_Saturn_House_3]
+You are A HERO who breaks through RESTRICTION to find YOUR VOICE.
+
+[Sun_Saturn_House_4]
+You are A HERO who breaks through RESTRICTION to secure FOUNDATION.
+
+[Sun_Saturn_House_5]
+You are A HERO who breaks through RESTRICTION to manifest JOY.
+
+[Sun_Saturn_House_6]
+You are A HERO who breaks through RESTRICTION to perfect YOUR CRAFT.
+
+[Sun_Saturn_House_7]
+You are A HERO who breaks through RESTRICTION to forge CONNECTION.
+
+[Sun_Saturn_House_8]
+You are A HERO who breaks through RESTRICTION to embrace TRANSFORMATION.
+
+[Sun_Saturn_House_9]
+You are A HERO who breaks through RESTRICTION to discover TRUTH.
+
+[Sun_Saturn_House_10]
+You are A HERO who breaks through RESTRICTION to build A LEGACY.
+
+[Sun_Saturn_House_11]
+You are A HERO who breaks through RESTRICTION to manifest YOUR VISION.
+
+[Sun_Saturn_House_12]
+You are A HERO who breaks through RESTRICTION to find PEACE.
+
+[Sun_Saturn_NorthNode]
+You are A HERO who breaks through RESTRICTION to fulfill THE CALL OF DESTINY.
+
+[Sun_Neptune_House_1]
+You are A HERO who parts THE FOG to claim YOURSELF.
+
+[Sun_Neptune_House_2]
+You are A HERO who parts THE FOG to build VALUE.
+
+[Sun_Neptune_House_3]
+You are A HERO who parts THE FOG to find YOUR VOICE.
+
+[Sun_Neptune_House_4]
+You are A HERO who parts THE FOG to secure FOUNDATION.
+
+[Sun_Neptune_House_5]
+You are A HERO who parts THE FOG to manifest JOY.
+
+[Sun_Neptune_House_6]
+You are A HERO who parts THE FOG to perfect YOUR CRAFT.
+
+[Sun_Neptune_House_7]
+You are A HERO who parts THE FOG to forge CONNECTION AND MEANING.
+
+[Sun_Neptune_House_8]
+You are A HERO who parts THE FOG to embrace TRANSFORMATION.
+
+[Sun_Neptune_House_9]
+You are A HERO who parts THE FOG to discover TRUTH.
+
+[Sun_Neptune_House_10]
+You are A HERO who parts THE FOG to build A LEGACY.
+
+[Sun_Neptune_House_11]
+You are A HERO who parts THE FOG to manifest YOUR VISION.
+
+[Sun_Neptune_House_12]
+You are A HERO who parts THE FOG to find PEACE.
+
+[Sun_Neptune_NorthNode]
+You are A HERO who parts THE FOG to fulfill THE CALL OF DESTINY.
+
+[Sun_Pluto_House_1]
+You are A HERO who transforms DESTRUCTION to claim YOURSELF.
+
+[Sun_Pluto_House_2]
+You are A HERO who transforms DESTRUCTION to build VALUE.
+
+[Sun_Pluto_House_3]
+You are A HERO who transforms DESTRUCTION to find YOUR VOICE.
+
+[Sun_Pluto_House_4]
+You are A HERO who transforms DESTRUCTION to secure FOUNDATION.
+
+[Sun_Pluto_House_5]
+You are A HERO who transforms DESTRUCTION to manifest JOY.
+
+[Sun_Pluto_House_6]
+You are A HERO who transforms DESTRUCTION to perfect YOUR CRAFT.
+
+[Sun_Pluto_House_7]
+You are A HERO who transforms DESTRUCTION to forge CONNECTION.
+
+[Sun_Pluto_House_8]
+You are A HERO who transforms DESTRUCTION to embrace TRANSFORMATION.
+
+[Sun_Pluto_House_9]
+You are A HERO who transforms DESTRUCTION to discover TRUTH.
+
+[Sun_Pluto_House_10]
+You are A HERO who transforms DESTRUCTION to build A LEGACY.
+
+[Sun_Pluto_House_11]
+You are A HERO who transforms DESTRUCTION to manifest YOUR VISION.
+
+[Sun_Pluto_House_12]
+You are A HERO who transforms DESTRUCTION to find PEACE.
+
+[Sun_Pluto_NorthNode]
+You are A HERO who transforms DESTRUCTION to fulfill THE CALL OF DESTINY.
+
+[Sun_Mars_House_1]
+You are A HERO who transforms BURNOUT to claim YOURSELF.
+
+[Sun_Mars_House_2]
+You are A HERO who transforms BURNOUT to build VALUE.
+
+[Sun_Mars_House_3]
+You are A HERO who transforms BURNOUT to find YOUR VOICE.
+
+[Sun_Mars_House_4]
+You are A HERO who transforms BURNOUT to secure FOUNDATION.
+
+[Sun_Mars_House_5]
+You are A HERO who transforms BURNOUT to manifest JOY.
+
+[Sun_Mars_House_6]
+You are A HERO who transforms BURNOUT to perfect YOUR CRAFT.
+
+[Sun_Mars_House_7]
+You are A HERO who transforms BURNOUT to forge CONNECTION.
+
+[Sun_Mars_House_8]
+You are A HERO who transforms BURNOUT to embrace TRANSFORMATION.
+
+[Sun_Mars_House_9]
+You are A HERO who transforms BURNOUT to discover TRUTH.
+
+[Sun_Mars_House_10]
+You are A HERO who transforms BURNOUT to build A LEGACY.
+
+[Sun_Mars_House_11]
+You are A HERO who transforms BURNOUT to manifest YOUR VISION.
+
+[Sun_Mars_House_12]
+You are A HERO who transforms BURNOUT to find PEACE.
+
+[Sun_Mars_NorthNode]
+You are A HERO who transforms BURNOUT to fulfill THE CALL OF DESTINY.
+
+[Sun_Uranus_House_1]
+You are A HERO who channels CHAOS to claim YOURSELF.
+
+[Sun_Uranus_House_2]
+You are A HERO who channels CHAOS to build VALUE.
+
+[Sun_Uranus_House_3]
+You are A HERO who channels CHAOS to find YOUR VOICE.
+
+[Sun_Uranus_House_4]
+You are A HERO who channels CHAOS to secure FOUNDATION.
+
+[Sun_Uranus_House_5]
+You are A HERO who channels CHAOS to manifest JOY.
+
+[Sun_Uranus_House_6]
+You are A HERO who channels CHAOS to perfect YOUR CRAFT.
+
+[Sun_Uranus_House_7]
+You are A HERO who channels CHAOS to forge CONNECTION.
+
+[Sun_Uranus_House_8]
+You are A HERO who channels CHAOS to embrace TRANSFORMATION.
+
+[Sun_Uranus_House_9]
+You are A HERO who channels CHAOS to discover TRUTH.
+
+[Sun_Uranus_House_10]
+You are A HERO who channels CHAOS to build A LEGACY.
+
+[Sun_Uranus_House_11]
+You are A HERO who channels CHAOS to manifest YOUR VISION.
+
+[Sun_Uranus_House_12]
+You are A HERO who channels CHAOS to find PEACE.
+
+[Sun_Uranus_NorthNode]
+You are A HERO who channels CHAOS to fulfill THE CALL OF DESTINY.
+
+[Sun_House_12_House_1]
+You are A HERO who illuminates THE UNCONSCIOUS to claim YOURSELF.
+
+[Sun_House_12_House_2]
+You are A HERO who illuminates THE UNCONSCIOUS to build VALUE.
+
+[Sun_House_12_House_3]
+You are A HERO who illuminates THE UNCONSCIOUS to find YOUR VOICE.
+
+[Sun_House_12_House_4]
+You are A HERO who illuminates THE UNCONSCIOUS to secure FOUNDATION.
+
+[Sun_House_12_House_5]
+You are A HERO who illuminates THE UNCONSCIOUS to manifest JOY.
+
+[Sun_House_12_House_6]
+You are A HERO who illuminates THE UNCONSCIOUS to perfect YOUR CRAFT.
+
+[Sun_House_12_House_7]
+You are A HERO who illuminates THE UNCONSCIOUS to forge CONNECTION.
+
+[Sun_House_12_House_8]
+You are A HERO who illuminates THE UNCONSCIOUS to embrace TRANSFORMATION.
+
+[Sun_House_12_House_9]
+You are A HERO who illuminates THE UNCONSCIOUS to discover TRUTH.
+
+[Sun_House_12_House_10]
+You are A HERO who illuminates THE UNCONSCIOUS to build A LEGACY.
+
+[Sun_House_12_House_11]
+You are A HERO who illuminates THE UNCONSCIOUS to manifest YOUR VISION.
+
+[Sun_House_12_House_12]
+You are A HERO who illuminates THE UNCONSCIOUS to find PEACE.
+
+[Sun_House_12_NorthNode]
+You are A HERO who illuminates THE UNCONSCIOUS to fulfill THE CALL OF DESTINY.
+
+[Moon_square_House_1]
+You are A SOUL who overcomes CONFLICT to claim YOURSELF.
+
+[Moon_square_House_2]
+You are A SOUL who overcomes CONFLICT to build VALUE.
+
+[Moon_square_House_3]
+You are A SOUL who overcomes CONFLICT to find YOUR VOICE.
+
+[Moon_square_House_4]
+You are A SOUL who overcomes CONFLICT to secure FOUNDATION.
+
+[Moon_square_House_5]
+You are A SOUL who overcomes CONFLICT to manifest A MASTERPIECE.
+
+[Moon_square_House_6]
+You are A SOUL who overcomes CONFLICT to perfect YOUR CRAFT.
+
+[Moon_square_House_7]
+You are A SOUL who overcomes CONFLICT to forge CONNECTION.
+
+[Moon_square_House_8]
+You are A SOUL who overcomes CONFLICT to embrace TRANSFORMATION.
+
+[Moon_square_House_9]
+You are A SOUL who overcomes CONFLICT to discover TRUTH.
+
+[Moon_square_House_10]
+You are A SOUL who overcomes CONFLICT to build A LEGACY.
+
+[Moon_square_House_11]
+You are A SOUL who overcomes CONFLICT to manifest YOUR VISION.
+
+[Moon_square_House_12]
+You are A SOUL who overcomes CONFLICT to find PEACE.
+
+[Moon_square_NorthNode]
+You are A SOUL who overcomes CONFLICT to fulfill THE CALL OF DESTINY.
+
+[Moon_opposition_House_1]
+You are A SOUL who overcomes RESISTANCE to claim YOURSELF.
+
+[Moon_opposition_House_2]
+You are A SOUL who overcomes RESISTANCE to build VALUE.
+
+[Moon_opposition_House_3]
+You are A SOUL who overcomes RESISTANCE to find YOUR VOICE.
+
+[Moon_opposition_House_4]
+You are A SOUL who overcomes RESISTANCE to secure FOUNDATION.
+
+[Moon_opposition_House_5]
+You are A SOUL who overcomes RESISTANCE to manifest A MASTERPIECE.
+
+[Moon_opposition_House_6]
+You are A SOUL who overcomes RESISTANCE to perfect YOUR CRAFT.
+
+[Moon_opposition_House_7]
+You are A SOUL who overcomes RESISTANCE to forge CONNECTION AND MEANING.
+
+[Moon_opposition_House_8]
+You are A SOUL who overcomes RESISTANCE to embrace TRANSFORMATION.
+
+[Moon_opposition_House_9]
+You are A SOUL who overcomes RESISTANCE to discover TRUTH.
+
+[Moon_opposition_House_10]
+You are A SOUL who overcomes RESISTANCE to build A LEGACY.
+
+[Moon_opposition_House_11]
+You are A SOUL who overcomes RESISTANCE to manifest YOUR VISION.
+
+[Moon_opposition_House_12]
+You are A SOUL who overcomes RESISTANCE to find PEACE.
+
+[Moon_opposition_NorthNode]
+You are A SOUL who overcomes RESISTANCE to fulfill THE CALL OF DESTINY.
+
+[Moon_Saturn_House_1]
+You are A SOUL who breaks through RESTRICTION to claim YOURSELF.
+
+[Moon_Saturn_House_2]
+You are A SOUL who breaks through RESTRICTION to build VALUE.
+
+[Moon_Saturn_House_3]
+You are A SOUL who breaks through RESTRICTION to find YOUR VOICE.
+
+[Moon_Saturn_House_4]
+You are A SOUL who breaks through RESTRICTION to secure FOUNDATION.
+
+[Moon_Saturn_House_5]
+You are A SOUL who breaks through RESTRICTION to manifest A MASTERPIECE.
+
+[Moon_Saturn_House_6]
+You are A SOUL who breaks through RESTRICTION to perfect YOUR CRAFT.
+
+[Moon_Saturn_House_7]
+You are A SOUL who breaks through RESTRICTION to forge CONNECTION.
+
+[Moon_Saturn_House_8]
+You are A SOUL who breaks through RESTRICTION to embrace TRANSFORMATION.
+
+[Moon_Saturn_House_9]
+You are A SOUL who breaks through RESTRICTION to discover TRUTH.
+
+[Moon_Saturn_House_10]
+You are A SOUL who breaks through RESTRICTION to build A LEGACY.
+
+[Moon_Saturn_House_11]
+You are A SOUL who breaks through RESTRICTION to manifest YOUR VISION.
+
+[Moon_Saturn_House_12]
+You are A SOUL who breaks through RESTRICTION to find PEACE.
+
+[Moon_Saturn_NorthNode]
+You are A SOUL who breaks through RESTRICTION to fulfill THE CALL OF DESTINY.
+
+[Moon_Neptune_House_1]
+You are A SOUL who parts THE FOG to claim YOURSELF.
+
+[Moon_Neptune_House_2]
+You are A SOUL who parts THE FOG to build VALUE.
+
+[Moon_Neptune_House_3]
+You are A SOUL who parts THE FOG to find YOUR VOICE.
+
+[Moon_Neptune_House_4]
+You are A SOUL who parts THE FOG to secure FOUNDATION.
+
+[Moon_Neptune_House_5]
+You are A SOUL who parts THE FOG to manifest A MASTERPIECE.
+
+[Moon_Neptune_House_6]
+You are A SOUL who parts THE FOG to perfect YOUR CRAFT.
+
+[Moon_Neptune_House_7]
+You are A SOUL who parts THE FOG to forge CONNECTION AND MEANING.
+
+[Moon_Neptune_House_8]
+You are A SOUL who parts THE FOG to embrace TRANSFORMATION.
+
+[Moon_Neptune_House_9]
+You are A SOUL who parts THE FOG to discover TRUTH.
+
+[Moon_Neptune_House_10]
+You are A SOUL who parts THE FOG to build A LEGACY.
+
+[Moon_Neptune_House_11]
+You are A SOUL who parts THE FOG to manifest YOUR VISION.
+
+[Moon_Neptune_House_12]
+You are A SOUL who parts THE FOG to find PEACE.
+
+[Moon_Neptune_NorthNode]
+You are A SOUL who parts THE FOG to fulfill THE CALL OF DESTINY.
+
+[Moon_Pluto_House_1]
+You are A SOUL who transforms DESTRUCTION to claim YOURSELF.
+
+[Moon_Pluto_House_2]
+You are A SOUL who transforms DESTRUCTION to build VALUE.
+
+[Moon_Pluto_House_3]
+You are A SOUL who transforms DESTRUCTION to find YOUR VOICE.
+
+[Moon_Pluto_House_4]
+You are A SOUL who transforms DESTRUCTION to secure FOUNDATION.
+
+[Moon_Pluto_House_5]
+You are A SOUL who transforms DESTRUCTION to manifest A MASTERPIECE.
+
+[Moon_Pluto_House_6]
+You are A SOUL who transforms DESTRUCTION to perfect YOUR CRAFT.
+
+[Moon_Pluto_House_7]
+You are A SOUL who transforms DESTRUCTION to forge CONNECTION.
+
+[Moon_Pluto_House_8]
+You are A SOUL who transforms DESTRUCTION to embrace TRANSFORMATION.
+
+[Moon_Pluto_House_9]
+You are A SOUL who transforms DESTRUCTION to discover TRUTH.
+
+[Moon_Pluto_House_10]
+You are A SOUL who transforms DESTRUCTION to build A LEGACY.
+
+[Moon_Pluto_House_11]
+You are A SOUL who transforms DESTRUCTION to manifest YOUR VISION.
+
+[Moon_Pluto_House_12]
+You are A SOUL who transforms DESTRUCTION to find PEACE.
+
+[Moon_Pluto_NorthNode]
+You are A SOUL who transforms DESTRUCTION to fulfill THE CALL OF DESTINY.
+
+[Moon_Mars_House_1]
+You are A SOUL who transforms BURNOUT to claim YOURSELF.
+
+[Moon_Mars_House_2]
+You are A SOUL who transforms BURNOUT to build VALUE.
+
+[Moon_Mars_House_3]
+You are A SOUL who transforms BURNOUT to find YOUR VOICE.
+
+[Moon_Mars_House_4]
+You are A SOUL who transforms BURNOUT to secure FOUNDATION.
+
+[Moon_Mars_House_5]
+You are A SOUL who transforms BURNOUT to manifest A MASTERPIECE.
+
+[Moon_Mars_House_6]
+You are A SOUL who transforms BURNOUT to perfect YOUR CRAFT.
+
+[Moon_Mars_House_7]
+You are A SOUL who transforms BURNOUT to forge CONNECTION.
+
+[Moon_Mars_House_8]
+You are A SOUL who transforms BURNOUT to embrace TRANSFORMATION.
+
+[Moon_Mars_House_9]
+You are A SOUL who transforms BURNOUT to discover TRUTH.
+
+[Moon_Mars_House_10]
+You are A SOUL who transforms BURNOUT to build A LEGACY.
+
+[Moon_Mars_House_11]
+You are A SOUL who transforms BURNOUT to manifest YOUR VISION.
+
+[Moon_Mars_House_12]
+You are A SOUL who transforms BURNOUT to find PEACE.
+
+[Moon_Mars_NorthNode]
+You are A SOUL who transforms BURNOUT to fulfill THE CALL OF DESTINY.
+
+[Moon_Uranus_House_1]
+You are A SOUL who channels CHAOS to claim YOURSELF.
+
+[Moon_Uranus_House_2]
+You are A SOUL who channels CHAOS to build VALUE.
+
+[Moon_Uranus_House_3]
+You are A SOUL who channels CHAOS to find YOUR VOICE.
+
+[Moon_Uranus_House_4]
+You are A SOUL who channels CHAOS to secure FOUNDATION.
+
+[Moon_Uranus_House_5]
+You are A SOUL who channels CHAOS to manifest A MASTERPIECE.
+
+[Moon_Uranus_House_6]
+You are A SOUL who channels CHAOS to perfect YOUR CRAFT.
+
+[Moon_Uranus_House_7]
+You are A SOUL who channels CHAOS to forge CONNECTION.
+
+[Moon_Uranus_House_8]
+You are A SOUL who channels CHAOS to embrace TRANSFORMATION.
+
+[Moon_Uranus_House_9]
+You are A SOUL who channels CHAOS to discover TRUTH.
+
+[Moon_Uranus_House_10]
+You are A SOUL who channels CHAOS to build A LEGACY.
+
+[Moon_Uranus_House_11]
+You are A SOUL who channels CHAOS to manifest YOUR VISION.
+
+[Moon_Uranus_House_12]
+You are A SOUL who channels CHAOS to find PEACE.
+
+[Moon_Uranus_NorthNode]
+You are A SOUL who channels CHAOS to fulfill THE CALL OF DESTINY.
+
+[Moon_House_12_House_1]
+You are A SOUL who illuminates THE UNCONSCIOUS to claim YOURSELF.
+
+[Moon_House_12_House_2]
+You are A SOUL who illuminates THE UNCONSCIOUS to build VALUE.
+
+[Moon_House_12_House_3]
+You are A SOUL who illuminates THE UNCONSCIOUS to find YOUR VOICE.
+
+[Moon_House_12_House_4]
+You are A SOUL who illuminates THE UNCONSCIOUS to secure FOUNDATION.
+
+[Moon_House_12_House_5]
+You are A SOUL who illuminates THE UNCONSCIOUS to manifest A MASTERPIECE.
+
+[Moon_House_12_House_6]
+You are A SOUL who illuminates THE UNCONSCIOUS to perfect YOUR CRAFT.
+
+[Moon_House_12_House_7]
+You are A SOUL who illuminates THE UNCONSCIOUS to forge CONNECTION.
+
+[Moon_House_12_House_8]
+You are A SOUL who illuminates THE UNCONSCIOUS to embrace TRANSFORMATION.
+
+[Moon_House_12_House_9]
+You are A SOUL who illuminates THE UNCONSCIOUS to discover TRUTH.
+
+[Moon_House_12_House_10]
+You are A SOUL who illuminates THE UNCONSCIOUS to build A LEGACY.
+
+[Moon_House_12_House_11]
+You are A SOUL who illuminates THE UNCONSCIOUS to manifest YOUR VISION.
+
+[Moon_House_12_House_12]
+You are A SOUL who illuminates THE UNCONSCIOUS to find PEACE.
+
+[Moon_House_12_NorthNode]
+You are A SOUL who illuminates THE UNCONSCIOUS to fulfill THE CALL OF DESTINY.
+
+[Ascendant_square_House_1]
+You are A PRESENCE who overcomes CONFLICT to claim YOURSELF.
+
+[Ascendant_square_House_2]
+You are A PRESENCE who overcomes CONFLICT to build VALUE.
+
+[Ascendant_square_House_3]
+You are A PRESENCE who overcomes CONFLICT to find YOUR VOICE.
+
+[Ascendant_square_House_4]
+You are A PRESENCE who overcomes CONFLICT to secure FOUNDATION.
+
+[Ascendant_square_House_5]
+You are A PRESENCE who overcomes CONFLICT to manifest A MASTERPIECE.
+
+[Ascendant_square_House_6]
+You are A PRESENCE who overcomes CONFLICT to perfect YOUR CRAFT.
+
+[Ascendant_square_House_7]
+You are A PRESENCE who overcomes CONFLICT to forge CONNECTION.
+
+[Ascendant_square_House_8]
+You are A PRESENCE who overcomes CONFLICT to embrace TRANSFORMATION.
+
+[Ascendant_square_House_9]
+You are A PRESENCE who overcomes CONFLICT to discover TRUTH.
+
+[Ascendant_square_House_10]
+You are A PRESENCE who overcomes CONFLICT to build A LEGACY.
+
+[Ascendant_square_House_11]
+You are A PRESENCE who overcomes CONFLICT to manifest YOUR VISION.
+
+[Ascendant_square_House_12]
+You are A PRESENCE who overcomes CONFLICT to find PEACE.
+
+[Ascendant_square_NorthNode]
+You are A PRESENCE who overcomes CONFLICT to fulfill THE CALL OF DESTINY.
+
+[Ascendant_opposition_House_1]
+You are A PRESENCE who overcomes RESISTANCE to claim YOURSELF.
+
+[Ascendant_opposition_House_2]
+You are A PRESENCE who overcomes RESISTANCE to build VALUE.
+
+[Ascendant_opposition_House_3]
+You are A PRESENCE who overcomes RESISTANCE to find YOUR VOICE.
+
+[Ascendant_opposition_House_4]
+You are A PRESENCE who overcomes RESISTANCE to secure FOUNDATION.
+
+[Ascendant_opposition_House_5]
+You are A PRESENCE who overcomes RESISTANCE to manifest A MASTERPIECE.
+
+[Ascendant_opposition_House_6]
+You are A PRESENCE who overcomes RESISTANCE to perfect YOUR CRAFT.
+
+[Ascendant_opposition_House_7]
+You are A PRESENCE who overcomes RESISTANCE to forge CONNECTION AND MEANING.
+
+[Ascendant_opposition_House_8]
+You are A PRESENCE who overcomes RESISTANCE to embrace TRANSFORMATION.
+
+[Ascendant_opposition_House_9]
+You are A PRESENCE who overcomes RESISTANCE to discover TRUTH.
+
+[Ascendant_opposition_House_10]
+You are A PRESENCE who overcomes RESISTANCE to build A LEGACY.
+
+[Ascendant_opposition_House_11]
+You are A PRESENCE who overcomes RESISTANCE to manifest YOUR VISION.
+
+[Ascendant_opposition_House_12]
+You are A PRESENCE who overcomes RESISTANCE to find PEACE.
+
+[Ascendant_opposition_NorthNode]
+You are A PRESENCE who overcomes RESISTANCE to fulfill THE CALL OF DESTINY.
+
+[Ascendant_Saturn_House_1]
+You are A PRESENCE who breaks through RESTRICTION to claim YOURSELF.
+
+[Ascendant_Saturn_House_2]
+You are A PRESENCE who breaks through RESTRICTION to build VALUE.
+
+[Ascendant_Saturn_House_3]
+You are A PRESENCE who breaks through RESTRICTION to find YOUR VOICE.
+
+[Ascendant_Saturn_House_4]
+You are A PRESENCE who breaks through RESTRICTION to secure FOUNDATION.
+
+[Ascendant_Saturn_House_5]
+You are A PRESENCE who breaks through RESTRICTION to manifest A MASTERPIECE.
+
+[Ascendant_Saturn_House_6]
+You are A PRESENCE who breaks through RESTRICTION to perfect YOUR CRAFT.
+
+[Ascendant_Saturn_House_7]
+You are A PRESENCE who breaks through RESTRICTION to forge CONNECTION.
+
+[Ascendant_Saturn_House_8]
+You are A PRESENCE who breaks through RESTRICTION to embrace TRANSFORMATION.
+
+[Ascendant_Saturn_House_9]
+You are A PRESENCE who breaks through RESTRICTION to discover TRUTH.
+
+[Ascendant_Saturn_House_10]
+You are A PRESENCE who breaks through RESTRICTION to build A LEGACY.
+
+[Ascendant_Saturn_House_11]
+You are A PRESENCE who breaks through RESTRICTION to manifest YOUR VISION.
+
+[Ascendant_Saturn_House_12]
+You are A PRESENCE who breaks through RESTRICTION to find PEACE.
+
+[Ascendant_Saturn_NorthNode]
+You are A PRESENCE who breaks through RESTRICTION to fulfill THE CALL OF DESTINY.
+
+[Ascendant_Neptune_House_1]
+You are A PRESENCE who parts THE FOG to claim YOURSELF.
+
+[Ascendant_Neptune_House_2]
+You are A PRESENCE who parts THE FOG to build VALUE.
+
+[Ascendant_Neptune_House_3]
+You are A PRESENCE who parts THE FOG to find YOUR VOICE.
+
+[Ascendant_Neptune_House_4]
+You are A PRESENCE who parts THE FOG to secure FOUNDATION.
+
+[Ascendant_Neptune_House_5]
+You are A PRESENCE who parts THE FOG to manifest A MASTERPIECE.
+
+[Ascendant_Neptune_House_6]
+You are A PRESENCE who parts THE FOG to perfect YOUR CRAFT.
+
+[Ascendant_Neptune_House_7]
+You are A PRESENCE who parts THE FOG to forge CONNECTION AND MEANING.
+
+[Ascendant_Neptune_House_8]
+You are A PRESENCE who parts THE FOG to embrace TRANSFORMATION.
+
+[Ascendant_Neptune_House_9]
+You are A PRESENCE who parts THE FOG to discover TRUTH.
+
+[Ascendant_Neptune_House_10]
+You are A PRESENCE who parts THE FOG to build A LEGACY.
+
+[Ascendant_Neptune_House_11]
+You are A PRESENCE who parts THE FOG to manifest YOUR VISION.
+
+[Ascendant_Neptune_House_12]
+You are A PRESENCE who parts THE FOG to find PEACE.
+
+[Ascendant_Neptune_NorthNode]
+You are A PRESENCE who parts THE FOG to fulfill THE CALL OF DESTINY.
+
+[Ascendant_Pluto_House_1]
+You are A PRESENCE who transforms DESTRUCTION to claim YOURSELF.
+
+[Ascendant_Pluto_House_2]
+You are A PRESENCE who transforms DESTRUCTION to build VALUE.
+
+[Ascendant_Pluto_House_3]
+You are A PRESENCE who transforms DESTRUCTION to find YOUR VOICE.
+
+[Ascendant_Pluto_House_4]
+You are A PRESENCE who transforms DESTRUCTION to secure FOUNDATION.
+
+[Ascendant_Pluto_House_5]
+You are A PRESENCE who transforms DESTRUCTION to manifest A MASTERPIECE.
+
+[Ascendant_Pluto_House_6]
+You are A PRESENCE who transforms DESTRUCTION to perfect YOUR CRAFT.
+
+[Ascendant_Pluto_House_7]
+You are A PRESENCE who transforms DESTRUCTION to forge CONNECTION.
+
+[Ascendant_Pluto_House_8]
+You are A PRESENCE who transforms DESTRUCTION to embrace TRANSFORMATION.
+
+[Ascendant_Pluto_House_9]
+You are A PRESENCE who transforms DESTRUCTION to discover TRUTH.
+
+[Ascendant_Pluto_House_10]
+You are A PRESENCE who transforms DESTRUCTION to build A LEGACY.
+
+[Ascendant_Pluto_House_11]
+You are A PRESENCE who transforms DESTRUCTION to manifest YOUR VISION.
+
+[Ascendant_Pluto_House_12]
+You are A PRESENCE who transforms DESTRUCTION to find PEACE.
+
+[Ascendant_Pluto_NorthNode]
+You are A PRESENCE who transforms DESTRUCTION to fulfill THE CALL OF DESTINY.
+
+[Ascendant_Mars_House_1]
+You are A PRESENCE who transforms BURNOUT to claim YOURSELF.
+
+[Ascendant_Mars_House_2]
+You are A PRESENCE who transforms BURNOUT to build VALUE.
+
+[Ascendant_Mars_House_3]
+You are A PRESENCE who transforms BURNOUT to find YOUR VOICE.
+
+[Ascendant_Mars_House_4]
+You are A PRESENCE who transforms BURNOUT to secure FOUNDATION.
+
+[Ascendant_Mars_House_5]
+You are A PRESENCE who transforms BURNOUT to manifest A MASTERPIECE.
+
+[Ascendant_Mars_House_6]
+You are A PRESENCE who transforms BURNOUT to perfect YOUR CRAFT.
+
+[Ascendant_Mars_House_7]
+You are A PRESENCE who transforms BURNOUT to forge CONNECTION.
+
+[Ascendant_Mars_House_8]
+You are A PRESENCE who transforms BURNOUT to embrace TRANSFORMATION.
+
+[Ascendant_Mars_House_9]
+You are A PRESENCE who transforms BURNOUT to discover TRUTH.
+
+[Ascendant_Mars_House_10]
+You are A PRESENCE who transforms BURNOUT to build A LEGACY.
+
+[Ascendant_Mars_House_11]
+You are A PRESENCE who transforms BURNOUT to manifest YOUR VISION.
+
+[Ascendant_Mars_House_12]
+You are A PRESENCE who transforms BURNOUT to find PEACE.
+
+[Ascendant_Mars_NorthNode]
+You are A PRESENCE who transforms BURNOUT to fulfill THE CALL OF DESTINY.
+
+[Ascendant_Uranus_House_1]
+You are A PRESENCE who channels CHAOS to claim YOURSELF.
+
+[Ascendant_Uranus_House_2]
+You are A PRESENCE who channels CHAOS to build VALUE.
+
+[Ascendant_Uranus_House_3]
+You are A PRESENCE who channels CHAOS to find YOUR VOICE.
+
+[Ascendant_Uranus_House_4]
+You are A PRESENCE who channels CHAOS to secure FOUNDATION.
+
+[Ascendant_Uranus_House_5]
+You are A PRESENCE who channels CHAOS to manifest A MASTERPIECE.
+
+[Ascendant_Uranus_House_6]
+You are A PRESENCE who channels CHAOS to perfect YOUR CRAFT.
+
+[Ascendant_Uranus_House_7]
+You are A PRESENCE who channels CHAOS to forge CONNECTION.
+
+[Ascendant_Uranus_House_8]
+You are A PRESENCE who channels CHAOS to embrace TRANSFORMATION.
+
+[Ascendant_Uranus_House_9]
+You are A PRESENCE who channels CHAOS to discover TRUTH.
+
+[Ascendant_Uranus_House_10]
+You are A PRESENCE who channels CHAOS to build A LEGACY.
+
+[Ascendant_Uranus_House_11]
+You are A PRESENCE who channels CHAOS to manifest YOUR VISION.
+
+[Ascendant_Uranus_House_12]
+You are A PRESENCE who channels CHAOS to find PEACE.
+
+[Ascendant_Uranus_NorthNode]
+You are A PRESENCE who channels CHAOS to fulfill THE CALL OF DESTINY.
+
+[Ascendant_House_12_House_1]
+You are A PRESENCE who illuminates THE UNCONSCIOUS to claim YOURSELF.
+
+[Ascendant_House_12_House_2]
+You are A PRESENCE who illuminates THE UNCONSCIOUS to build VALUE.
+
+[Ascendant_House_12_House_3]
+You are A PRESENCE who illuminates THE UNCONSCIOUS to find YOUR VOICE.
+
+[Ascendant_House_12_House_4]
+You are A PRESENCE who illuminates THE UNCONSCIOUS to secure FOUNDATION.
+
+[Ascendant_House_12_House_5]
+You are A PRESENCE who illuminates THE UNCONSCIOUS to manifest A MASTERPIECE.
+
+[Ascendant_House_12_House_6]
+You are A PRESENCE who illuminates THE UNCONSCIOUS to perfect YOUR CRAFT.
+
+[Ascendant_House_12_House_7]
+You are A PRESENCE who illuminates THE UNCONSCIOUS to forge CONNECTION.
+
+[Ascendant_House_12_House_8]
+You are A PRESENCE who illuminates THE UNCONSCIOUS to embrace TRANSFORMATION.
+
+[Ascendant_House_12_House_9]
+You are A PRESENCE who illuminates THE UNCONSCIOUS to discover TRUTH.
+
+[Ascendant_House_12_House_10]
+You are A PRESENCE who illuminates THE UNCONSCIOUS to build A LEGACY.
+
+[Ascendant_House_12_House_11]
+You are A PRESENCE who illuminates THE UNCONSCIOUS to manifest YOUR VISION.
+
+[Ascendant_House_12_House_12]
+You are A PRESENCE who illuminates THE UNCONSCIOUS to find PEACE.
+
+[Ascendant_House_12_NorthNode]
+You are A PRESENCE who illuminates THE UNCONSCIOUS to fulfill THE CALL OF DESTINY.
+
+[Mercury_square_House_1]
+You are A THINKER who overcomes CONFLICT to claim YOURSELF.
+
+[Mercury_square_House_2]
+You are A THINKER who overcomes CONFLICT to build VALUE.
+
+[Mercury_square_House_3]
+You are A THINKER who overcomes CONFLICT to find YOUR VOICE.
+
+[Mercury_square_House_4]
+You are A THINKER who overcomes CONFLICT to secure FOUNDATION.
+
+[Mercury_square_House_5]
+You are A THINKER who overcomes CONFLICT to manifest A MASTERPIECE.
+
+[Mercury_square_House_6]
+You are A THINKER who overcomes CONFLICT to perfect YOUR CRAFT.
+
+[Mercury_square_House_7]
+You are A THINKER who overcomes CONFLICT to forge CONNECTION.
+
+[Mercury_square_House_8]
+You are A THINKER who overcomes CONFLICT to embrace TRANSFORMATION.
+
+[Mercury_square_House_9]
+You are A THINKER who overcomes CONFLICT to discover TRUTH.
+
+[Mercury_square_House_10]
+You are A THINKER who overcomes CONFLICT to build A LEGACY.
+
+[Mercury_square_House_11]
+You are A THINKER who overcomes CONFLICT to manifest YOUR VISION.
+
+[Mercury_square_House_12]
+You are A THINKER who overcomes CONFLICT to find PEACE.
+
+[Mercury_square_NorthNode]
+You are A THINKER who overcomes CONFLICT to fulfill THE CALL OF DESTINY.
+
+[Mercury_opposition_House_1]
+You are A THINKER who overcomes RESISTANCE to claim YOURSELF.
+
+[Mercury_opposition_House_2]
+You are A THINKER who overcomes RESISTANCE to build VALUE.
+
+[Mercury_opposition_House_3]
+You are A THINKER who overcomes RESISTANCE to find YOUR VOICE.
+
+[Mercury_opposition_House_4]
+You are A THINKER who overcomes RESISTANCE to secure FOUNDATION.
+
+[Mercury_opposition_House_5]
+You are A THINKER who overcomes RESISTANCE to manifest A MASTERPIECE.
+
+[Mercury_opposition_House_6]
+You are A THINKER who overcomes RESISTANCE to perfect YOUR CRAFT.
+
+[Mercury_opposition_House_7]
+You are A THINKER who overcomes RESISTANCE to forge CONNECTION AND MEANING.
+
+[Mercury_opposition_House_8]
+You are A THINKER who overcomes RESISTANCE to embrace TRANSFORMATION.
+
+[Mercury_opposition_House_9]
+You are A THINKER who overcomes RESISTANCE to discover TRUTH.
+
+[Mercury_opposition_House_10]
+You are A THINKER who overcomes RESISTANCE to build A LEGACY.
+
+[Mercury_opposition_House_11]
+You are A THINKER who overcomes RESISTANCE to manifest YOUR VISION.
+
+[Mercury_opposition_House_12]
+You are A THINKER who overcomes RESISTANCE to find PEACE.
+
+[Mercury_opposition_NorthNode]
+You are A THINKER who overcomes RESISTANCE to fulfill THE CALL OF DESTINY.
+
+[Mercury_Saturn_House_1]
+You are A THINKER who breaks through RESTRICTION to claim YOURSELF.
+
+[Mercury_Saturn_House_2]
+You are A THINKER who breaks through RESTRICTION to build VALUE.
+
+[Mercury_Saturn_House_3]
+You are A THINKER who breaks through RESTRICTION to find YOUR VOICE.
+
+[Mercury_Saturn_House_4]
+You are A THINKER who breaks through RESTRICTION to secure FOUNDATION.
+
+[Mercury_Saturn_House_5]
+You are A THINKER who breaks through RESTRICTION to manifest A MASTERPIECE.
+
+[Mercury_Saturn_House_6]
+You are A THINKER who breaks through RESTRICTION to perfect YOUR CRAFT.
+
+[Mercury_Saturn_House_7]
+You are A THINKER who breaks through RESTRICTION to forge CONNECTION.
+
+[Mercury_Saturn_House_8]
+You are A THINKER who breaks through RESTRICTION to embrace TRANSFORMATION.
+
+[Mercury_Saturn_House_9]
+You are A THINKER who breaks through RESTRICTION to discover TRUTH.
+
+[Mercury_Saturn_House_10]
+You are A THINKER who breaks through RESTRICTION to build A LEGACY.
+
+[Mercury_Saturn_House_11]
+You are A THINKER who breaks through RESTRICTION to manifest YOUR VISION.
+
+[Mercury_Saturn_House_12]
+You are A THINKER who breaks through RESTRICTION to find PEACE.
+
+[Mercury_Saturn_NorthNode]
+You are A THINKER who breaks through RESTRICTION to fulfill THE CALL OF DESTINY.
+
+[Mercury_Neptune_House_1]
+You are A THINKER who parts THE FOG to claim YOURSELF.
+
+[Mercury_Neptune_House_2]
+You are A THINKER who parts THE FOG to build VALUE.
+
+[Mercury_Neptune_House_3]
+You are A THINKER who parts THE FOG to find YOUR VOICE.
+
+[Mercury_Neptune_House_4]
+You are A THINKER who parts THE FOG to secure FOUNDATION.
+
+[Mercury_Neptune_House_5]
+You are A THINKER who parts THE FOG to manifest A MASTERPIECE.
+
+[Mercury_Neptune_House_6]
+You are A THINKER who parts THE FOG to perfect YOUR CRAFT.
+
+[Mercury_Neptune_House_7]
+You are A THINKER who parts THE FOG to forge CONNECTION AND MEANING.
+
+[Mercury_Neptune_House_8]
+You are A THINKER who parts THE FOG to embrace TRANSFORMATION.
+
+[Mercury_Neptune_House_9]
+You are A THINKER who parts THE FOG to discover TRUTH.
+
+[Mercury_Neptune_House_10]
+You are A THINKER who parts THE FOG to build A LEGACY.
+
+[Mercury_Neptune_House_11]
+You are A THINKER who parts THE FOG to manifest YOUR VISION.
+
+[Mercury_Neptune_House_12]
+You are A THINKER who parts THE FOG to find PEACE.
+
+[Mercury_Neptune_NorthNode]
+You are A THINKER who parts THE FOG to fulfill THE CALL OF DESTINY.
+
+[Mercury_Pluto_House_1]
+You are A THINKER who transforms DESTRUCTION to claim YOURSELF.
+
+[Mercury_Pluto_House_2]
+You are A THINKER who transforms DESTRUCTION to build VALUE.
+
+[Mercury_Pluto_House_3]
+You are A THINKER who transforms DESTRUCTION to find YOUR VOICE.
+
+[Mercury_Pluto_House_4]
+You are A THINKER who transforms DESTRUCTION to secure FOUNDATION.
+
+[Mercury_Pluto_House_5]
+You are A THINKER who transforms DESTRUCTION to manifest A MASTERPIECE.
+
+[Mercury_Pluto_House_6]
+You are A THINKER who transforms DESTRUCTION to perfect YOUR CRAFT.
+
+[Mercury_Pluto_House_7]
+You are A THINKER who transforms DESTRUCTION to forge CONNECTION.
+
+[Mercury_Pluto_House_8]
+You are A THINKER who transforms DESTRUCTION to embrace TRANSFORMATION.
+
+[Mercury_Pluto_House_9]
+You are A THINKER who transforms DESTRUCTION to discover TRUTH.
+
+[Mercury_Pluto_House_10]
+You are A THINKER who transforms DESTRUCTION to build A LEGACY.
+
+[Mercury_Pluto_House_11]
+You are A THINKER who transforms DESTRUCTION to manifest YOUR VISION.
+
+[Mercury_Pluto_House_12]
+You are A THINKER who transforms DESTRUCTION to find PEACE.
+
+[Mercury_Pluto_NorthNode]
+You are A THINKER who transforms DESTRUCTION to fulfill THE CALL OF DESTINY.
+
+[Mercury_Mars_House_1]
+You are A THINKER who transforms BURNOUT to claim YOURSELF.
+
+[Mercury_Mars_House_2]
+You are A THINKER who transforms BURNOUT to build VALUE.
+
+[Mercury_Mars_House_3]
+You are A THINKER who transforms BURNOUT to find YOUR VOICE.
+
+[Mercury_Mars_House_4]
+You are A THINKER who transforms BURNOUT to secure FOUNDATION.
+
+[Mercury_Mars_House_5]
+You are A THINKER who transforms BURNOUT to manifest A MASTERPIECE.
+
+[Mercury_Mars_House_6]
+You are A THINKER who transforms BURNOUT to perfect YOUR CRAFT.
+
+[Mercury_Mars_House_7]
+You are A THINKER who transforms BURNOUT to forge CONNECTION.
+
+[Mercury_Mars_House_8]
+You are A THINKER who transforms BURNOUT to embrace TRANSFORMATION.
+
+[Mercury_Mars_House_9]
+You are A THINKER who transforms BURNOUT to discover TRUTH.
+
+[Mercury_Mars_House_10]
+You are A THINKER who transforms BURNOUT to build A LEGACY.
+
+[Mercury_Mars_House_11]
+You are A THINKER who transforms BURNOUT to manifest YOUR VISION.
+
+[Mercury_Mars_House_12]
+You are A THINKER who transforms BURNOUT to find PEACE.
+
+[Mercury_Mars_NorthNode]
+You are A THINKER who transforms BURNOUT to fulfill THE CALL OF DESTINY.
+
+[Mercury_Uranus_House_1]
+You are A THINKER who channels CHAOS to claim YOURSELF.
+
+[Mercury_Uranus_House_2]
+You are A THINKER who channels CHAOS to build VALUE.
+
+[Mercury_Uranus_House_3]
+You are A THINKER who channels CHAOS to find YOUR VOICE.
+
+[Mercury_Uranus_House_4]
+You are A THINKER who channels CHAOS to secure FOUNDATION.
+
+[Mercury_Uranus_House_5]
+You are A THINKER who channels CHAOS to manifest A MASTERPIECE.
+
+[Mercury_Uranus_House_6]
+You are A THINKER who channels CHAOS to perfect YOUR CRAFT.
+
+[Mercury_Uranus_House_7]
+You are A THINKER who channels CHAOS to forge CONNECTION.
+
+[Mercury_Uranus_House_8]
+You are A THINKER who channels CHAOS to embrace TRANSFORMATION.
+
+[Mercury_Uranus_House_9]
+You are A THINKER who channels CHAOS to discover TRUTH.
+
+[Mercury_Uranus_House_10]
+You are A THINKER who channels CHAOS to build A LEGACY.
+
+[Mercury_Uranus_House_11]
+You are A THINKER who channels CHAOS to manifest YOUR VISION.
+
+[Mercury_Uranus_House_12]
+You are A THINKER who channels CHAOS to find PEACE.
+
+[Mercury_Uranus_NorthNode]
+You are A THINKER who channels CHAOS to fulfill THE CALL OF DESTINY.
+
+[Mercury_House_12_House_1]
+You are A THINKER who illuminates THE UNCONSCIOUS to claim YOURSELF.
+
+[Mercury_House_12_House_2]
+You are A THINKER who illuminates THE UNCONSCIOUS to build VALUE.
+
+[Mercury_House_12_House_3]
+You are A THINKER who illuminates THE UNCONSCIOUS to find YOUR VOICE.
+
+[Mercury_House_12_House_4]
+You are A THINKER who illuminates THE UNCONSCIOUS to secure FOUNDATION.
+
+[Mercury_House_12_House_5]
+You are A THINKER who illuminates THE UNCONSCIOUS to manifest A MASTERPIECE.
+
+[Mercury_House_12_House_6]
+You are A THINKER who illuminates THE UNCONSCIOUS to perfect YOUR CRAFT.
+
+[Mercury_House_12_House_7]
+You are A THINKER who illuminates THE UNCONSCIOUS to forge CONNECTION.
+
+[Mercury_House_12_House_8]
+You are A THINKER who illuminates THE UNCONSCIOUS to embrace TRANSFORMATION.
+
+[Mercury_House_12_House_9]
+You are A THINKER who illuminates THE UNCONSCIOUS to discover TRUTH.
+
+[Mercury_House_12_House_10]
+You are A THINKER who illuminates THE UNCONSCIOUS to build A LEGACY.
+
+[Mercury_House_12_House_11]
+You are A THINKER who illuminates THE UNCONSCIOUS to manifest YOUR VISION.
+
+[Mercury_House_12_House_12]
+You are A THINKER who illuminates THE UNCONSCIOUS to find PEACE.
+
+[Mercury_House_12_NorthNode]
+You are A THINKER who illuminates THE UNCONSCIOUS to fulfill THE CALL OF DESTINY.
+
+[Venus_square_House_1]
+You are A LOVER who overcomes CONFLICT to claim YOURSELF.
+
+[Venus_square_House_2]
+You are A LOVER who overcomes CONFLICT to build VALUE.
+
+[Venus_square_House_3]
+You are A LOVER who overcomes CONFLICT to find YOUR VOICE.
+
+[Venus_square_House_4]
+You are A LOVER who overcomes CONFLICT to secure FOUNDATION.
+
+[Venus_square_House_5]
+You are A LOVER who overcomes CONFLICT to manifest A MASTERPIECE.
+
+[Venus_square_House_6]
+You are A LOVER who overcomes CONFLICT to perfect YOUR CRAFT.
+
+[Venus_square_House_7]
+You are A LOVER who overcomes CONFLICT to forge CONNECTION.
+
+[Venus_square_House_8]
+You are A LOVER who overcomes CONFLICT to embrace TRANSFORMATION.
+
+[Venus_square_House_9]
+You are A LOVER who overcomes CONFLICT to discover TRUTH.
+
+[Venus_square_House_10]
+You are A LOVER who overcomes CONFLICT to build A LEGACY.
+
+[Venus_square_House_11]
+You are A LOVER who overcomes CONFLICT to manifest YOUR VISION.
+
+[Venus_square_House_12]
+You are A LOVER who overcomes CONFLICT to find PEACE.
+
+[Venus_square_NorthNode]
+You are A LOVER who overcomes CONFLICT to fulfill THE CALL OF DESTINY.
+
+[Venus_opposition_House_1]
+You are A LOVER who overcomes RESISTANCE to claim YOURSELF.
+
+[Venus_opposition_House_2]
+You are A LOVER who overcomes RESISTANCE to build VALUE.
+
+[Venus_opposition_House_3]
+You are A LOVER who overcomes RESISTANCE to find YOUR VOICE.
+
+[Venus_opposition_House_4]
+You are A LOVER who overcomes RESISTANCE to secure FOUNDATION.
+
+[Venus_opposition_House_5]
+You are A LOVER who overcomes RESISTANCE to manifest A MASTERPIECE.
+
+[Venus_opposition_House_6]
+You are A LOVER who overcomes RESISTANCE to perfect YOUR CRAFT.
+
+[Venus_opposition_House_7]
+You are A LOVER who overcomes RESISTANCE to forge CONNECTION AND MEANING.
+
+[Venus_opposition_House_8]
+You are A LOVER who overcomes RESISTANCE to embrace TRANSFORMATION.
+
+[Venus_opposition_House_9]
+You are A LOVER who overcomes RESISTANCE to discover TRUTH.
+
+[Venus_opposition_House_10]
+You are A LOVER who overcomes RESISTANCE to build A LEGACY.
+
+[Venus_opposition_House_11]
+You are A LOVER who overcomes RESISTANCE to manifest YOUR VISION.
+
+[Venus_opposition_House_12]
+You are A LOVER who overcomes RESISTANCE to find PEACE.
+
+[Venus_opposition_NorthNode]
+You are A LOVER who overcomes RESISTANCE to fulfill THE CALL OF DESTINY.
+
+[Venus_Saturn_House_1]
+You are A LOVER who breaks through RESTRICTION to claim YOURSELF.
+
+[Venus_Saturn_House_2]
+You are A LOVER who breaks through RESTRICTION to build VALUE.
+
+[Venus_Saturn_House_3]
+You are A LOVER who breaks through RESTRICTION to find YOUR VOICE.
+
+[Venus_Saturn_House_4]
+You are A LOVER who breaks through RESTRICTION to secure FOUNDATION.
+
+[Venus_Saturn_House_5]
+You are A LOVER who breaks through RESTRICTION to manifest A MASTERPIECE.
+
+[Venus_Saturn_House_6]
+You are A LOVER who breaks through RESTRICTION to perfect YOUR CRAFT.
+
+[Venus_Saturn_House_7]
+You are A LOVER who breaks through RESTRICTION to forge CONNECTION.
+
+[Venus_Saturn_House_8]
+You are A LOVER who breaks through RESTRICTION to embrace TRANSFORMATION.
+
+[Venus_Saturn_House_9]
+You are A LOVER who breaks through RESTRICTION to discover TRUTH.
+
+[Venus_Saturn_House_10]
+You are A LOVER who breaks through RESTRICTION to build A LEGACY.
+
+[Venus_Saturn_House_11]
+You are A LOVER who breaks through RESTRICTION to manifest YOUR VISION.
+
+[Venus_Saturn_House_12]
+You are A LOVER who breaks through RESTRICTION to find PEACE.
+
+[Venus_Saturn_NorthNode]
+You are A LOVER who breaks through RESTRICTION to fulfill THE CALL OF DESTINY.
+
+[Venus_Neptune_House_1]
+You are A LOVER who parts THE FOG to claim YOURSELF.
+
+[Venus_Neptune_House_2]
+You are A LOVER who parts THE FOG to build VALUE.
+
+[Venus_Neptune_House_3]
+You are A LOVER who parts THE FOG to find YOUR VOICE.
+
+[Venus_Neptune_House_4]
+You are A LOVER who parts THE FOG to secure FOUNDATION.
+
+[Venus_Neptune_House_5]
+You are A LOVER who parts THE FOG to manifest A MASTERPIECE.
+
+[Venus_Neptune_House_6]
+You are A LOVER who parts THE FOG to perfect YOUR CRAFT.
+
+[Venus_Neptune_House_7]
+You are A LOVER who parts THE FOG to forge CONNECTION AND MEANING.
+
+[Venus_Neptune_House_8]
+You are A LOVER who parts THE FOG to embrace TRANSFORMATION.
+
+[Venus_Neptune_House_9]
+You are A LOVER who parts THE FOG to discover TRUTH.
+
+[Venus_Neptune_House_10]
+You are A LOVER who parts THE FOG to build A LEGACY.
+
+[Venus_Neptune_House_11]
+You are A LOVER who parts THE FOG to manifest YOUR VISION.
+
+[Venus_Neptune_House_12]
+You are A LOVER who parts THE FOG to find PEACE.
+
+[Venus_Neptune_NorthNode]
+You are A LOVER who parts THE FOG to fulfill THE CALL OF DESTINY.
+
+[Venus_Pluto_House_1]
+You are A LOVER who transforms DESTRUCTION to claim YOURSELF.
+
+[Venus_Pluto_House_2]
+You are A LOVER who transforms DESTRUCTION to build VALUE.
+
+[Venus_Pluto_House_3]
+You are A LOVER who transforms DESTRUCTION to find YOUR VOICE.
+
+[Venus_Pluto_House_4]
+You are A LOVER who transforms DESTRUCTION to secure FOUNDATION.
+
+[Venus_Pluto_House_5]
+You are A LOVER who transforms DESTRUCTION to manifest A MASTERPIECE.
+
+[Venus_Pluto_House_6]
+You are A LOVER who transforms DESTRUCTION to perfect YOUR CRAFT.
+
+[Venus_Pluto_House_7]
+You are A LOVER who transforms DESTRUCTION to forge CONNECTION.
+
+[Venus_Pluto_House_8]
+You are A LOVER who transforms DESTRUCTION to embrace TRANSFORMATION.
+
+[Venus_Pluto_House_9]
+You are A LOVER who transforms DESTRUCTION to discover TRUTH.
+
+[Venus_Pluto_House_10]
+You are A LOVER who transforms DESTRUCTION to build A LEGACY.
+
+[Venus_Pluto_House_11]
+You are A LOVER who transforms DESTRUCTION to manifest YOUR VISION.
+
+[Venus_Pluto_House_12]
+You are A LOVER who transforms DESTRUCTION to find PEACE.
+
+[Venus_Pluto_NorthNode]
+You are A LOVER who transforms DESTRUCTION to fulfill THE CALL OF DESTINY.
+
+[Venus_Mars_House_1]
+You are A LOVER who transforms BURNOUT to claim YOURSELF.
+
+[Venus_Mars_House_2]
+You are A LOVER who transforms BURNOUT to build VALUE.
+
+[Venus_Mars_House_3]
+You are A LOVER who transforms BURNOUT to find YOUR VOICE.
+
+[Venus_Mars_House_4]
+You are A LOVER who transforms BURNOUT to secure FOUNDATION.
+
+[Venus_Mars_House_5]
+You are A LOVER who transforms BURNOUT to manifest A MASTERPIECE.
+
+[Venus_Mars_House_6]
+You are A LOVER who transforms BURNOUT to perfect YOUR CRAFT.
+
+[Venus_Mars_House_7]
+You are A LOVER who transforms BURNOUT to forge CONNECTION.
+
+[Venus_Mars_House_8]
+You are A LOVER who transforms BURNOUT to embrace TRANSFORMATION.
+
+[Venus_Mars_House_9]
+You are A LOVER who transforms BURNOUT to discover TRUTH.
+
+[Venus_Mars_House_10]
+You are A LOVER who transforms BURNOUT to build A LEGACY.
+
+[Venus_Mars_House_11]
+You are A LOVER who transforms BURNOUT to manifest YOUR VISION.
+
+[Venus_Mars_House_12]
+You are A LOVER who transforms BURNOUT to find PEACE.
+
+[Venus_Mars_NorthNode]
+You are A LOVER who transforms BURNOUT to fulfill THE CALL OF DESTINY.
+
+[Venus_Uranus_House_1]
+You are A LOVER who channels CHAOS to claim YOURSELF.
+
+[Venus_Uranus_House_2]
+You are A LOVER who channels CHAOS to build VALUE.
+
+[Venus_Uranus_House_3]
+You are A LOVER who channels CHAOS to find YOUR VOICE.
+
+[Venus_Uranus_House_4]
+You are A LOVER who channels CHAOS to secure FOUNDATION.
+
+[Venus_Uranus_House_5]
+You are A LOVER who channels CHAOS to manifest A MASTERPIECE.
+
+[Venus_Uranus_House_6]
+You are A LOVER who channels CHAOS to perfect YOUR CRAFT.
+
+[Venus_Uranus_House_7]
+You are A LOVER who channels CHAOS to forge CONNECTION.
+
+[Venus_Uranus_House_8]
+You are A LOVER who channels CHAOS to embrace TRANSFORMATION.
+
+[Venus_Uranus_House_9]
+You are A LOVER who channels CHAOS to discover TRUTH.
+
+[Venus_Uranus_House_10]
+You are A LOVER who channels CHAOS to build A LEGACY.
+
+[Venus_Uranus_House_11]
+You are A LOVER who channels CHAOS to manifest YOUR VISION.
+
+[Venus_Uranus_House_12]
+You are A LOVER who channels CHAOS to find PEACE.
+
+[Venus_Uranus_NorthNode]
+You are A LOVER who channels CHAOS to fulfill THE CALL OF DESTINY.
+
+[Venus_House_12_House_1]
+You are A LOVER who illuminates THE UNCONSCIOUS to claim YOURSELF.
+
+[Venus_House_12_House_2]
+You are A LOVER who illuminates THE UNCONSCIOUS to build VALUE.
+
+[Venus_House_12_House_3]
+You are A LOVER who illuminates THE UNCONSCIOUS to find YOUR VOICE.
+
+[Venus_House_12_House_4]
+You are A LOVER who illuminates THE UNCONSCIOUS to secure FOUNDATION.
+
+[Venus_House_12_House_5]
+You are A LOVER who illuminates THE UNCONSCIOUS to manifest A MASTERPIECE.
+
+[Venus_House_12_House_6]
+You are A LOVER who illuminates THE UNCONSCIOUS to perfect YOUR CRAFT.
+
+[Venus_House_12_House_7]
+You are A LOVER who illuminates THE UNCONSCIOUS to forge CONNECTION.
+
+[Venus_House_12_House_8]
+You are A LOVER who illuminates THE UNCONSCIOUS to embrace TRANSFORMATION.
+
+[Venus_House_12_House_9]
+You are A LOVER who illuminates THE UNCONSCIOUS to discover TRUTH.
+
+[Venus_House_12_House_10]
+You are A LOVER who illuminates THE UNCONSCIOUS to build A LEGACY.
+
+[Venus_House_12_House_11]
+You are A LOVER who illuminates THE UNCONSCIOUS to manifest YOUR VISION.
+
+[Venus_House_12_House_12]
+You are A LOVER who illuminates THE UNCONSCIOUS to find PEACE.
+
+[Venus_House_12_NorthNode]
+You are A LOVER who illuminates THE UNCONSCIOUS to fulfill THE CALL OF DESTINY.
+
+[Mars_square_House_1]
+You are A WARRIOR who overcomes CONFLICT to claim YOURSELF.
+
+[Mars_square_House_2]
+You are A WARRIOR who overcomes CONFLICT to build VALUE.
+
+[Mars_square_House_3]
+You are A WARRIOR who overcomes CONFLICT to find YOUR VOICE.
+
+[Mars_square_House_4]
+You are A WARRIOR who overcomes CONFLICT to secure FOUNDATION.
+
+[Mars_square_House_5]
+You are A WARRIOR who overcomes CONFLICT to manifest JOY.
+
+[Mars_square_House_6]
+You are A WARRIOR who overcomes CONFLICT to perfect YOUR CRAFT.
+
+[Mars_square_House_7]
+You are A WARRIOR who overcomes CONFLICT to forge CONNECTION AND MEANING.
+
+[Mars_square_House_8]
+You are A WARRIOR who overcomes CONFLICT to embrace TRANSFORMATION.
+
+[Mars_square_House_9]
+You are A WARRIOR who overcomes CONFLICT to discover TRUTH.
+
+[Mars_square_House_10]
+You are A WARRIOR who overcomes CONFLICT to build A LEGACY.
+
+[Mars_square_House_11]
+You are A WARRIOR who overcomes CONFLICT to manifest YOUR VISION.
+
+[Mars_square_House_12]
+You are A WARRIOR who overcomes CONFLICT to find PEACE.
+
+[Mars_square_NorthNode]
+You are A WARRIOR who overcomes CONFLICT to fulfill THE CALL OF DESTINY.
+
+[Mars_opposition_House_1]
+You are A WARRIOR who overcomes RESISTANCE to claim YOURSELF.
+
+[Mars_opposition_House_2]
+You are A WARRIOR who overcomes RESISTANCE to build VALUE.
+
+[Mars_opposition_House_3]
+You are A WARRIOR who overcomes RESISTANCE to find YOUR VOICE.
+
+[Mars_opposition_House_4]
+You are A WARRIOR who overcomes RESISTANCE to secure FOUNDATION.
+
+[Mars_opposition_House_5]
+You are A WARRIOR who overcomes RESISTANCE to manifest JOY.
+
+[Mars_opposition_House_6]
+You are A WARRIOR who overcomes RESISTANCE to perfect YOUR CRAFT.
+
+[Mars_opposition_House_7]
+You are A WARRIOR who overcomes RESISTANCE to forge CONNECTION AND MEANING.
+
+[Mars_opposition_House_8]
+You are A WARRIOR who overcomes RESISTANCE to embrace TRANSFORMATION.
+
+[Mars_opposition_House_9]
+You are A WARRIOR who overcomes RESISTANCE to discover TRUTH.
+
+[Mars_opposition_House_10]
+You are A WARRIOR who overcomes RESISTANCE to build A LEGACY.
+
+[Mars_opposition_House_11]
+You are A WARRIOR who overcomes RESISTANCE to manifest YOUR VISION.
+
+[Mars_opposition_House_12]
+You are A WARRIOR who overcomes RESISTANCE to find PEACE.
+
+[Mars_opposition_NorthNode]
+You are A WARRIOR who overcomes RESISTANCE to fulfill THE CALL OF DESTINY.
+
+[Mars_Saturn_House_1]
+You are A WARRIOR who breaks through RESTRICTION to claim YOURSELF.
+
+[Mars_Saturn_House_2]
+You are A WARRIOR who breaks through RESTRICTION to build VALUE.
+
+[Mars_Saturn_House_3]
+You are A WARRIOR who breaks through RESTRICTION to find YOUR VOICE.
+
+[Mars_Saturn_House_4]
+You are A WARRIOR who breaks through RESTRICTION to secure FOUNDATION.
+
+[Mars_Saturn_House_5]
+You are A WARRIOR who breaks through RESTRICTION to manifest JOY.
+
+[Mars_Saturn_House_6]
+You are A WARRIOR who breaks through RESTRICTION to perfect YOUR CRAFT.
+
+[Mars_Saturn_House_7]
+You are A WARRIOR who breaks through RESTRICTION to forge CONNECTION AND MEANING.
+
+[Mars_Saturn_House_8]
+You are A WARRIOR who breaks through RESTRICTION to embrace TRANSFORMATION.
+
+[Mars_Saturn_House_9]
+You are A WARRIOR who breaks through RESTRICTION to discover TRUTH.
+
+[Mars_Saturn_House_10]
+You are A WARRIOR who breaks through RESTRICTION to build A LEGACY.
+
+[Mars_Saturn_House_11]
+You are A WARRIOR who breaks through RESTRICTION to manifest YOUR VISION.
+
+[Mars_Saturn_House_12]
+You are A WARRIOR who breaks through RESTRICTION to find PEACE.
+
+[Mars_Saturn_NorthNode]
+You are A WARRIOR who breaks through RESTRICTION to fulfill THE CALL OF DESTINY.
+
+[Mars_Neptune_House_1]
+You are A WARRIOR who parts THE FOG to claim YOURSELF.
+
+[Mars_Neptune_House_2]
+You are A WARRIOR who parts THE FOG to build VALUE.
+
+[Mars_Neptune_House_3]
+You are A WARRIOR who parts THE FOG to find YOUR VOICE.
+
+[Mars_Neptune_House_4]
+You are A WARRIOR who parts THE FOG to secure FOUNDATION.
+
+[Mars_Neptune_House_5]
+You are A WARRIOR who parts THE FOG to manifest JOY.
+
+[Mars_Neptune_House_6]
+You are A WARRIOR who parts THE FOG to perfect YOUR CRAFT.
+
+[Mars_Neptune_House_7]
+You are A WARRIOR who parts THE FOG to forge CONNECTION AND MEANING.
+
+[Mars_Neptune_House_8]
+You are A WARRIOR who parts THE FOG to embrace TRANSFORMATION.
+
+[Mars_Neptune_House_9]
+You are A WARRIOR who parts THE FOG to discover TRUTH.
+
+[Mars_Neptune_House_10]
+You are A WARRIOR who parts THE FOG to build A LEGACY.
+
+[Mars_Neptune_House_11]
+You are A WARRIOR who parts THE FOG to manifest YOUR VISION.
+
+[Mars_Neptune_House_12]
+You are A WARRIOR who parts THE FOG to find PEACE.
+
+[Mars_Neptune_NorthNode]
+You are A WARRIOR who parts THE FOG to fulfill THE CALL OF DESTINY.
+
+[Mars_Pluto_House_1]
+You are A WARRIOR who transforms DESTRUCTION to claim YOURSELF.
+
+[Mars_Pluto_House_2]
+You are A WARRIOR who transforms DESTRUCTION to build VALUE.
+
+[Mars_Pluto_House_3]
+You are A WARRIOR who transforms DESTRUCTION to find YOUR VOICE.
+
+[Mars_Pluto_House_4]
+You are A WARRIOR who transforms DESTRUCTION to secure FOUNDATION.
+
+[Mars_Pluto_House_5]
+You are A WARRIOR who transforms DESTRUCTION to manifest JOY.
+
+[Mars_Pluto_House_6]
+You are A WARRIOR who transforms DESTRUCTION to perfect YOUR CRAFT.
+
+[Mars_Pluto_House_7]
+You are A WARRIOR who transforms DESTRUCTION to forge CONNECTION AND MEANING.
+
+[Mars_Pluto_House_8]
+You are A WARRIOR who transforms DESTRUCTION to embrace TRANSFORMATION.
+
+[Mars_Pluto_House_9]
+You are A WARRIOR who transforms DESTRUCTION to discover TRUTH.
+
+[Mars_Pluto_House_10]
+You are A WARRIOR who transforms DESTRUCTION to build A LEGACY.
+
+[Mars_Pluto_House_11]
+You are A WARRIOR who transforms DESTRUCTION to manifest YOUR VISION.
+
+[Mars_Pluto_House_12]
+You are A WARRIOR who transforms DESTRUCTION to find PEACE.
+
+[Mars_Pluto_NorthNode]
+You are A WARRIOR who transforms DESTRUCTION to fulfill THE CALL OF DESTINY.
+
+[Mars_Mars_House_1]
+You are A WARRIOR who transforms BURNOUT to claim YOURSELF.
+
+[Mars_Mars_House_2]
+You are A WARRIOR who transforms BURNOUT to build VALUE.
+
+[Mars_Mars_House_3]
+You are A WARRIOR who transforms BURNOUT to find YOUR VOICE.
+
+[Mars_Mars_House_4]
+You are A WARRIOR who transforms BURNOUT to secure FOUNDATION.
+
+[Mars_Mars_House_5]
+You are A WARRIOR who transforms BURNOUT to manifest JOY.
+
+[Mars_Mars_House_6]
+You are A WARRIOR who transforms BURNOUT to perfect YOUR CRAFT.
+
+[Mars_Mars_House_7]
+You are A WARRIOR who transforms BURNOUT to forge CONNECTION AND MEANING.
+
+[Mars_Mars_House_8]
+You are A WARRIOR who transforms BURNOUT to embrace TRANSFORMATION.
+
+[Mars_Mars_House_9]
+You are A WARRIOR who transforms BURNOUT to discover TRUTH.
+
+[Mars_Mars_House_10]
+You are A WARRIOR who transforms BURNOUT to build A LEGACY.
+
+[Mars_Mars_House_11]
+You are A WARRIOR who transforms BURNOUT to manifest YOUR VISION.
+
+[Mars_Mars_House_12]
+You are A WARRIOR who transforms BURNOUT to find PEACE.
+
+[Mars_Mars_NorthNode]
+You are A WARRIOR who transforms BURNOUT to fulfill THE CALL OF DESTINY.
+
+[Mars_Uranus_House_1]
+You are A WARRIOR who channels CHAOS to claim YOURSELF.
+
+[Mars_Uranus_House_2]
+You are A WARRIOR who channels CHAOS to build VALUE.
+
+[Mars_Uranus_House_3]
+You are A WARRIOR who channels CHAOS to find YOUR VOICE.
+
+[Mars_Uranus_House_4]
+You are A WARRIOR who channels CHAOS to secure FOUNDATION.
+
+[Mars_Uranus_House_5]
+You are A WARRIOR who channels CHAOS to manifest JOY.
+
+[Mars_Uranus_House_6]
+You are A WARRIOR who channels CHAOS to perfect YOUR CRAFT.
+
+[Mars_Uranus_House_7]
+You are A WARRIOR who channels CHAOS to forge CONNECTION AND MEANING.
+
+[Mars_Uranus_House_8]
+You are A WARRIOR who channels CHAOS to embrace TRANSFORMATION.
+
+[Mars_Uranus_House_9]
+You are A WARRIOR who channels CHAOS to discover TRUTH.
+
+[Mars_Uranus_House_10]
+You are A WARRIOR who channels CHAOS to build A LEGACY.
+
+[Mars_Uranus_House_11]
+You are A WARRIOR who channels CHAOS to manifest YOUR VISION.
+
+[Mars_Uranus_House_12]
+You are A WARRIOR who channels CHAOS to find PEACE.
+
+[Mars_Uranus_NorthNode]
+You are A WARRIOR who channels CHAOS to fulfill THE CALL OF DESTINY.
+
+[Mars_House_12_House_1]
+You are A WARRIOR who illuminates THE UNCONSCIOUS to claim YOURSELF.
+
+[Mars_House_12_House_2]
+You are A WARRIOR who illuminates THE UNCONSCIOUS to build VALUE.
+
+[Mars_House_12_House_3]
+You are A WARRIOR who illuminates THE UNCONSCIOUS to find YOUR VOICE.
+
+[Mars_House_12_House_4]
+You are A WARRIOR who illuminates THE UNCONSCIOUS to secure FOUNDATION.
+
+[Mars_House_12_House_5]
+You are A WARRIOR who illuminates THE UNCONSCIOUS to manifest JOY.
+
+[Mars_House_12_House_6]
+You are A WARRIOR who illuminates THE UNCONSCIOUS to perfect YOUR CRAFT.
+
+[Mars_House_12_House_7]
+You are A WARRIOR who illuminates THE UNCONSCIOUS to forge CONNECTION AND MEANING.
+
+[Mars_House_12_House_8]
+You are A WARRIOR who illuminates THE UNCONSCIOUS to embrace TRANSFORMATION.
+
+[Mars_House_12_House_9]
+You are A WARRIOR who illuminates THE UNCONSCIOUS to discover TRUTH.
+
+[Mars_House_12_House_10]
+You are A WARRIOR who illuminates THE UNCONSCIOUS to build A LEGACY.
+
+[Mars_House_12_House_11]
+You are A WARRIOR who illuminates THE UNCONSCIOUS to manifest YOUR VISION.
+
+[Mars_House_12_House_12]
+You are A WARRIOR who illuminates THE UNCONSCIOUS to find PEACE.
+
+[Mars_House_12_NorthNode]
+You are A WARRIOR who illuminates THE UNCONSCIOUS to fulfill THE CALL OF DESTINY.
+
+[Jupiter_square_House_1]
+You are A SAGE who overcomes CONFLICT to claim YOURSELF.
+
+[Jupiter_square_House_2]
+You are A SAGE who overcomes CONFLICT to build VALUE.
+
+[Jupiter_square_House_3]
+You are A SAGE who overcomes CONFLICT to find YOUR VOICE.
+
+[Jupiter_square_House_4]
+You are A SAGE who overcomes CONFLICT to secure FOUNDATION.
+
+[Jupiter_square_House_5]
+You are A SAGE who overcomes CONFLICT to manifest A MASTERPIECE.
+
+[Jupiter_square_House_6]
+You are A SAGE who overcomes CONFLICT to perfect YOUR CRAFT.
+
+[Jupiter_square_House_7]
+You are A SAGE who overcomes CONFLICT to forge CONNECTION.
+
+[Jupiter_square_House_8]
+You are A SAGE who overcomes CONFLICT to embrace TRANSFORMATION.
+
+[Jupiter_square_House_9]
+You are A SAGE who overcomes CONFLICT to discover TRUTH.
+
+[Jupiter_square_House_10]
+You are A SAGE who overcomes CONFLICT to build A LEGACY.
+
+[Jupiter_square_House_11]
+You are A SAGE who overcomes CONFLICT to manifest YOUR VISION.
+
+[Jupiter_square_House_12]
+You are A SAGE who overcomes CONFLICT to find PEACE.
+
+[Jupiter_square_NorthNode]
+You are A SAGE who overcomes CONFLICT to fulfill THE CALL OF DESTINY.
+
+[Jupiter_opposition_House_1]
+You are A SAGE who overcomes RESISTANCE to claim YOURSELF.
+
+[Jupiter_opposition_House_2]
+You are A SAGE who overcomes RESISTANCE to build VALUE.
+
+[Jupiter_opposition_House_3]
+You are A SAGE who overcomes RESISTANCE to find YOUR VOICE.
+
+[Jupiter_opposition_House_4]
+You are A SAGE who overcomes RESISTANCE to secure FOUNDATION.
+
+[Jupiter_opposition_House_5]
+You are A SAGE who overcomes RESISTANCE to manifest A MASTERPIECE.
+
+[Jupiter_opposition_House_6]
+You are A SAGE who overcomes RESISTANCE to perfect YOUR CRAFT.
+
+[Jupiter_opposition_House_7]
+You are A SAGE who overcomes RESISTANCE to forge CONNECTION AND MEANING.
+
+[Jupiter_opposition_House_8]
+You are A SAGE who overcomes RESISTANCE to embrace TRANSFORMATION.
+
+[Jupiter_opposition_House_9]
+You are A SAGE who overcomes RESISTANCE to discover TRUTH.
+
+[Jupiter_opposition_House_10]
+You are A SAGE who overcomes RESISTANCE to build A LEGACY.
+
+[Jupiter_opposition_House_11]
+You are A SAGE who overcomes RESISTANCE to manifest YOUR VISION.
+
+[Jupiter_opposition_House_12]
+You are A SAGE who overcomes RESISTANCE to find PEACE.
+
+[Jupiter_opposition_NorthNode]
+You are A SAGE who overcomes RESISTANCE to fulfill THE CALL OF DESTINY.
+
+[Jupiter_Saturn_House_1]
+You are A SAGE who breaks through RESTRICTION to claim YOURSELF.
+
+[Jupiter_Saturn_House_2]
+You are A SAGE who breaks through RESTRICTION to build VALUE.
+
+[Jupiter_Saturn_House_3]
+You are A SAGE who breaks through RESTRICTION to find YOUR VOICE.
+
+[Jupiter_Saturn_House_4]
+You are A SAGE who breaks through RESTRICTION to secure FOUNDATION.
+
+[Jupiter_Saturn_House_5]
+You are A SAGE who breaks through RESTRICTION to manifest A MASTERPIECE.
+
+[Jupiter_Saturn_House_6]
+You are A SAGE who breaks through RESTRICTION to perfect YOUR CRAFT.
+
+[Jupiter_Saturn_House_7]
+You are A SAGE who breaks through RESTRICTION to forge CONNECTION.
+
+[Jupiter_Saturn_House_8]
+You are A SAGE who breaks through RESTRICTION to embrace TRANSFORMATION.
+
+[Jupiter_Saturn_House_9]
+You are A SAGE who breaks through RESTRICTION to discover TRUTH.
+
+[Jupiter_Saturn_House_10]
+You are A SAGE who breaks through RESTRICTION to build A LEGACY.
+
+[Jupiter_Saturn_House_11]
+You are A SAGE who breaks through RESTRICTION to manifest YOUR VISION.
+
+[Jupiter_Saturn_House_12]
+You are A SAGE who breaks through RESTRICTION to find PEACE.
+
+[Jupiter_Saturn_NorthNode]
+You are A SAGE who breaks through RESTRICTION to fulfill THE CALL OF DESTINY.
+
+[Jupiter_Neptune_House_1]
+You are A SAGE who parts THE FOG to claim YOURSELF.
+
+[Jupiter_Neptune_House_2]
+You are A SAGE who parts THE FOG to build VALUE.
+
+[Jupiter_Neptune_House_3]
+You are A SAGE who parts THE FOG to find YOUR VOICE.
+
+[Jupiter_Neptune_House_4]
+You are A SAGE who parts THE FOG to secure FOUNDATION.
+
+[Jupiter_Neptune_House_5]
+You are A SAGE who parts THE FOG to manifest A MASTERPIECE.
+
+[Jupiter_Neptune_House_6]
+You are A SAGE who parts THE FOG to perfect YOUR CRAFT.
+
+[Jupiter_Neptune_House_7]
+You are A SAGE who parts THE FOG to forge CONNECTION AND MEANING.
+
+[Jupiter_Neptune_House_8]
+You are A SAGE who parts THE FOG to embrace TRANSFORMATION.
+
+[Jupiter_Neptune_House_9]
+You are A SAGE who parts THE FOG to discover TRUTH.
+
+[Jupiter_Neptune_House_10]
+You are A SAGE who parts THE FOG to build A LEGACY.
+
+[Jupiter_Neptune_House_11]
+You are A SAGE who parts THE FOG to manifest YOUR VISION.
+
+[Jupiter_Neptune_House_12]
+You are A SAGE who parts THE FOG to find PEACE.
+
+[Jupiter_Neptune_NorthNode]
+You are A SAGE who parts THE FOG to fulfill THE CALL OF DESTINY.
+
+[Jupiter_Pluto_House_1]
+You are A SAGE who transforms DESTRUCTION to claim YOURSELF.
+
+[Jupiter_Pluto_House_2]
+You are A SAGE who transforms DESTRUCTION to build VALUE.
+
+[Jupiter_Pluto_House_3]
+You are A SAGE who transforms DESTRUCTION to find YOUR VOICE.
+
+[Jupiter_Pluto_House_4]
+You are A SAGE who transforms DESTRUCTION to secure FOUNDATION.
+
+[Jupiter_Pluto_House_5]
+You are A SAGE who transforms DESTRUCTION to manifest A MASTERPIECE.
+
+[Jupiter_Pluto_House_6]
+You are A SAGE who transforms DESTRUCTION to perfect YOUR CRAFT.
+
+[Jupiter_Pluto_House_7]
+You are A SAGE who transforms DESTRUCTION to forge CONNECTION.
+
+[Jupiter_Pluto_House_8]
+You are A SAGE who transforms DESTRUCTION to embrace TRANSFORMATION.
+
+[Jupiter_Pluto_House_9]
+You are A SAGE who transforms DESTRUCTION to discover TRUTH.
+
+[Jupiter_Pluto_House_10]
+You are A SAGE who transforms DESTRUCTION to build A LEGACY.
+
+[Jupiter_Pluto_House_11]
+You are A SAGE who transforms DESTRUCTION to manifest YOUR VISION.
+
+[Jupiter_Pluto_House_12]
+You are A SAGE who transforms DESTRUCTION to find PEACE.
+
+[Jupiter_Pluto_NorthNode]
+You are A SAGE who transforms DESTRUCTION to fulfill THE CALL OF DESTINY.
+
+[Jupiter_Mars_House_1]
+You are A SAGE who transforms BURNOUT to claim YOURSELF.
+
+[Jupiter_Mars_House_2]
+You are A SAGE who transforms BURNOUT to build VALUE.
+
+[Jupiter_Mars_House_3]
+You are A SAGE who transforms BURNOUT to find YOUR VOICE.
+
+[Jupiter_Mars_House_4]
+You are A SAGE who transforms BURNOUT to secure FOUNDATION.
+
+[Jupiter_Mars_House_5]
+You are A SAGE who transforms BURNOUT to manifest A MASTERPIECE.
+
+[Jupiter_Mars_House_6]
+You are A SAGE who transforms BURNOUT to perfect YOUR CRAFT.
+
+[Jupiter_Mars_House_7]
+You are A SAGE who transforms BURNOUT to forge CONNECTION.
+
+[Jupiter_Mars_House_8]
+You are A SAGE who transforms BURNOUT to embrace TRANSFORMATION.
+
+[Jupiter_Mars_House_9]
+You are A SAGE who transforms BURNOUT to discover TRUTH.
+
+[Jupiter_Mars_House_10]
+You are A SAGE who transforms BURNOUT to build A LEGACY.
+
+[Jupiter_Mars_House_11]
+You are A SAGE who transforms BURNOUT to manifest YOUR VISION.
+
+[Jupiter_Mars_House_12]
+You are A SAGE who transforms BURNOUT to find PEACE.
+
+[Jupiter_Mars_NorthNode]
+You are A SAGE who transforms BURNOUT to fulfill THE CALL OF DESTINY.
+
+[Jupiter_Uranus_House_1]
+You are A SAGE who channels CHAOS to claim YOURSELF.
+
+[Jupiter_Uranus_House_2]
+You are A SAGE who channels CHAOS to build VALUE.
+
+[Jupiter_Uranus_House_3]
+You are A SAGE who channels CHAOS to find YOUR VOICE.
+
+[Jupiter_Uranus_House_4]
+You are A SAGE who channels CHAOS to secure FOUNDATION.
+
+[Jupiter_Uranus_House_5]
+You are A SAGE who channels CHAOS to manifest A MASTERPIECE.
+
+[Jupiter_Uranus_House_6]
+You are A SAGE who channels CHAOS to perfect YOUR CRAFT.
+
+[Jupiter_Uranus_House_7]
+You are A SAGE who channels CHAOS to forge CONNECTION.
+
+[Jupiter_Uranus_House_8]
+You are A SAGE who channels CHAOS to embrace TRANSFORMATION.
+
+[Jupiter_Uranus_House_9]
+You are A SAGE who channels CHAOS to discover TRUTH.
+
+[Jupiter_Uranus_House_10]
+You are A SAGE who channels CHAOS to build A LEGACY.
+
+[Jupiter_Uranus_House_11]
+You are A SAGE who channels CHAOS to manifest YOUR VISION.
+
+[Jupiter_Uranus_House_12]
+You are A SAGE who channels CHAOS to find PEACE.
+
+[Jupiter_Uranus_NorthNode]
+You are A SAGE who channels CHAOS to fulfill THE CALL OF DESTINY.
+
+[Jupiter_House_12_House_1]
+You are A SAGE who illuminates THE UNCONSCIOUS to claim YOURSELF.
+
+[Jupiter_House_12_House_2]
+You are A SAGE who illuminates THE UNCONSCIOUS to build VALUE.
+
+[Jupiter_House_12_House_3]
+You are A SAGE who illuminates THE UNCONSCIOUS to find YOUR VOICE.
+
+[Jupiter_House_12_House_4]
+You are A SAGE who illuminates THE UNCONSCIOUS to secure FOUNDATION.
+
+[Jupiter_House_12_House_5]
+You are A SAGE who illuminates THE UNCONSCIOUS to manifest A MASTERPIECE.
+
+[Jupiter_House_12_House_6]
+You are A SAGE who illuminates THE UNCONSCIOUS to perfect YOUR CRAFT.
+
+[Jupiter_House_12_House_7]
+You are A SAGE who illuminates THE UNCONSCIOUS to forge CONNECTION.
+
+[Jupiter_House_12_House_8]
+You are A SAGE who illuminates THE UNCONSCIOUS to embrace TRANSFORMATION.
+
+[Jupiter_House_12_House_9]
+You are A SAGE who illuminates THE UNCONSCIOUS to discover TRUTH.
+
+[Jupiter_House_12_House_10]
+You are A SAGE who illuminates THE UNCONSCIOUS to build A LEGACY.
+
+[Jupiter_House_12_House_11]
+You are A SAGE who illuminates THE UNCONSCIOUS to manifest YOUR VISION.
+
+[Jupiter_House_12_House_12]
+You are A SAGE who illuminates THE UNCONSCIOUS to find PEACE.
+
+[Jupiter_House_12_NorthNode]
+You are A SAGE who illuminates THE UNCONSCIOUS to fulfill THE CALL OF DESTINY.
+
+[Saturn_square_House_1]
+You are A BUILDER who overcomes CONFLICT to claim YOURSELF.
+
+[Saturn_square_House_2]
+You are A BUILDER who overcomes CONFLICT to build VALUE.
+
+[Saturn_square_House_3]
+You are A BUILDER who overcomes CONFLICT to find YOUR VOICE.
+
+[Saturn_square_House_4]
+You are A BUILDER who overcomes CONFLICT to secure FOUNDATION.
+
+[Saturn_square_House_5]
+You are A BUILDER who overcomes CONFLICT to manifest A MASTERPIECE.
+
+[Saturn_square_House_6]
+You are A BUILDER who overcomes CONFLICT to perfect YOUR CRAFT.
+
+[Saturn_square_House_7]
+You are A BUILDER who overcomes CONFLICT to forge CONNECTION.
+
+[Saturn_square_House_8]
+You are A BUILDER who overcomes CONFLICT to embrace TRANSFORMATION.
+
+[Saturn_square_House_9]
+You are A BUILDER who overcomes CONFLICT to discover TRUTH.
+
+[Saturn_square_House_10]
+You are A BUILDER who overcomes CONFLICT to build A LEGACY.
+
+[Saturn_square_House_11]
+You are A BUILDER who overcomes CONFLICT to manifest YOUR VISION.
+
+[Saturn_square_House_12]
+You are A BUILDER who overcomes CONFLICT to find PEACE.
+
+[Saturn_square_NorthNode]
+You are A BUILDER who overcomes CONFLICT to fulfill THE CALL OF DESTINY.
+
+[Saturn_opposition_House_1]
+You are A BUILDER who overcomes RESISTANCE to claim YOURSELF.
+
+[Saturn_opposition_House_2]
+You are A BUILDER who overcomes RESISTANCE to build VALUE.
+
+[Saturn_opposition_House_3]
+You are A BUILDER who overcomes RESISTANCE to find YOUR VOICE.
+
+[Saturn_opposition_House_4]
+You are A BUILDER who overcomes RESISTANCE to secure FOUNDATION.
+
+[Saturn_opposition_House_5]
+You are A BUILDER who overcomes RESISTANCE to manifest A MASTERPIECE.
+
+[Saturn_opposition_House_6]
+You are A BUILDER who overcomes RESISTANCE to perfect YOUR CRAFT.
+
+[Saturn_opposition_House_7]
+You are A BUILDER who overcomes RESISTANCE to forge CONNECTION AND MEANING.
+
+[Saturn_opposition_House_8]
+You are A BUILDER who overcomes RESISTANCE to embrace TRANSFORMATION.
+
+[Saturn_opposition_House_9]
+You are A BUILDER who overcomes RESISTANCE to discover TRUTH.
+
+[Saturn_opposition_House_10]
+You are A BUILDER who overcomes RESISTANCE to build A LEGACY.
+
+[Saturn_opposition_House_11]
+You are A BUILDER who overcomes RESISTANCE to manifest YOUR VISION.
+
+[Saturn_opposition_House_12]
+You are A BUILDER who overcomes RESISTANCE to find PEACE.
+
+[Saturn_opposition_NorthNode]
+You are A BUILDER who overcomes RESISTANCE to fulfill THE CALL OF DESTINY.
+
+[Saturn_Saturn_House_1]
+You are A BUILDER who breaks through RESTRICTION to claim YOURSELF.
+
+[Saturn_Saturn_House_2]
+You are A BUILDER who breaks through RESTRICTION to build VALUE.
+
+[Saturn_Saturn_House_3]
+You are A BUILDER who breaks through RESTRICTION to find YOUR VOICE.
+
+[Saturn_Saturn_House_4]
+You are A BUILDER who breaks through RESTRICTION to secure FOUNDATION.
+
+[Saturn_Saturn_House_5]
+You are A BUILDER who breaks through RESTRICTION to manifest A MASTERPIECE.
+
+[Saturn_Saturn_House_6]
+You are A BUILDER who breaks through RESTRICTION to perfect YOUR CRAFT.
+
+[Saturn_Saturn_House_7]
+You are A BUILDER who breaks through RESTRICTION to forge CONNECTION.
+
+[Saturn_Saturn_House_8]
+You are A BUILDER who breaks through RESTRICTION to embrace TRANSFORMATION.
+
+[Saturn_Saturn_House_9]
+You are A BUILDER who breaks through RESTRICTION to discover TRUTH.
+
+[Saturn_Saturn_House_10]
+You are A BUILDER who breaks through RESTRICTION to build A LEGACY.
+
+[Saturn_Saturn_House_11]
+You are A BUILDER who breaks through RESTRICTION to manifest YOUR VISION.
+
+[Saturn_Saturn_House_12]
+You are A BUILDER who breaks through RESTRICTION to find PEACE.
+
+[Saturn_Saturn_NorthNode]
+You are A BUILDER who breaks through RESTRICTION to fulfill THE CALL OF DESTINY.
+
+[Saturn_Neptune_House_1]
+You are A BUILDER who parts THE FOG to claim YOURSELF.
+
+[Saturn_Neptune_House_2]
+You are A BUILDER who parts THE FOG to build VALUE.
+
+[Saturn_Neptune_House_3]
+You are A BUILDER who parts THE FOG to find YOUR VOICE.
+
+[Saturn_Neptune_House_4]
+You are A BUILDER who parts THE FOG to secure FOUNDATION.
+
+[Saturn_Neptune_House_5]
+You are A BUILDER who parts THE FOG to manifest A MASTERPIECE.
+
+[Saturn_Neptune_House_6]
+You are A BUILDER who parts THE FOG to perfect YOUR CRAFT.
+
+[Saturn_Neptune_House_7]
+You are A BUILDER who parts THE FOG to forge CONNECTION AND MEANING.
+
+[Saturn_Neptune_House_8]
+You are A BUILDER who parts THE FOG to embrace TRANSFORMATION.
+
+[Saturn_Neptune_House_9]
+You are A BUILDER who parts THE FOG to discover TRUTH.
+
+[Saturn_Neptune_House_10]
+You are A BUILDER who parts THE FOG to build A LEGACY.
+
+[Saturn_Neptune_House_11]
+You are A BUILDER who parts THE FOG to manifest YOUR VISION.
+
+[Saturn_Neptune_House_12]
+You are A BUILDER who parts THE FOG to find PEACE.
+
+[Saturn_Neptune_NorthNode]
+You are A BUILDER who parts THE FOG to fulfill THE CALL OF DESTINY.
+
+[Saturn_Pluto_House_1]
+You are A BUILDER who transforms DESTRUCTION to claim YOURSELF.
+
+[Saturn_Pluto_House_2]
+You are A BUILDER who transforms DESTRUCTION to build VALUE.
+
+[Saturn_Pluto_House_3]
+You are A BUILDER who transforms DESTRUCTION to find YOUR VOICE.
+
+[Saturn_Pluto_House_4]
+You are A BUILDER who transforms DESTRUCTION to secure FOUNDATION.
+
+[Saturn_Pluto_House_5]
+You are A BUILDER who transforms DESTRUCTION to manifest A MASTERPIECE.
+
+[Saturn_Pluto_House_6]
+You are A BUILDER who transforms DESTRUCTION to perfect YOUR CRAFT.
+
+[Saturn_Pluto_House_7]
+You are A BUILDER who transforms DESTRUCTION to forge CONNECTION.
+
+[Saturn_Pluto_House_8]
+You are A BUILDER who transforms DESTRUCTION to embrace TRANSFORMATION.
+
+[Saturn_Pluto_House_9]
+You are A BUILDER who transforms DESTRUCTION to discover TRUTH.
+
+[Saturn_Pluto_House_10]
+You are A BUILDER who transforms DESTRUCTION to build A LEGACY.
+
+[Saturn_Pluto_House_11]
+You are A BUILDER who transforms DESTRUCTION to manifest YOUR VISION.
+
+[Saturn_Pluto_House_12]
+You are A BUILDER who transforms DESTRUCTION to find PEACE.
+
+[Saturn_Pluto_NorthNode]
+You are A BUILDER who transforms DESTRUCTION to fulfill THE CALL OF DESTINY.
+
+[Saturn_Mars_House_1]
+You are A BUILDER who transforms BURNOUT to claim YOURSELF.
+
+[Saturn_Mars_House_2]
+You are A BUILDER who transforms BURNOUT to build VALUE.
+
+[Saturn_Mars_House_3]
+You are A BUILDER who transforms BURNOUT to find YOUR VOICE.
+
+[Saturn_Mars_House_4]
+You are A BUILDER who transforms BURNOUT to secure FOUNDATION.
+
+[Saturn_Mars_House_5]
+You are A BUILDER who transforms BURNOUT to manifest A MASTERPIECE.
+
+[Saturn_Mars_House_6]
+You are A BUILDER who transforms BURNOUT to perfect YOUR CRAFT.
+
+[Saturn_Mars_House_7]
+You are A BUILDER who transforms BURNOUT to forge CONNECTION.
+
+[Saturn_Mars_House_8]
+You are A BUILDER who transforms BURNOUT to embrace TRANSFORMATION.
+
+[Saturn_Mars_House_9]
+You are A BUILDER who transforms BURNOUT to discover TRUTH.
+
+[Saturn_Mars_House_10]
+You are A BUILDER who transforms BURNOUT to build A LEGACY.
+
+[Saturn_Mars_House_11]
+You are A BUILDER who transforms BURNOUT to manifest YOUR VISION.
+
+[Saturn_Mars_House_12]
+You are A BUILDER who transforms BURNOUT to find PEACE.
+
+[Saturn_Mars_NorthNode]
+You are A BUILDER who transforms BURNOUT to fulfill THE CALL OF DESTINY.
+
+[Saturn_Uranus_House_1]
+You are A BUILDER who channels CHAOS to claim YOURSELF.
+
+[Saturn_Uranus_House_2]
+You are A BUILDER who channels CHAOS to build VALUE.
+
+[Saturn_Uranus_House_3]
+You are A BUILDER who channels CHAOS to find YOUR VOICE.
+
+[Saturn_Uranus_House_4]
+You are A BUILDER who channels CHAOS to secure FOUNDATION.
+
+[Saturn_Uranus_House_5]
+You are A BUILDER who channels CHAOS to manifest A MASTERPIECE.
+
+[Saturn_Uranus_House_6]
+You are A BUILDER who channels CHAOS to perfect YOUR CRAFT.
+
+[Saturn_Uranus_House_7]
+You are A BUILDER who channels CHAOS to forge CONNECTION.
+
+[Saturn_Uranus_House_8]
+You are A BUILDER who channels CHAOS to embrace TRANSFORMATION.
+
+[Saturn_Uranus_House_9]
+You are A BUILDER who channels CHAOS to discover TRUTH.
+
+[Saturn_Uranus_House_10]
+You are A BUILDER who channels CHAOS to build A LEGACY.
+
+[Saturn_Uranus_House_11]
+You are A BUILDER who channels CHAOS to manifest YOUR VISION.
+
+[Saturn_Uranus_House_12]
+You are A BUILDER who channels CHAOS to find PEACE.
+
+[Saturn_Uranus_NorthNode]
+You are A BUILDER who channels CHAOS to fulfill THE CALL OF DESTINY.
+
+[Saturn_House_12_House_1]
+You are A BUILDER who illuminates THE UNCONSCIOUS to claim YOURSELF.
+
+[Saturn_House_12_House_2]
+You are A BUILDER who illuminates THE UNCONSCIOUS to build VALUE.
+
+[Saturn_House_12_House_3]
+You are A BUILDER who illuminates THE UNCONSCIOUS to find YOUR VOICE.
+
+[Saturn_House_12_House_4]
+You are A BUILDER who illuminates THE UNCONSCIOUS to secure FOUNDATION.
+
+[Saturn_House_12_House_5]
+You are A BUILDER who illuminates THE UNCONSCIOUS to manifest A MASTERPIECE.
+
+[Saturn_House_12_House_6]
+You are A BUILDER who illuminates THE UNCONSCIOUS to perfect YOUR CRAFT.
+
+[Saturn_House_12_House_7]
+You are A BUILDER who illuminates THE UNCONSCIOUS to forge CONNECTION.
+
+[Saturn_House_12_House_8]
+You are A BUILDER who illuminates THE UNCONSCIOUS to embrace TRANSFORMATION.
+
+[Saturn_House_12_House_9]
+You are A BUILDER who illuminates THE UNCONSCIOUS to discover TRUTH.
+
+[Saturn_House_12_House_10]
+You are A BUILDER who illuminates THE UNCONSCIOUS to build A LEGACY.
+
+[Saturn_House_12_House_11]
+You are A BUILDER who illuminates THE UNCONSCIOUS to manifest YOUR VISION.
+
+[Saturn_House_12_House_12]
+You are A BUILDER who illuminates THE UNCONSCIOUS to find PEACE.
+
+[Saturn_House_12_NorthNode]
+You are A BUILDER who illuminates THE UNCONSCIOUS to fulfill THE CALL OF DESTINY.
+
+[Uranus_square_House_1]
+You are A REBEL who overcomes CONFLICT to claim YOURSELF.
+
+[Uranus_square_House_2]
+You are A REBEL who overcomes CONFLICT to build VALUE.
+
+[Uranus_square_House_3]
+You are A REBEL who overcomes CONFLICT to find YOUR VOICE.
+
+[Uranus_square_House_4]
+You are A REBEL who overcomes CONFLICT to secure FOUNDATION.
+
+[Uranus_square_House_5]
+You are A REBEL who overcomes CONFLICT to manifest JOY.
+
+[Uranus_square_House_6]
+You are A REBEL who overcomes CONFLICT to perfect YOUR CRAFT.
+
+[Uranus_square_House_7]
+You are A REBEL who overcomes CONFLICT to forge CONNECTION.
+
+[Uranus_square_House_8]
+You are A REBEL who overcomes CONFLICT to embrace TRANSFORMATION.
+
+[Uranus_square_House_9]
+You are A REBEL who overcomes CONFLICT to discover TRUTH.
+
+[Uranus_square_House_10]
+You are A REBEL who overcomes CONFLICT to build A LEGACY.
+
+[Uranus_square_House_11]
+You are A REBEL who overcomes CONFLICT to manifest YOUR VISION.
+
+[Uranus_square_House_12]
+You are A REBEL who overcomes CONFLICT to find PEACE.
+
+[Uranus_square_NorthNode]
+You are A REBEL who overcomes CONFLICT to fulfill THE CALL OF DESTINY.
+
+[Uranus_opposition_House_1]
+You are A REBEL who overcomes RESISTANCE to claim YOURSELF.
+
+[Uranus_opposition_House_2]
+You are A REBEL who overcomes RESISTANCE to build VALUE.
+
+[Uranus_opposition_House_3]
+You are A REBEL who overcomes RESISTANCE to find YOUR VOICE.
+
+[Uranus_opposition_House_4]
+You are A REBEL who overcomes RESISTANCE to secure FOUNDATION.
+
+[Uranus_opposition_House_5]
+You are A REBEL who overcomes RESISTANCE to manifest JOY.
+
+[Uranus_opposition_House_6]
+You are A REBEL who overcomes RESISTANCE to perfect YOUR CRAFT.
+
+[Uranus_opposition_House_7]
+You are A REBEL who overcomes RESISTANCE to forge CONNECTION AND MEANING.
+
+[Uranus_opposition_House_8]
+You are A REBEL who overcomes RESISTANCE to embrace TRANSFORMATION.
+
+[Uranus_opposition_House_9]
+You are A REBEL who overcomes RESISTANCE to discover TRUTH.
+
+[Uranus_opposition_House_10]
+You are A REBEL who overcomes RESISTANCE to build A LEGACY.
+
+[Uranus_opposition_House_11]
+You are A REBEL who overcomes RESISTANCE to manifest YOUR VISION.
+
+[Uranus_opposition_House_12]
+You are A REBEL who overcomes RESISTANCE to find PEACE.
+
+[Uranus_opposition_NorthNode]
+You are A REBEL who overcomes RESISTANCE to fulfill THE CALL OF DESTINY.
+
+[Uranus_Saturn_House_1]
+You are A REBEL who breaks through RESTRICTION to claim YOURSELF.
+
+[Uranus_Saturn_House_2]
+You are A REBEL who breaks through RESTRICTION to build VALUE.
+
+[Uranus_Saturn_House_3]
+You are A REBEL who breaks through RESTRICTION to find YOUR VOICE.
+
+[Uranus_Saturn_House_4]
+You are A REBEL who breaks through RESTRICTION to secure FOUNDATION.
+
+[Uranus_Saturn_House_5]
+You are A REBEL who breaks through RESTRICTION to manifest JOY.
+
+[Uranus_Saturn_House_6]
+You are A REBEL who breaks through RESTRICTION to perfect YOUR CRAFT.
+
+[Uranus_Saturn_House_7]
+You are A REBEL who breaks through RESTRICTION to forge CONNECTION.
+
+[Uranus_Saturn_House_8]
+You are A REBEL who breaks through RESTRICTION to embrace TRANSFORMATION.
+
+[Uranus_Saturn_House_9]
+You are A REBEL who breaks through RESTRICTION to discover TRUTH.
+
+[Uranus_Saturn_House_10]
+You are A REBEL who breaks through RESTRICTION to build A LEGACY.
+
+[Uranus_Saturn_House_11]
+You are A REBEL who breaks through RESTRICTION to manifest YOUR VISION.
+
+[Uranus_Saturn_House_12]
+You are A REBEL who breaks through RESTRICTION to find PEACE.
+
+[Uranus_Saturn_NorthNode]
+You are A REBEL who breaks through RESTRICTION to fulfill THE CALL OF DESTINY.
+
+[Uranus_Neptune_House_1]
+You are A REBEL who parts THE FOG to claim YOURSELF.
+
+[Uranus_Neptune_House_2]
+You are A REBEL who parts THE FOG to build VALUE.
+
+[Uranus_Neptune_House_3]
+You are A REBEL who parts THE FOG to find YOUR VOICE.
+
+[Uranus_Neptune_House_4]
+You are A REBEL who parts THE FOG to secure FOUNDATION.
+
+[Uranus_Neptune_House_5]
+You are A REBEL who parts THE FOG to manifest JOY.
+
+[Uranus_Neptune_House_6]
+You are A REBEL who parts THE FOG to perfect YOUR CRAFT.
+
+[Uranus_Neptune_House_7]
+You are A REBEL who parts THE FOG to forge CONNECTION AND MEANING.
+
+[Uranus_Neptune_House_8]
+You are A REBEL who parts THE FOG to embrace TRANSFORMATION.
+
+[Uranus_Neptune_House_9]
+You are A REBEL who parts THE FOG to discover TRUTH.
+
+[Uranus_Neptune_House_10]
+You are A REBEL who parts THE FOG to build A LEGACY.
+
+[Uranus_Neptune_House_11]
+You are A REBEL who parts THE FOG to manifest YOUR VISION.
+
+[Uranus_Neptune_House_12]
+You are A REBEL who parts THE FOG to find PEACE.
+
+[Uranus_Neptune_NorthNode]
+You are A REBEL who parts THE FOG to fulfill THE CALL OF DESTINY.
+
+[Uranus_Pluto_House_1]
+You are A REBEL who transforms DESTRUCTION to claim YOURSELF.
+
+[Uranus_Pluto_House_2]
+You are A REBEL who transforms DESTRUCTION to build VALUE.
+
+[Uranus_Pluto_House_3]
+You are A REBEL who transforms DESTRUCTION to find YOUR VOICE.
+
+[Uranus_Pluto_House_4]
+You are A REBEL who transforms DESTRUCTION to secure FOUNDATION.
+
+[Uranus_Pluto_House_5]
+You are A REBEL who transforms DESTRUCTION to manifest JOY.
+
+[Uranus_Pluto_House_6]
+You are A REBEL who transforms DESTRUCTION to perfect YOUR CRAFT.
+
+[Uranus_Pluto_House_7]
+You are A REBEL who transforms DESTRUCTION to forge CONNECTION.
+
+[Uranus_Pluto_House_8]
+You are A REBEL who transforms DESTRUCTION to embrace TRANSFORMATION.
+
+[Uranus_Pluto_House_9]
+You are A REBEL who transforms DESTRUCTION to discover TRUTH.
+
+[Uranus_Pluto_House_10]
+You are A REBEL who transforms DESTRUCTION to build A LEGACY.
+
+[Uranus_Pluto_House_11]
+You are A REBEL who transforms DESTRUCTION to manifest YOUR VISION.
+
+[Uranus_Pluto_House_12]
+You are A REBEL who transforms DESTRUCTION to find PEACE.
+
+[Uranus_Pluto_NorthNode]
+You are A REBEL who transforms DESTRUCTION to fulfill THE CALL OF DESTINY.
+
+[Uranus_Mars_House_1]
+You are A REBEL who transforms BURNOUT to claim YOURSELF.
+
+[Uranus_Mars_House_2]
+You are A REBEL who transforms BURNOUT to build VALUE.
+
+[Uranus_Mars_House_3]
+You are A REBEL who transforms BURNOUT to find YOUR VOICE.
+
+[Uranus_Mars_House_4]
+You are A REBEL who transforms BURNOUT to secure FOUNDATION.
+
+[Uranus_Mars_House_5]
+You are A REBEL who transforms BURNOUT to manifest JOY.
+
+[Uranus_Mars_House_6]
+You are A REBEL who transforms BURNOUT to perfect YOUR CRAFT.
+
+[Uranus_Mars_House_7]
+You are A REBEL who transforms BURNOUT to forge CONNECTION.
+
+[Uranus_Mars_House_8]
+You are A REBEL who transforms BURNOUT to embrace TRANSFORMATION.
+
+[Uranus_Mars_House_9]
+You are A REBEL who transforms BURNOUT to discover TRUTH.
+
+[Uranus_Mars_House_10]
+You are A REBEL who transforms BURNOUT to build A LEGACY.
+
+[Uranus_Mars_House_11]
+You are A REBEL who transforms BURNOUT to manifest YOUR VISION.
+
+[Uranus_Mars_House_12]
+You are A REBEL who transforms BURNOUT to find PEACE.
+
+[Uranus_Mars_NorthNode]
+You are A REBEL who transforms BURNOUT to fulfill THE CALL OF DESTINY.
+
+[Uranus_Uranus_House_1]
+You are A REBEL who channels CHAOS to claim YOURSELF.
+
+[Uranus_Uranus_House_2]
+You are A REBEL who channels CHAOS to build VALUE.
+
+[Uranus_Uranus_House_3]
+You are A REBEL who channels CHAOS to find YOUR VOICE.
+
+[Uranus_Uranus_House_4]
+You are A REBEL who channels CHAOS to secure FOUNDATION.
+
+[Uranus_Uranus_House_5]
+You are A REBEL who channels CHAOS to manifest JOY.
+
+[Uranus_Uranus_House_6]
+You are A REBEL who channels CHAOS to perfect YOUR CRAFT.
+
+[Uranus_Uranus_House_7]
+You are A REBEL who channels CHAOS to forge CONNECTION.
+
+[Uranus_Uranus_House_8]
+You are A REBEL who channels CHAOS to embrace TRANSFORMATION.
+
+[Uranus_Uranus_House_9]
+You are A REBEL who channels CHAOS to discover TRUTH.
+
+[Uranus_Uranus_House_10]
+You are A REBEL who channels CHAOS to build A LEGACY.
+
+[Uranus_Uranus_House_11]
+You are A REBEL who channels CHAOS to manifest YOUR VISION.
+
+[Uranus_Uranus_House_12]
+You are A REBEL who channels CHAOS to find PEACE.
+
+[Uranus_Uranus_NorthNode]
+You are A REBEL who channels CHAOS to fulfill THE CALL OF DESTINY.
+
+[Uranus_House_12_House_1]
+You are A REBEL who illuminates THE UNCONSCIOUS to claim YOURSELF.
+
+[Uranus_House_12_House_2]
+You are A REBEL who illuminates THE UNCONSCIOUS to build VALUE.
+
+[Uranus_House_12_House_3]
+You are A REBEL who illuminates THE UNCONSCIOUS to find YOUR VOICE.
+
+[Uranus_House_12_House_4]
+You are A REBEL who illuminates THE UNCONSCIOUS to secure FOUNDATION.
+
+[Uranus_House_12_House_5]
+You are A REBEL who illuminates THE UNCONSCIOUS to manifest JOY.
+
+[Uranus_House_12_House_6]
+You are A REBEL who illuminates THE UNCONSCIOUS to perfect YOUR CRAFT.
+
+[Uranus_House_12_House_7]
+You are A REBEL who illuminates THE UNCONSCIOUS to forge CONNECTION.
+
+[Uranus_House_12_House_8]
+You are A REBEL who illuminates THE UNCONSCIOUS to embrace TRANSFORMATION.
+
+[Uranus_House_12_House_9]
+You are A REBEL who illuminates THE UNCONSCIOUS to discover TRUTH.
+
+[Uranus_House_12_House_10]
+You are A REBEL who illuminates THE UNCONSCIOUS to build A LEGACY.
+
+[Uranus_House_12_House_11]
+You are A REBEL who illuminates THE UNCONSCIOUS to manifest YOUR VISION.
+
+[Uranus_House_12_House_12]
+You are A REBEL who illuminates THE UNCONSCIOUS to find PEACE.
+
+[Uranus_House_12_NorthNode]
+You are A REBEL who illuminates THE UNCONSCIOUS to fulfill THE CALL OF DESTINY.
+
+[Neptune_square_House_1]
+You are A DREAMER who overcomes CONFLICT to claim YOURSELF.
+
+[Neptune_square_House_2]
+You are A DREAMER who overcomes CONFLICT to build VALUE.
+
+[Neptune_square_House_3]
+You are A DREAMER who overcomes CONFLICT to find YOUR VOICE.
+
+[Neptune_square_House_4]
+You are A DREAMER who overcomes CONFLICT to secure FOUNDATION.
+
+[Neptune_square_House_5]
+You are A DREAMER who overcomes CONFLICT to manifest A MASTERPIECE.
+
+[Neptune_square_House_6]
+You are A DREAMER who overcomes CONFLICT to perfect YOUR CRAFT.
+
+[Neptune_square_House_7]
+You are A DREAMER who overcomes CONFLICT to forge CONNECTION.
+
+[Neptune_square_House_8]
+You are A DREAMER who overcomes CONFLICT to embrace TRANSFORMATION.
+
+[Neptune_square_House_9]
+You are A DREAMER who overcomes CONFLICT to discover TRUTH.
+
+[Neptune_square_House_10]
+You are A DREAMER who overcomes CONFLICT to build A LEGACY.
+
+[Neptune_square_House_11]
+You are A DREAMER who overcomes CONFLICT to manifest YOUR VISION.
+
+[Neptune_square_House_12]
+You are A DREAMER who overcomes CONFLICT to find PEACE.
+
+[Neptune_square_NorthNode]
+You are A DREAMER who overcomes CONFLICT to fulfill THE CALL OF DESTINY.
+
+[Neptune_opposition_House_1]
+You are A DREAMER who overcomes RESISTANCE to claim YOURSELF.
+
+[Neptune_opposition_House_2]
+You are A DREAMER who overcomes RESISTANCE to build VALUE.
+
+[Neptune_opposition_House_3]
+You are A DREAMER who overcomes RESISTANCE to find YOUR VOICE.
+
+[Neptune_opposition_House_4]
+You are A DREAMER who overcomes RESISTANCE to secure FOUNDATION.
+
+[Neptune_opposition_House_5]
+You are A DREAMER who overcomes RESISTANCE to manifest A MASTERPIECE.
+
+[Neptune_opposition_House_6]
+You are A DREAMER who overcomes RESISTANCE to perfect YOUR CRAFT.
+
+[Neptune_opposition_House_7]
+You are A DREAMER who overcomes RESISTANCE to forge CONNECTION AND MEANING.
+
+[Neptune_opposition_House_8]
+You are A DREAMER who overcomes RESISTANCE to embrace TRANSFORMATION.
+
+[Neptune_opposition_House_9]
+You are A DREAMER who overcomes RESISTANCE to discover TRUTH.
+
+[Neptune_opposition_House_10]
+You are A DREAMER who overcomes RESISTANCE to build A LEGACY.
+
+[Neptune_opposition_House_11]
+You are A DREAMER who overcomes RESISTANCE to manifest YOUR VISION.
+
+[Neptune_opposition_House_12]
+You are A DREAMER who overcomes RESISTANCE to find PEACE.
+
+[Neptune_opposition_NorthNode]
+You are A DREAMER who overcomes RESISTANCE to fulfill THE CALL OF DESTINY.
+
+[Neptune_Saturn_House_1]
+You are A DREAMER who breaks through RESTRICTION to claim YOURSELF.
+
+[Neptune_Saturn_House_2]
+You are A DREAMER who breaks through RESTRICTION to build VALUE.
+
+[Neptune_Saturn_House_3]
+You are A DREAMER who breaks through RESTRICTION to find YOUR VOICE.
+
+[Neptune_Saturn_House_4]
+You are A DREAMER who breaks through RESTRICTION to secure FOUNDATION.
+
+[Neptune_Saturn_House_5]
+You are A DREAMER who breaks through RESTRICTION to manifest A MASTERPIECE.
+
+[Neptune_Saturn_House_6]
+You are A DREAMER who breaks through RESTRICTION to perfect YOUR CRAFT.
+
+[Neptune_Saturn_House_7]
+You are A DREAMER who breaks through RESTRICTION to forge CONNECTION.
+
+[Neptune_Saturn_House_8]
+You are A DREAMER who breaks through RESTRICTION to embrace TRANSFORMATION.
+
+[Neptune_Saturn_House_9]
+You are A DREAMER who breaks through RESTRICTION to discover TRUTH.
+
+[Neptune_Saturn_House_10]
+You are A DREAMER who breaks through RESTRICTION to build A LEGACY.
+
+[Neptune_Saturn_House_11]
+You are A DREAMER who breaks through RESTRICTION to manifest YOUR VISION.
+
+[Neptune_Saturn_House_12]
+You are A DREAMER who breaks through RESTRICTION to find PEACE.
+
+[Neptune_Saturn_NorthNode]
+You are A DREAMER who breaks through RESTRICTION to fulfill THE CALL OF DESTINY.
+
+[Neptune_Neptune_House_1]
+You are A DREAMER who parts THE FOG to claim YOURSELF.
+
+[Neptune_Neptune_House_2]
+You are A DREAMER who parts THE FOG to build VALUE.
+
+[Neptune_Neptune_House_3]
+You are A DREAMER who parts THE FOG to find YOUR VOICE.
+
+[Neptune_Neptune_House_4]
+You are A DREAMER who parts THE FOG to secure FOUNDATION.
+
+[Neptune_Neptune_House_5]
+You are A DREAMER who parts THE FOG to manifest A MASTERPIECE.
+
+[Neptune_Neptune_House_6]
+You are A DREAMER who parts THE FOG to perfect YOUR CRAFT.
+
+[Neptune_Neptune_House_7]
+You are A DREAMER who parts THE FOG to forge CONNECTION AND MEANING.
+
+[Neptune_Neptune_House_8]
+You are A DREAMER who parts THE FOG to embrace TRANSFORMATION.
+
+[Neptune_Neptune_House_9]
+You are A DREAMER who parts THE FOG to discover TRUTH.
+
+[Neptune_Neptune_House_10]
+You are A DREAMER who parts THE FOG to build A LEGACY.
+
+[Neptune_Neptune_House_11]
+You are A DREAMER who parts THE FOG to manifest YOUR VISION.
+
+[Neptune_Neptune_House_12]
+You are A DREAMER who parts THE FOG to find PEACE.
+
+[Neptune_Neptune_NorthNode]
+You are A DREAMER who parts THE FOG to fulfill THE CALL OF DESTINY.
+
+[Neptune_Pluto_House_1]
+You are A DREAMER who transforms DESTRUCTION to claim YOURSELF.
+
+[Neptune_Pluto_House_2]
+You are A DREAMER who transforms DESTRUCTION to build VALUE.
+
+[Neptune_Pluto_House_3]
+You are A DREAMER who transforms DESTRUCTION to find YOUR VOICE.
+
+[Neptune_Pluto_House_4]
+You are A DREAMER who transforms DESTRUCTION to secure FOUNDATION.
+
+[Neptune_Pluto_House_5]
+You are A DREAMER who transforms DESTRUCTION to manifest A MASTERPIECE.
+
+[Neptune_Pluto_House_6]
+You are A DREAMER who transforms DESTRUCTION to perfect YOUR CRAFT.
+
+[Neptune_Pluto_House_7]
+You are A DREAMER who transforms DESTRUCTION to forge CONNECTION.
+
+[Neptune_Pluto_House_8]
+You are A DREAMER who transforms DESTRUCTION to embrace TRANSFORMATION.
+
+[Neptune_Pluto_House_9]
+You are A DREAMER who transforms DESTRUCTION to discover TRUTH.
+
+[Neptune_Pluto_House_10]
+You are A DREAMER who transforms DESTRUCTION to build A LEGACY.
+
+[Neptune_Pluto_House_11]
+You are A DREAMER who transforms DESTRUCTION to manifest YOUR VISION.
+
+[Neptune_Pluto_House_12]
+You are A DREAMER who transforms DESTRUCTION to find PEACE.
+
+[Neptune_Pluto_NorthNode]
+You are A DREAMER who transforms DESTRUCTION to fulfill THE CALL OF DESTINY.
+
+[Neptune_Mars_House_1]
+You are A DREAMER who transforms BURNOUT to claim YOURSELF.
+
+[Neptune_Mars_House_2]
+You are A DREAMER who transforms BURNOUT to build VALUE.
+
+[Neptune_Mars_House_3]
+You are A DREAMER who transforms BURNOUT to find YOUR VOICE.
+
+[Neptune_Mars_House_4]
+You are A DREAMER who transforms BURNOUT to secure FOUNDATION.
+
+[Neptune_Mars_House_5]
+You are A DREAMER who transforms BURNOUT to manifest A MASTERPIECE.
+
+[Neptune_Mars_House_6]
+You are A DREAMER who transforms BURNOUT to perfect YOUR CRAFT.
+
+[Neptune_Mars_House_7]
+You are A DREAMER who transforms BURNOUT to forge CONNECTION.
+
+[Neptune_Mars_House_8]
+You are A DREAMER who transforms BURNOUT to embrace TRANSFORMATION.
+
+[Neptune_Mars_House_9]
+You are A DREAMER who transforms BURNOUT to discover TRUTH.
+
+[Neptune_Mars_House_10]
+You are A DREAMER who transforms BURNOUT to build A LEGACY.
+
+[Neptune_Mars_House_11]
+You are A DREAMER who transforms BURNOUT to manifest YOUR VISION.
+
+[Neptune_Mars_House_12]
+You are A DREAMER who transforms BURNOUT to find PEACE.
+
+[Neptune_Mars_NorthNode]
+You are A DREAMER who transforms BURNOUT to fulfill THE CALL OF DESTINY.
+
+[Neptune_Uranus_House_1]
+You are A DREAMER who channels CHAOS to claim YOURSELF.
+
+[Neptune_Uranus_House_2]
+You are A DREAMER who channels CHAOS to build VALUE.
+
+[Neptune_Uranus_House_3]
+You are A DREAMER who channels CHAOS to find YOUR VOICE.
+
+[Neptune_Uranus_House_4]
+You are A DREAMER who channels CHAOS to secure FOUNDATION.
+
+[Neptune_Uranus_House_5]
+You are A DREAMER who channels CHAOS to manifest A MASTERPIECE.
+
+[Neptune_Uranus_House_6]
+You are A DREAMER who channels CHAOS to perfect YOUR CRAFT.
+
+[Neptune_Uranus_House_7]
+You are A DREAMER who channels CHAOS to forge CONNECTION.
+
+[Neptune_Uranus_House_8]
+You are A DREAMER who channels CHAOS to embrace TRANSFORMATION.
+
+[Neptune_Uranus_House_9]
+You are A DREAMER who channels CHAOS to discover TRUTH.
+
+[Neptune_Uranus_House_10]
+You are A DREAMER who channels CHAOS to build A LEGACY.
+
+[Neptune_Uranus_House_11]
+You are A DREAMER who channels CHAOS to manifest YOUR VISION.
+
+[Neptune_Uranus_House_12]
+You are A DREAMER who channels CHAOS to find PEACE.
+
+[Neptune_Uranus_NorthNode]
+You are A DREAMER who channels CHAOS to fulfill THE CALL OF DESTINY.
+
+[Neptune_House_12_House_1]
+You are A DREAMER who illuminates THE UNCONSCIOUS to claim YOURSELF.
+
+[Neptune_House_12_House_2]
+You are A DREAMER who illuminates THE UNCONSCIOUS to build VALUE.
+
+[Neptune_House_12_House_3]
+You are A DREAMER who illuminates THE UNCONSCIOUS to find YOUR VOICE.
+
+[Neptune_House_12_House_4]
+You are A DREAMER who illuminates THE UNCONSCIOUS to secure FOUNDATION.
+
+[Neptune_House_12_House_5]
+You are A DREAMER who illuminates THE UNCONSCIOUS to manifest A MASTERPIECE.
+
+[Neptune_House_12_House_6]
+You are A DREAMER who illuminates THE UNCONSCIOUS to perfect YOUR CRAFT.
+
+[Neptune_House_12_House_7]
+You are A DREAMER who illuminates THE UNCONSCIOUS to forge CONNECTION.
+
+[Neptune_House_12_House_8]
+You are A DREAMER who illuminates THE UNCONSCIOUS to embrace TRANSFORMATION.
+
+[Neptune_House_12_House_9]
+You are A DREAMER who illuminates THE UNCONSCIOUS to discover TRUTH.
+
+[Neptune_House_12_House_10]
+You are A DREAMER who illuminates THE UNCONSCIOUS to build A LEGACY.
+
+[Neptune_House_12_House_11]
+You are A DREAMER who illuminates THE UNCONSCIOUS to manifest YOUR VISION.
+
+[Neptune_House_12_House_12]
+You are A DREAMER who illuminates THE UNCONSCIOUS to find PEACE.
+
+[Neptune_House_12_NorthNode]
+You are A DREAMER who illuminates THE UNCONSCIOUS to fulfill THE CALL OF DESTINY.
+
+[Pluto_square_House_1]
+You are A FORCE who overcomes CONFLICT to claim YOURSELF.
+
+[Pluto_square_House_2]
+You are A FORCE who overcomes CONFLICT to build VALUE.
+
+[Pluto_square_House_3]
+You are A FORCE who overcomes CONFLICT to find YOUR VOICE.
+
+[Pluto_square_House_4]
+You are A FORCE who overcomes CONFLICT to secure FOUNDATION.
+
+[Pluto_square_House_5]
+You are A FORCE who overcomes CONFLICT to manifest A MASTERPIECE.
+
+[Pluto_square_House_6]
+You are A FORCE who overcomes CONFLICT to perfect YOUR CRAFT.
+
+[Pluto_square_House_7]
+You are A FORCE who overcomes CONFLICT to forge CONNECTION.
+
+[Pluto_square_House_8]
+You are A FORCE who overcomes CONFLICT to embrace TRANSFORMATION.
+
+[Pluto_square_House_9]
+You are A FORCE who overcomes CONFLICT to discover TRUTH.
+
+[Pluto_square_House_10]
+You are A FORCE who overcomes CONFLICT to build A LEGACY.
+
+[Pluto_square_House_11]
+You are A FORCE who overcomes CONFLICT to manifest YOUR VISION.
+
+[Pluto_square_House_12]
+You are A FORCE who overcomes CONFLICT to find PEACE.
+
+[Pluto_square_NorthNode]
+You are A FORCE who overcomes CONFLICT to fulfill THE CALL OF DESTINY.
+
+[Pluto_opposition_House_1]
+You are A FORCE who overcomes RESISTANCE to claim YOURSELF.
+
+[Pluto_opposition_House_2]
+You are A FORCE who overcomes RESISTANCE to build VALUE.
+
+[Pluto_opposition_House_3]
+You are A FORCE who overcomes RESISTANCE to find YOUR VOICE.
+
+[Pluto_opposition_House_4]
+You are A FORCE who overcomes RESISTANCE to secure FOUNDATION.
+
+[Pluto_opposition_House_5]
+You are A FORCE who overcomes RESISTANCE to manifest A MASTERPIECE.
+
+[Pluto_opposition_House_6]
+You are A FORCE who overcomes RESISTANCE to perfect YOUR CRAFT.
+
+[Pluto_opposition_House_7]
+You are A FORCE who overcomes RESISTANCE to forge CONNECTION AND MEANING.
+
+[Pluto_opposition_House_8]
+You are A FORCE who overcomes RESISTANCE to embrace TRANSFORMATION.
+
+[Pluto_opposition_House_9]
+You are A FORCE who overcomes RESISTANCE to discover TRUTH.
+
+[Pluto_opposition_House_10]
+You are A FORCE who overcomes RESISTANCE to build A LEGACY.
+
+[Pluto_opposition_House_11]
+You are A FORCE who overcomes RESISTANCE to manifest YOUR VISION.
+
+[Pluto_opposition_House_12]
+You are A FORCE who overcomes RESISTANCE to find PEACE.
+
+[Pluto_opposition_NorthNode]
+You are A FORCE who overcomes RESISTANCE to fulfill THE CALL OF DESTINY.
+
+[Pluto_Saturn_House_1]
+You are A FORCE who breaks through RESTRICTION to claim YOURSELF.
+
+[Pluto_Saturn_House_2]
+You are A FORCE who breaks through RESTRICTION to build VALUE.
+
+[Pluto_Saturn_House_3]
+You are A FORCE who breaks through RESTRICTION to find YOUR VOICE.
+
+[Pluto_Saturn_House_4]
+You are A FORCE who breaks through RESTRICTION to secure FOUNDATION.
+
+[Pluto_Saturn_House_5]
+You are A FORCE who breaks through RESTRICTION to manifest A MASTERPIECE.
+
+[Pluto_Saturn_House_6]
+You are A FORCE who breaks through RESTRICTION to perfect YOUR CRAFT.
+
+[Pluto_Saturn_House_7]
+You are A FORCE who breaks through RESTRICTION to forge CONNECTION.
+
+[Pluto_Saturn_House_8]
+You are A FORCE who breaks through RESTRICTION to embrace TRANSFORMATION.
+
+[Pluto_Saturn_House_9]
+You are A FORCE who breaks through RESTRICTION to discover TRUTH.
+
+[Pluto_Saturn_House_10]
+You are A FORCE who breaks through RESTRICTION to build A LEGACY.
+
+[Pluto_Saturn_House_11]
+You are A FORCE who breaks through RESTRICTION to manifest YOUR VISION.
+
+[Pluto_Saturn_House_12]
+You are A FORCE who breaks through RESTRICTION to find PEACE.
+
+[Pluto_Saturn_NorthNode]
+You are A FORCE who breaks through RESTRICTION to fulfill THE CALL OF DESTINY.
+
+[Pluto_Neptune_House_1]
+You are A FORCE who parts THE FOG to claim YOURSELF.
+
+[Pluto_Neptune_House_2]
+You are A FORCE who parts THE FOG to build VALUE.
+
+[Pluto_Neptune_House_3]
+You are A FORCE who parts THE FOG to find YOUR VOICE.
+
+[Pluto_Neptune_House_4]
+You are A FORCE who parts THE FOG to secure FOUNDATION.
+
+[Pluto_Neptune_House_5]
+You are A FORCE who parts THE FOG to manifest A MASTERPIECE.
+
+[Pluto_Neptune_House_6]
+You are A FORCE who parts THE FOG to perfect YOUR CRAFT.
+
+[Pluto_Neptune_House_7]
+You are A FORCE who parts THE FOG to forge CONNECTION AND MEANING.
+
+[Pluto_Neptune_House_8]
+You are A FORCE who parts THE FOG to embrace TRANSFORMATION.
+
+[Pluto_Neptune_House_9]
+You are A FORCE who parts THE FOG to discover TRUTH.
+
+[Pluto_Neptune_House_10]
+You are A FORCE who parts THE FOG to build A LEGACY.
+
+[Pluto_Neptune_House_11]
+You are A FORCE who parts THE FOG to manifest YOUR VISION.
+
+[Pluto_Neptune_House_12]
+You are A FORCE who parts THE FOG to find PEACE.
+
+[Pluto_Neptune_NorthNode]
+You are A FORCE who parts THE FOG to fulfill THE CALL OF DESTINY.
+
+[Pluto_Pluto_House_1]
+You are A FORCE who transforms DESTRUCTION to claim YOURSELF.
+
+[Pluto_Pluto_House_2]
+You are A FORCE who transforms DESTRUCTION to build VALUE.
+
+[Pluto_Pluto_House_3]
+You are A FORCE who transforms DESTRUCTION to find YOUR VOICE.
+
+[Pluto_Pluto_House_4]
+You are A FORCE who transforms DESTRUCTION to secure FOUNDATION.
+
+[Pluto_Pluto_House_5]
+You are A FORCE who transforms DESTRUCTION to manifest A MASTERPIECE.
+
+[Pluto_Pluto_House_6]
+You are A FORCE who transforms DESTRUCTION to perfect YOUR CRAFT.
+
+[Pluto_Pluto_House_7]
+You are A FORCE who transforms DESTRUCTION to forge CONNECTION.
+
+[Pluto_Pluto_House_8]
+You are A FORCE who transforms DESTRUCTION to embrace TRANSFORMATION.
+
+[Pluto_Pluto_House_9]
+You are A FORCE who transforms DESTRUCTION to discover TRUTH.
+
+[Pluto_Pluto_House_10]
+You are A FORCE who transforms DESTRUCTION to build A LEGACY.
+
+[Pluto_Pluto_House_11]
+You are A FORCE who transforms DESTRUCTION to manifest YOUR VISION.
+
+[Pluto_Pluto_House_12]
+You are A FORCE who transforms DESTRUCTION to find PEACE.
+
+[Pluto_Pluto_NorthNode]
+You are A FORCE who transforms DESTRUCTION to fulfill THE CALL OF DESTINY.
+
+[Pluto_Mars_House_1]
+You are A FORCE who transforms BURNOUT to claim YOURSELF.
+
+[Pluto_Mars_House_2]
+You are A FORCE who transforms BURNOUT to build VALUE.
+
+[Pluto_Mars_House_3]
+You are A FORCE who transforms BURNOUT to find YOUR VOICE.
+
+[Pluto_Mars_House_4]
+You are A FORCE who transforms BURNOUT to secure FOUNDATION.
+
+[Pluto_Mars_House_5]
+You are A FORCE who transforms BURNOUT to manifest A MASTERPIECE.
+
+[Pluto_Mars_House_6]
+You are A FORCE who transforms BURNOUT to perfect YOUR CRAFT.
+
+[Pluto_Mars_House_7]
+You are A FORCE who transforms BURNOUT to forge CONNECTION.
+
+[Pluto_Mars_House_8]
+You are A FORCE who transforms BURNOUT to embrace TRANSFORMATION.
+
+[Pluto_Mars_House_9]
+You are A FORCE who transforms BURNOUT to discover TRUTH.
+
+[Pluto_Mars_House_10]
+You are A FORCE who transforms BURNOUT to build A LEGACY.
+
+[Pluto_Mars_House_11]
+You are A FORCE who transforms BURNOUT to manifest YOUR VISION.
+
+[Pluto_Mars_House_12]
+You are A FORCE who transforms BURNOUT to find PEACE.
+
+[Pluto_Mars_NorthNode]
+You are A FORCE who transforms BURNOUT to fulfill THE CALL OF DESTINY.
+
+[Pluto_Uranus_House_1]
+You are A FORCE who channels CHAOS to claim YOURSELF.
+
+[Pluto_Uranus_House_2]
+You are A FORCE who channels CHAOS to build VALUE.
+
+[Pluto_Uranus_House_3]
+You are A FORCE who channels CHAOS to find YOUR VOICE.
+
+[Pluto_Uranus_House_4]
+You are A FORCE who channels CHAOS to secure FOUNDATION.
+
+[Pluto_Uranus_House_5]
+You are A FORCE who channels CHAOS to manifest A MASTERPIECE.
+
+[Pluto_Uranus_House_6]
+You are A FORCE who channels CHAOS to perfect YOUR CRAFT.
+
+[Pluto_Uranus_House_7]
+You are A FORCE who channels CHAOS to forge CONNECTION.
+
+[Pluto_Uranus_House_8]
+You are A FORCE who channels CHAOS to embrace TRANSFORMATION.
+
+[Pluto_Uranus_House_9]
+You are A FORCE who channels CHAOS to discover TRUTH.
+
+[Pluto_Uranus_House_10]
+You are A FORCE who channels CHAOS to build A LEGACY.
+
+[Pluto_Uranus_House_11]
+You are A FORCE who channels CHAOS to manifest YOUR VISION.
+
+[Pluto_Uranus_House_12]
+You are A FORCE who channels CHAOS to find PEACE.
+
+[Pluto_Uranus_NorthNode]
+You are A FORCE who channels CHAOS to fulfill THE CALL OF DESTINY.
+
+[Pluto_House_12_House_1]
+You are A FORCE who illuminates THE UNCONSCIOUS to claim YOURSELF.
+
+[Pluto_House_12_House_2]
+You are A FORCE who illuminates THE UNCONSCIOUS to build VALUE.
+
+[Pluto_House_12_House_3]
+You are A FORCE who illuminates THE UNCONSCIOUS to find YOUR VOICE.
+
+[Pluto_House_12_House_4]
+You are A FORCE who illuminates THE UNCONSCIOUS to secure FOUNDATION.
+
+[Pluto_House_12_House_5]
+You are A FORCE who illuminates THE UNCONSCIOUS to manifest A MASTERPIECE.
+
+[Pluto_House_12_House_6]
+You are A FORCE who illuminates THE UNCONSCIOUS to perfect YOUR CRAFT.
+
+[Pluto_House_12_House_7]
+You are A FORCE who illuminates THE UNCONSCIOUS to forge CONNECTION.
+
+[Pluto_House_12_House_8]
+You are A FORCE who illuminates THE UNCONSCIOUS to embrace TRANSFORMATION.
+
+[Pluto_House_12_House_9]
+You are A FORCE who illuminates THE UNCONSCIOUS to discover TRUTH.
+
+[Pluto_House_12_House_10]
+You are A FORCE who illuminates THE UNCONSCIOUS to build A LEGACY.
+
+[Pluto_House_12_House_11]
+You are A FORCE who illuminates THE UNCONSCIOUS to manifest YOUR VISION.
+
+[Pluto_House_12_House_12]
+You are A FORCE who illuminates THE UNCONSCIOUS to find PEACE.
+
+[Pluto_House_12_NorthNode]
+You are A FORCE who illuminates THE UNCONSCIOUS to fulfill THE CALL OF DESTINY.
+
+[Sun_Moon_square_House_1]
+You are A CORE who overcomes CONFLICT to claim YOURSELF.
+
+[Sun_Moon_square_House_2]
+You are A CORE who overcomes CONFLICT to build VALUE.
+
+[Sun_Moon_square_House_3]
+You are A CORE who overcomes CONFLICT to find YOUR VOICE.
+
+[Sun_Moon_square_House_4]
+You are A CORE who overcomes CONFLICT to secure FOUNDATION.
+
+[Sun_Moon_square_House_5]
+You are A CORE who overcomes CONFLICT to manifest A MASTERPIECE.
+
+[Sun_Moon_square_House_6]
+You are A CORE who overcomes CONFLICT to perfect YOUR CRAFT.
+
+[Sun_Moon_square_House_7]
+You are A CORE who overcomes CONFLICT to forge CONNECTION.
+
+[Sun_Moon_square_House_8]
+You are A CORE who overcomes CONFLICT to embrace TRANSFORMATION.
+
+[Sun_Moon_square_House_9]
+You are A CORE who overcomes CONFLICT to discover TRUTH.
+
+[Sun_Moon_square_House_10]
+You are A CORE who overcomes CONFLICT to build A LEGACY.
+
+[Sun_Moon_square_House_11]
+You are A CORE who overcomes CONFLICT to manifest YOUR VISION.
+
+[Sun_Moon_square_House_12]
+You are A CORE who overcomes CONFLICT to find PEACE.
+
+[Sun_Moon_square_NorthNode]
+You are A CORE who overcomes CONFLICT to fulfill THE CALL OF DESTINY.
+
+[Sun_Moon_opposition_House_1]
+You are A CORE who overcomes RESISTANCE to claim YOURSELF.
+
+[Sun_Moon_opposition_House_2]
+You are A CORE who overcomes RESISTANCE to build VALUE.
+
+[Sun_Moon_opposition_House_3]
+You are A CORE who overcomes RESISTANCE to find YOUR VOICE.
+
+[Sun_Moon_opposition_House_4]
+You are A CORE who overcomes RESISTANCE to secure FOUNDATION.
+
+[Sun_Moon_opposition_House_5]
+You are A CORE who overcomes RESISTANCE to manifest A MASTERPIECE.
+
+[Sun_Moon_opposition_House_6]
+You are A CORE who overcomes RESISTANCE to perfect YOUR CRAFT.
+
+[Sun_Moon_opposition_House_7]
+You are A CORE who overcomes RESISTANCE to forge CONNECTION AND MEANING.
+
+[Sun_Moon_opposition_House_8]
+You are A CORE who overcomes RESISTANCE to embrace TRANSFORMATION.
+
+[Sun_Moon_opposition_House_9]
+You are A CORE who overcomes RESISTANCE to discover TRUTH.
+
+[Sun_Moon_opposition_House_10]
+You are A CORE who overcomes RESISTANCE to build A LEGACY.
+
+[Sun_Moon_opposition_House_11]
+You are A CORE who overcomes RESISTANCE to manifest YOUR VISION.
+
+[Sun_Moon_opposition_House_12]
+You are A CORE who overcomes RESISTANCE to find PEACE.
+
+[Sun_Moon_opposition_NorthNode]
+You are A CORE who overcomes RESISTANCE to fulfill THE CALL OF DESTINY.
+
+[Sun_Moon_Saturn_House_1]
+You are A CORE who breaks through RESTRICTION to claim YOURSELF.
+
+[Sun_Moon_Saturn_House_2]
+You are A CORE who breaks through RESTRICTION to build VALUE.
+
+[Sun_Moon_Saturn_House_3]
+You are A CORE who breaks through RESTRICTION to find YOUR VOICE.
+
+[Sun_Moon_Saturn_House_4]
+You are A CORE who breaks through RESTRICTION to secure FOUNDATION.
+
+[Sun_Moon_Saturn_House_5]
+You are A CORE who breaks through RESTRICTION to manifest A MASTERPIECE.
+
+[Sun_Moon_Saturn_House_6]
+You are A CORE who breaks through RESTRICTION to perfect YOUR CRAFT.
+
+[Sun_Moon_Saturn_House_7]
+You are A CORE who breaks through RESTRICTION to forge CONNECTION.
+
+[Sun_Moon_Saturn_House_8]
+You are A CORE who breaks through RESTRICTION to embrace TRANSFORMATION.
+
+[Sun_Moon_Saturn_House_9]
+You are A CORE who breaks through RESTRICTION to discover TRUTH.
+
+[Sun_Moon_Saturn_House_10]
+You are A CORE who breaks through RESTRICTION to build A LEGACY.
+
+[Sun_Moon_Saturn_House_11]
+You are A CORE who breaks through RESTRICTION to manifest YOUR VISION.
+
+[Sun_Moon_Saturn_House_12]
+You are A CORE who breaks through RESTRICTION to find PEACE.
+
+[Sun_Moon_Saturn_NorthNode]
+You are A CORE who breaks through RESTRICTION to fulfill THE CALL OF DESTINY.
+
+[Sun_Moon_Neptune_House_1]
+You are A CORE who parts THE FOG to claim YOURSELF.
+
+[Sun_Moon_Neptune_House_2]
+You are A CORE who parts THE FOG to build VALUE.
+
+[Sun_Moon_Neptune_House_3]
+You are A CORE who parts THE FOG to find YOUR VOICE.
+
+[Sun_Moon_Neptune_House_4]
+You are A CORE who parts THE FOG to secure FOUNDATION.
+
+[Sun_Moon_Neptune_House_5]
+You are A CORE who parts THE FOG to manifest A MASTERPIECE.
+
+[Sun_Moon_Neptune_House_6]
+You are A CORE who parts THE FOG to perfect YOUR CRAFT.
+
+[Sun_Moon_Neptune_House_7]
+You are A CORE who parts THE FOG to forge CONNECTION AND MEANING.
+
+[Sun_Moon_Neptune_House_8]
+You are A CORE who parts THE FOG to embrace TRANSFORMATION.
+
+[Sun_Moon_Neptune_House_9]
+You are A CORE who parts THE FOG to discover TRUTH.
+
+[Sun_Moon_Neptune_House_10]
+You are A CORE who parts THE FOG to build A LEGACY.
+
+[Sun_Moon_Neptune_House_11]
+You are A CORE who parts THE FOG to manifest YOUR VISION.
+
+[Sun_Moon_Neptune_House_12]
+You are A CORE who parts THE FOG to find PEACE.
+
+[Sun_Moon_Neptune_NorthNode]
+You are A CORE who parts THE FOG to fulfill THE CALL OF DESTINY.
+
+[Sun_Moon_Pluto_House_1]
+You are A CORE who transforms DESTRUCTION to claim YOURSELF.
+
+[Sun_Moon_Pluto_House_2]
+You are A CORE who transforms DESTRUCTION to build VALUE.
+
+[Sun_Moon_Pluto_House_3]
+You are A CORE who transforms DESTRUCTION to find YOUR VOICE.
+
+[Sun_Moon_Pluto_House_4]
+You are A CORE who transforms DESTRUCTION to secure FOUNDATION.
+
+[Sun_Moon_Pluto_House_5]
+You are A CORE who transforms DESTRUCTION to manifest A MASTERPIECE.
+
+[Sun_Moon_Pluto_House_6]
+You are A CORE who transforms DESTRUCTION to perfect YOUR CRAFT.
+
+[Sun_Moon_Pluto_House_7]
+You are A CORE who transforms DESTRUCTION to forge CONNECTION.
+
+[Sun_Moon_Pluto_House_8]
+You are A CORE who transforms DESTRUCTION to embrace TRANSFORMATION.
+
+[Sun_Moon_Pluto_House_9]
+You are A CORE who transforms DESTRUCTION to discover TRUTH.
+
+[Sun_Moon_Pluto_House_10]
+You are A CORE who transforms DESTRUCTION to build A LEGACY.
+
+[Sun_Moon_Pluto_House_11]
+You are A CORE who transforms DESTRUCTION to manifest YOUR VISION.
+
+[Sun_Moon_Pluto_House_12]
+You are A CORE who transforms DESTRUCTION to find PEACE.
+
+[Sun_Moon_Pluto_NorthNode]
+You are A CORE who transforms DESTRUCTION to fulfill THE CALL OF DESTINY.
+
+[Sun_Moon_Mars_House_1]
+You are A CORE who transforms BURNOUT to claim YOURSELF.
+
+[Sun_Moon_Mars_House_2]
+You are A CORE who transforms BURNOUT to build VALUE.
+
+[Sun_Moon_Mars_House_3]
+You are A CORE who transforms BURNOUT to find YOUR VOICE.
+
+[Sun_Moon_Mars_House_4]
+You are A CORE who transforms BURNOUT to secure FOUNDATION.
+
+[Sun_Moon_Mars_House_5]
+You are A CORE who transforms BURNOUT to manifest A MASTERPIECE.
+
+[Sun_Moon_Mars_House_6]
+You are A CORE who transforms BURNOUT to perfect YOUR CRAFT.
+
+[Sun_Moon_Mars_House_7]
+You are A CORE who transforms BURNOUT to forge CONNECTION.
+
+[Sun_Moon_Mars_House_8]
+You are A CORE who transforms BURNOUT to embrace TRANSFORMATION.
+
+[Sun_Moon_Mars_House_9]
+You are A CORE who transforms BURNOUT to discover TRUTH.
+
+[Sun_Moon_Mars_House_10]
+You are A CORE who transforms BURNOUT to build A LEGACY.
+
+[Sun_Moon_Mars_House_11]
+You are A CORE who transforms BURNOUT to manifest YOUR VISION.
+
+[Sun_Moon_Mars_House_12]
+You are A CORE who transforms BURNOUT to find PEACE.
+
+[Sun_Moon_Mars_NorthNode]
+You are A CORE who transforms BURNOUT to fulfill THE CALL OF DESTINY.
+
+[Sun_Moon_Uranus_House_1]
+You are A CORE who channels CHAOS to claim YOURSELF.
+
+[Sun_Moon_Uranus_House_2]
+You are A CORE who channels CHAOS to build VALUE.
+
+[Sun_Moon_Uranus_House_3]
+You are A CORE who channels CHAOS to find YOUR VOICE.
+
+[Sun_Moon_Uranus_House_4]
+You are A CORE who channels CHAOS to secure FOUNDATION.
+
+[Sun_Moon_Uranus_House_5]
+You are A CORE who channels CHAOS to manifest A MASTERPIECE.
+
+[Sun_Moon_Uranus_House_6]
+You are A CORE who channels CHAOS to perfect YOUR CRAFT.
+
+[Sun_Moon_Uranus_House_7]
+You are A CORE who channels CHAOS to forge CONNECTION.
+
+[Sun_Moon_Uranus_House_8]
+You are A CORE who channels CHAOS to embrace TRANSFORMATION.
+
+[Sun_Moon_Uranus_House_9]
+You are A CORE who channels CHAOS to discover TRUTH.
+
+[Sun_Moon_Uranus_House_10]
+You are A CORE who channels CHAOS to build A LEGACY.
+
+[Sun_Moon_Uranus_House_11]
+You are A CORE who channels CHAOS to manifest YOUR VISION.
+
+[Sun_Moon_Uranus_House_12]
+You are A CORE who channels CHAOS to find PEACE.
+
+[Sun_Moon_Uranus_NorthNode]
+You are A CORE who channels CHAOS to fulfill THE CALL OF DESTINY.
+
+[Sun_Moon_House_12_House_1]
+You are A CORE who illuminates THE UNCONSCIOUS to claim YOURSELF.
+
+[Sun_Moon_House_12_House_2]
+You are A CORE who illuminates THE UNCONSCIOUS to build VALUE.
+
+[Sun_Moon_House_12_House_3]
+You are A CORE who illuminates THE UNCONSCIOUS to find YOUR VOICE.
+
+[Sun_Moon_House_12_House_4]
+You are A CORE who illuminates THE UNCONSCIOUS to secure FOUNDATION.
+
+[Sun_Moon_House_12_House_5]
+You are A CORE who illuminates THE UNCONSCIOUS to manifest A MASTERPIECE.
+
+[Sun_Moon_House_12_House_6]
+You are A CORE who illuminates THE UNCONSCIOUS to perfect YOUR CRAFT.
+
+[Sun_Moon_House_12_House_7]
+You are A CORE who illuminates THE UNCONSCIOUS to forge CONNECTION.
+
+[Sun_Moon_House_12_House_8]
+You are A CORE who illuminates THE UNCONSCIOUS to embrace TRANSFORMATION.
+
+[Sun_Moon_House_12_House_9]
+You are A CORE who illuminates THE UNCONSCIOUS to discover TRUTH.
+
+[Sun_Moon_House_12_House_10]
+You are A CORE who illuminates THE UNCONSCIOUS to build A LEGACY.
+
+[Sun_Moon_House_12_House_11]
+You are A CORE who illuminates THE UNCONSCIOUS to manifest YOUR VISION.
+
+[Sun_Moon_House_12_House_12]
+You are A CORE who illuminates THE UNCONSCIOUS to find PEACE.
+
+[Sun_Moon_House_12_NorthNode]
+You are A CORE who illuminates THE UNCONSCIOUS to fulfill THE CALL OF DESTINY.
+
+[Sun_Mars_square_House_1]
+You are A FORCE who overcomes CONFLICT to claim YOURSELF.
+
+[Sun_Mars_square_House_2]
+You are A FORCE who overcomes CONFLICT to build VALUE.
+
+[Sun_Mars_square_House_3]
+You are A FORCE who overcomes CONFLICT to find YOUR VOICE.
+
+[Sun_Mars_square_House_4]
+You are A FORCE who overcomes CONFLICT to secure FOUNDATION.
+
+[Sun_Mars_square_House_5]
+You are A FORCE who overcomes CONFLICT to manifest A MASTERPIECE.
+
+[Sun_Mars_square_House_6]
+You are A FORCE who overcomes CONFLICT to perfect YOUR CRAFT.
+
+[Sun_Mars_square_House_7]
+You are A FORCE who overcomes CONFLICT to forge CONNECTION.
+
+[Sun_Mars_square_House_8]
+You are A FORCE who overcomes CONFLICT to embrace TRANSFORMATION.
+
+[Sun_Mars_square_House_9]
+You are A FORCE who overcomes CONFLICT to discover TRUTH.
+
+[Sun_Mars_square_House_10]
+You are A FORCE who overcomes CONFLICT to build A LEGACY.
+
+[Sun_Mars_square_House_11]
+You are A FORCE who overcomes CONFLICT to manifest YOUR VISION.
+
+[Sun_Mars_square_House_12]
+You are A FORCE who overcomes CONFLICT to find PEACE.
+
+[Sun_Mars_square_NorthNode]
+You are A FORCE who overcomes CONFLICT to fulfill THE CALL OF DESTINY.
+
+[Sun_Mars_opposition_House_1]
+You are A FORCE who overcomes RESISTANCE to claim YOURSELF.
+
+[Sun_Mars_opposition_House_2]
+You are A FORCE who overcomes RESISTANCE to build VALUE.
+
+[Sun_Mars_opposition_House_3]
+You are A FORCE who overcomes RESISTANCE to find YOUR VOICE.
+
+[Sun_Mars_opposition_House_4]
+You are A FORCE who overcomes RESISTANCE to secure FOUNDATION.
+
+[Sun_Mars_opposition_House_5]
+You are A FORCE who overcomes RESISTANCE to manifest A MASTERPIECE.
+
+[Sun_Mars_opposition_House_6]
+You are A FORCE who overcomes RESISTANCE to perfect YOUR CRAFT.
+
+[Sun_Mars_opposition_House_7]
+You are A FORCE who overcomes RESISTANCE to forge CONNECTION AND MEANING.
+
+[Sun_Mars_opposition_House_8]
+You are A FORCE who overcomes RESISTANCE to embrace TRANSFORMATION.
+
+[Sun_Mars_opposition_House_9]
+You are A FORCE who overcomes RESISTANCE to discover TRUTH.
+
+[Sun_Mars_opposition_House_10]
+You are A FORCE who overcomes RESISTANCE to build A LEGACY.
+
+[Sun_Mars_opposition_House_11]
+You are A FORCE who overcomes RESISTANCE to manifest YOUR VISION.
+
+[Sun_Mars_opposition_House_12]
+You are A FORCE who overcomes RESISTANCE to find PEACE.
+
+[Sun_Mars_opposition_NorthNode]
+You are A FORCE who overcomes RESISTANCE to fulfill THE CALL OF DESTINY.
+
+[Sun_Mars_Saturn_House_1]
+You are A FORCE who breaks through RESTRICTION to claim YOURSELF.
+
+[Sun_Mars_Saturn_House_2]
+You are A FORCE who breaks through RESTRICTION to build VALUE.
+
+[Sun_Mars_Saturn_House_3]
+You are A FORCE who breaks through RESTRICTION to find YOUR VOICE.
+
+[Sun_Mars_Saturn_House_4]
+You are A FORCE who breaks through RESTRICTION to secure FOUNDATION.
+
+[Sun_Mars_Saturn_House_5]
+You are A FORCE who breaks through RESTRICTION to manifest A MASTERPIECE.
+
+[Sun_Mars_Saturn_House_6]
+You are A FORCE who breaks through RESTRICTION to perfect YOUR CRAFT.
+
+[Sun_Mars_Saturn_House_7]
+You are A FORCE who breaks through RESTRICTION to forge CONNECTION.
+
+[Sun_Mars_Saturn_House_8]
+You are A FORCE who breaks through RESTRICTION to embrace TRANSFORMATION.
+
+[Sun_Mars_Saturn_House_9]
+You are A FORCE who breaks through RESTRICTION to discover TRUTH.
+
+[Sun_Mars_Saturn_House_10]
+You are A FORCE who breaks through RESTRICTION to build A LEGACY.
+
+[Sun_Mars_Saturn_House_11]
+You are A FORCE who breaks through RESTRICTION to manifest YOUR VISION.
+
+[Sun_Mars_Saturn_House_12]
+You are A FORCE who breaks through RESTRICTION to find PEACE.
+
+[Sun_Mars_Saturn_NorthNode]
+You are A FORCE who breaks through RESTRICTION to fulfill THE CALL OF DESTINY.
+
+[Sun_Mars_Neptune_House_1]
+You are A FORCE who parts THE FOG to claim YOURSELF.
+
+[Sun_Mars_Neptune_House_2]
+You are A FORCE who parts THE FOG to build VALUE.
+
+[Sun_Mars_Neptune_House_3]
+You are A FORCE who parts THE FOG to find YOUR VOICE.
+
+[Sun_Mars_Neptune_House_4]
+You are A FORCE who parts THE FOG to secure FOUNDATION.
+
+[Sun_Mars_Neptune_House_5]
+You are A FORCE who parts THE FOG to manifest A MASTERPIECE.
+
+[Sun_Mars_Neptune_House_6]
+You are A FORCE who parts THE FOG to perfect YOUR CRAFT.
+
+[Sun_Mars_Neptune_House_7]
+You are A FORCE who parts THE FOG to forge CONNECTION AND MEANING.
+
+[Sun_Mars_Neptune_House_8]
+You are A FORCE who parts THE FOG to embrace TRANSFORMATION.
+
+[Sun_Mars_Neptune_House_9]
+You are A FORCE who parts THE FOG to discover TRUTH.
+
+[Sun_Mars_Neptune_House_10]
+You are A FORCE who parts THE FOG to build A LEGACY.
+
+[Sun_Mars_Neptune_House_11]
+You are A FORCE who parts THE FOG to manifest YOUR VISION.
+
+[Sun_Mars_Neptune_House_12]
+You are A FORCE who parts THE FOG to find PEACE.
+
+[Sun_Mars_Neptune_NorthNode]
+You are A FORCE who parts THE FOG to fulfill THE CALL OF DESTINY.
+
+[Sun_Mars_Pluto_House_1]
+You are A FORCE who transforms DESTRUCTION to claim YOURSELF.
+
+[Sun_Mars_Pluto_House_2]
+You are A FORCE who transforms DESTRUCTION to build VALUE.
+
+[Sun_Mars_Pluto_House_3]
+You are A FORCE who transforms DESTRUCTION to find YOUR VOICE.
+
+[Sun_Mars_Pluto_House_4]
+You are A FORCE who transforms DESTRUCTION to secure FOUNDATION.
+
+[Sun_Mars_Pluto_House_5]
+You are A FORCE who transforms DESTRUCTION to manifest A MASTERPIECE.
+
+[Sun_Mars_Pluto_House_6]
+You are A FORCE who transforms DESTRUCTION to perfect YOUR CRAFT.
+
+[Sun_Mars_Pluto_House_7]
+You are A FORCE who transforms DESTRUCTION to forge CONNECTION.
+
+[Sun_Mars_Pluto_House_8]
+You are A FORCE who transforms DESTRUCTION to embrace TRANSFORMATION.
+
+[Sun_Mars_Pluto_House_9]
+You are A FORCE who transforms DESTRUCTION to discover TRUTH.
+
+[Sun_Mars_Pluto_House_10]
+You are A FORCE who transforms DESTRUCTION to build A LEGACY.
+
+[Sun_Mars_Pluto_House_11]
+You are A FORCE who transforms DESTRUCTION to manifest YOUR VISION.
+
+[Sun_Mars_Pluto_House_12]
+You are A FORCE who transforms DESTRUCTION to find PEACE.
+
+[Sun_Mars_Pluto_NorthNode]
+You are A FORCE who transforms DESTRUCTION to fulfill THE CALL OF DESTINY.
+
+[Sun_Mars_Mars_House_1]
+You are A FORCE who transforms BURNOUT to claim YOURSELF.
+
+[Sun_Mars_Mars_House_2]
+You are A FORCE who transforms BURNOUT to build VALUE.
+
+[Sun_Mars_Mars_House_3]
+You are A FORCE who transforms BURNOUT to find YOUR VOICE.
+
+[Sun_Mars_Mars_House_4]
+You are A FORCE who transforms BURNOUT to secure FOUNDATION.
+
+[Sun_Mars_Mars_House_5]
+You are A FORCE who transforms BURNOUT to manifest A MASTERPIECE.
+
+[Sun_Mars_Mars_House_6]
+You are A FORCE who transforms BURNOUT to perfect YOUR CRAFT.
+
+[Sun_Mars_Mars_House_7]
+You are A FORCE who transforms BURNOUT to forge CONNECTION.
+
+[Sun_Mars_Mars_House_8]
+You are A FORCE who transforms BURNOUT to embrace TRANSFORMATION.
+
+[Sun_Mars_Mars_House_9]
+You are A FORCE who transforms BURNOUT to discover TRUTH.
+
+[Sun_Mars_Mars_House_10]
+You are A FORCE who transforms BURNOUT to build A LEGACY.
+
+[Sun_Mars_Mars_House_11]
+You are A FORCE who transforms BURNOUT to manifest YOUR VISION.
+
+[Sun_Mars_Mars_House_12]
+You are A FORCE who transforms BURNOUT to find PEACE.
+
+[Sun_Mars_Mars_NorthNode]
+You are A FORCE who transforms BURNOUT to fulfill THE CALL OF DESTINY.
+
+[Sun_Mars_Uranus_House_1]
+You are A FORCE who channels CHAOS to claim YOURSELF.
+
+[Sun_Mars_Uranus_House_2]
+You are A FORCE who channels CHAOS to build VALUE.
+
+[Sun_Mars_Uranus_House_3]
+You are A FORCE who channels CHAOS to find YOUR VOICE.
+
+[Sun_Mars_Uranus_House_4]
+You are A FORCE who channels CHAOS to secure FOUNDATION.
+
+[Sun_Mars_Uranus_House_5]
+You are A FORCE who channels CHAOS to manifest A MASTERPIECE.
+
+[Sun_Mars_Uranus_House_6]
+You are A FORCE who channels CHAOS to perfect YOUR CRAFT.
+
+[Sun_Mars_Uranus_House_7]
+You are A FORCE who channels CHAOS to forge CONNECTION.
+
+[Sun_Mars_Uranus_House_8]
+You are A FORCE who channels CHAOS to embrace TRANSFORMATION.
+
+[Sun_Mars_Uranus_House_9]
+You are A FORCE who channels CHAOS to discover TRUTH.
+
+[Sun_Mars_Uranus_House_10]
+You are A FORCE who channels CHAOS to build A LEGACY.
+
+[Sun_Mars_Uranus_House_11]
+You are A FORCE who channels CHAOS to manifest YOUR VISION.
+
+[Sun_Mars_Uranus_House_12]
+You are A FORCE who channels CHAOS to find PEACE.
+
+[Sun_Mars_Uranus_NorthNode]
+You are A FORCE who channels CHAOS to fulfill THE CALL OF DESTINY.
+
+[Sun_Mars_House_12_House_1]
+You are A FORCE who illuminates THE UNCONSCIOUS to claim YOURSELF.
+
+[Sun_Mars_House_12_House_2]
+You are A FORCE who illuminates THE UNCONSCIOUS to build VALUE.
+
+[Sun_Mars_House_12_House_3]
+You are A FORCE who illuminates THE UNCONSCIOUS to find YOUR VOICE.
+
+[Sun_Mars_House_12_House_4]
+You are A FORCE who illuminates THE UNCONSCIOUS to secure FOUNDATION.
+
+[Sun_Mars_House_12_House_5]
+You are A FORCE who illuminates THE UNCONSCIOUS to manifest A MASTERPIECE.
+
+[Sun_Mars_House_12_House_6]
+You are A FORCE who illuminates THE UNCONSCIOUS to perfect YOUR CRAFT.
+
+[Sun_Mars_House_12_House_7]
+You are A FORCE who illuminates THE UNCONSCIOUS to forge CONNECTION.
+
+[Sun_Mars_House_12_House_8]
+You are A FORCE who illuminates THE UNCONSCIOUS to embrace TRANSFORMATION.
+
+[Sun_Mars_House_12_House_9]
+You are A FORCE who illuminates THE UNCONSCIOUS to discover TRUTH.
+
+[Sun_Mars_House_12_House_10]
+You are A FORCE who illuminates THE UNCONSCIOUS to build A LEGACY.
+
+[Sun_Mars_House_12_House_11]
+You are A FORCE who illuminates THE UNCONSCIOUS to manifest YOUR VISION.
+
+[Sun_Mars_House_12_House_12]
+You are A FORCE who illuminates THE UNCONSCIOUS to find PEACE.
+
+[Sun_Mars_House_12_NorthNode]
+You are A FORCE who illuminates THE UNCONSCIOUS to fulfill THE CALL OF DESTINY.
+
+[Sun_Uranus_square_House_1]
+You are A REBEL who overcomes CONFLICT to claim YOURSELF.
+
+[Sun_Uranus_square_House_2]
+You are A REBEL who overcomes CONFLICT to build VALUE.
+
+[Sun_Uranus_square_House_3]
+You are A REBEL who overcomes CONFLICT to find YOUR VOICE.
+
+[Sun_Uranus_square_House_4]
+You are A REBEL who overcomes CONFLICT to secure FOUNDATION.
+
+[Sun_Uranus_square_House_5]
+You are A REBEL who overcomes CONFLICT to manifest JOY.
+
+[Sun_Uranus_square_House_6]
+You are A REBEL who overcomes CONFLICT to perfect YOUR CRAFT.
+
+[Sun_Uranus_square_House_7]
+You are A REBEL who overcomes CONFLICT to forge CONNECTION.
+
+[Sun_Uranus_square_House_8]
+You are A REBEL who overcomes CONFLICT to embrace TRANSFORMATION.
+
+[Sun_Uranus_square_House_9]
+You are A REBEL who overcomes CONFLICT to discover TRUTH.
+
+[Sun_Uranus_square_House_10]
+You are A REBEL who overcomes CONFLICT to build A LEGACY.
+
+[Sun_Uranus_square_House_11]
+You are A REBEL who overcomes CONFLICT to manifest YOUR VISION.
+
+[Sun_Uranus_square_House_12]
+You are A REBEL who overcomes CONFLICT to find PEACE.
+
+[Sun_Uranus_square_NorthNode]
+You are A REBEL who overcomes CONFLICT to fulfill THE CALL OF DESTINY.
+
+[Sun_Uranus_opposition_House_1]
+You are A REBEL who overcomes RESISTANCE to claim YOURSELF.
+
+[Sun_Uranus_opposition_House_2]
+You are A REBEL who overcomes RESISTANCE to build VALUE.
+
+[Sun_Uranus_opposition_House_3]
+You are A REBEL who overcomes RESISTANCE to find YOUR VOICE.
+
+[Sun_Uranus_opposition_House_4]
+You are A REBEL who overcomes RESISTANCE to secure FOUNDATION.
+
+[Sun_Uranus_opposition_House_5]
+You are A REBEL who overcomes RESISTANCE to manifest JOY.
+
+[Sun_Uranus_opposition_House_6]
+You are A REBEL who overcomes RESISTANCE to perfect YOUR CRAFT.
+
+[Sun_Uranus_opposition_House_7]
+You are A REBEL who overcomes RESISTANCE to forge CONNECTION AND MEANING.
+
+[Sun_Uranus_opposition_House_8]
+You are A REBEL who overcomes RESISTANCE to embrace TRANSFORMATION.
+
+[Sun_Uranus_opposition_House_9]
+You are A REBEL who overcomes RESISTANCE to discover TRUTH.
+
+[Sun_Uranus_opposition_House_10]
+You are A REBEL who overcomes RESISTANCE to build A LEGACY.
+
+[Sun_Uranus_opposition_House_11]
+You are A REBEL who overcomes RESISTANCE to manifest YOUR VISION.
+
+[Sun_Uranus_opposition_House_12]
+You are A REBEL who overcomes RESISTANCE to find PEACE.
+
+[Sun_Uranus_opposition_NorthNode]
+You are A REBEL who overcomes RESISTANCE to fulfill THE CALL OF DESTINY.
+
+[Sun_Uranus_Saturn_House_1]
+You are A REBEL who breaks through RESTRICTION to claim YOURSELF.
+
+[Sun_Uranus_Saturn_House_2]
+You are A REBEL who breaks through RESTRICTION to build VALUE.
+
+[Sun_Uranus_Saturn_House_3]
+You are A REBEL who breaks through RESTRICTION to find YOUR VOICE.
+
+[Sun_Uranus_Saturn_House_4]
+You are A REBEL who breaks through RESTRICTION to secure FOUNDATION.
+
+[Sun_Uranus_Saturn_House_5]
+You are A REBEL who breaks through RESTRICTION to manifest JOY.
+
+[Sun_Uranus_Saturn_House_6]
+You are A REBEL who breaks through RESTRICTION to perfect YOUR CRAFT.
+
+[Sun_Uranus_Saturn_House_7]
+You are A REBEL who breaks through RESTRICTION to forge CONNECTION.
+
+[Sun_Uranus_Saturn_House_8]
+You are A REBEL who breaks through RESTRICTION to embrace TRANSFORMATION.
+
+[Sun_Uranus_Saturn_House_9]
+You are A REBEL who breaks through RESTRICTION to discover TRUTH.
+
+[Sun_Uranus_Saturn_House_10]
+You are A REBEL who breaks through RESTRICTION to build A LEGACY.
+
+[Sun_Uranus_Saturn_House_11]
+You are A REBEL who breaks through RESTRICTION to manifest YOUR VISION.
+
+[Sun_Uranus_Saturn_House_12]
+You are A REBEL who breaks through RESTRICTION to find PEACE.
+
+[Sun_Uranus_Saturn_NorthNode]
+You are A REBEL who breaks through RESTRICTION to fulfill THE CALL OF DESTINY.
+
+[Sun_Uranus_Neptune_House_1]
+You are A REBEL who parts THE FOG to claim YOURSELF.
+
+[Sun_Uranus_Neptune_House_2]
+You are A REBEL who parts THE FOG to build VALUE.
+
+[Sun_Uranus_Neptune_House_3]
+You are A REBEL who parts THE FOG to find YOUR VOICE.
+
+[Sun_Uranus_Neptune_House_4]
+You are A REBEL who parts THE FOG to secure FOUNDATION.
+
+[Sun_Uranus_Neptune_House_5]
+You are A REBEL who parts THE FOG to manifest JOY.
+
+[Sun_Uranus_Neptune_House_6]
+You are A REBEL who parts THE FOG to perfect YOUR CRAFT.
+
+[Sun_Uranus_Neptune_House_7]
+You are A REBEL who parts THE FOG to forge CONNECTION AND MEANING.
+
+[Sun_Uranus_Neptune_House_8]
+You are A REBEL who parts THE FOG to embrace TRANSFORMATION.
+
+[Sun_Uranus_Neptune_House_9]
+You are A REBEL who parts THE FOG to discover TRUTH.
+
+[Sun_Uranus_Neptune_House_10]
+You are A REBEL who parts THE FOG to build A LEGACY.
+
+[Sun_Uranus_Neptune_House_11]
+You are A REBEL who parts THE FOG to manifest YOUR VISION.
+
+[Sun_Uranus_Neptune_House_12]
+You are A REBEL who parts THE FOG to find PEACE.
+
+[Sun_Uranus_Neptune_NorthNode]
+You are A REBEL who parts THE FOG to fulfill THE CALL OF DESTINY.
+
+[Sun_Uranus_Pluto_House_1]
+You are A REBEL who transforms DESTRUCTION to claim YOURSELF.
+
+[Sun_Uranus_Pluto_House_2]
+You are A REBEL who transforms DESTRUCTION to build VALUE.
+
+[Sun_Uranus_Pluto_House_3]
+You are A REBEL who transforms DESTRUCTION to find YOUR VOICE.
+
+[Sun_Uranus_Pluto_House_4]
+You are A REBEL who transforms DESTRUCTION to secure FOUNDATION.
+
+[Sun_Uranus_Pluto_House_5]
+You are A REBEL who transforms DESTRUCTION to manifest JOY.
+
+[Sun_Uranus_Pluto_House_6]
+You are A REBEL who transforms DESTRUCTION to perfect YOUR CRAFT.
+
+[Sun_Uranus_Pluto_House_7]
+You are A REBEL who transforms DESTRUCTION to forge CONNECTION.
+
+[Sun_Uranus_Pluto_House_8]
+You are A REBEL who transforms DESTRUCTION to embrace TRANSFORMATION.
+
+[Sun_Uranus_Pluto_House_9]
+You are A REBEL who transforms DESTRUCTION to discover TRUTH.
+
+[Sun_Uranus_Pluto_House_10]
+You are A REBEL who transforms DESTRUCTION to build A LEGACY.
+
+[Sun_Uranus_Pluto_House_11]
+You are A REBEL who transforms DESTRUCTION to manifest YOUR VISION.
+
+[Sun_Uranus_Pluto_House_12]
+You are A REBEL who transforms DESTRUCTION to find PEACE.
+
+[Sun_Uranus_Pluto_NorthNode]
+You are A REBEL who transforms DESTRUCTION to fulfill THE CALL OF DESTINY.
+
+[Sun_Uranus_Mars_House_1]
+You are A REBEL who transforms BURNOUT to claim YOURSELF.
+
+[Sun_Uranus_Mars_House_2]
+You are A REBEL who transforms BURNOUT to build VALUE.
+
+[Sun_Uranus_Mars_House_3]
+You are A REBEL who transforms BURNOUT to find YOUR VOICE.
+
+[Sun_Uranus_Mars_House_4]
+You are A REBEL who transforms BURNOUT to secure FOUNDATION.
+
+[Sun_Uranus_Mars_House_5]
+You are A REBEL who transforms BURNOUT to manifest JOY.
+
+[Sun_Uranus_Mars_House_6]
+You are A REBEL who transforms BURNOUT to perfect YOUR CRAFT.
+
+[Sun_Uranus_Mars_House_7]
+You are A REBEL who transforms BURNOUT to forge CONNECTION.
+
+[Sun_Uranus_Mars_House_8]
+You are A REBEL who transforms BURNOUT to embrace TRANSFORMATION.
+
+[Sun_Uranus_Mars_House_9]
+You are A REBEL who transforms BURNOUT to discover TRUTH.
+
+[Sun_Uranus_Mars_House_10]
+You are A REBEL who transforms BURNOUT to build A LEGACY.
+
+[Sun_Uranus_Mars_House_11]
+You are A REBEL who transforms BURNOUT to manifest YOUR VISION.
+
+[Sun_Uranus_Mars_House_12]
+You are A REBEL who transforms BURNOUT to find PEACE.
+
+[Sun_Uranus_Mars_NorthNode]
+You are A REBEL who transforms BURNOUT to fulfill THE CALL OF DESTINY.
+
+[Sun_Uranus_Uranus_House_1]
+You are A REBEL who channels CHAOS to claim YOURSELF.
+
+[Sun_Uranus_Uranus_House_2]
+You are A REBEL who channels CHAOS to build VALUE.
+
+[Sun_Uranus_Uranus_House_3]
+You are A REBEL who channels CHAOS to find YOUR VOICE.
+
+[Sun_Uranus_Uranus_House_4]
+You are A REBEL who channels CHAOS to secure FOUNDATION.
+
+[Sun_Uranus_Uranus_House_5]
+You are A REBEL who channels CHAOS to manifest JOY.
+
+[Sun_Uranus_Uranus_House_6]
+You are A REBEL who channels CHAOS to perfect YOUR CRAFT.
+
+[Sun_Uranus_Uranus_House_7]
+You are A REBEL who channels CHAOS to forge CONNECTION.
+
+[Sun_Uranus_Uranus_House_8]
+You are A REBEL who channels CHAOS to embrace TRANSFORMATION.
+
+[Sun_Uranus_Uranus_House_9]
+You are A REBEL who channels CHAOS to discover TRUTH.
+
+[Sun_Uranus_Uranus_House_10]
+You are A REBEL who channels CHAOS to build A LEGACY.
+
+[Sun_Uranus_Uranus_House_11]
+You are A REBEL who channels CHAOS to manifest YOUR VISION.
+
+[Sun_Uranus_Uranus_House_12]
+You are A REBEL who channels CHAOS to find PEACE.
+
+[Sun_Uranus_Uranus_NorthNode]
+You are A REBEL who channels CHAOS to fulfill THE CALL OF DESTINY.
+
+[Sun_Uranus_House_12_House_1]
+You are A REBEL who illuminates THE UNCONSCIOUS to claim YOURSELF.
+
+[Sun_Uranus_House_12_House_2]
+You are A REBEL who illuminates THE UNCONSCIOUS to build VALUE.
+
+[Sun_Uranus_House_12_House_3]
+You are A REBEL who illuminates THE UNCONSCIOUS to find YOUR VOICE.
+
+[Sun_Uranus_House_12_House_4]
+You are A REBEL who illuminates THE UNCONSCIOUS to secure FOUNDATION.
+
+[Sun_Uranus_House_12_House_5]
+You are A REBEL who illuminates THE UNCONSCIOUS to manifest JOY.
+
+[Sun_Uranus_House_12_House_6]
+You are A REBEL who illuminates THE UNCONSCIOUS to perfect YOUR CRAFT.
+
+[Sun_Uranus_House_12_House_7]
+You are A REBEL who illuminates THE UNCONSCIOUS to forge CONNECTION.
+
+[Sun_Uranus_House_12_House_8]
+You are A REBEL who illuminates THE UNCONSCIOUS to embrace TRANSFORMATION.
+
+[Sun_Uranus_House_12_House_9]
+You are A REBEL who illuminates THE UNCONSCIOUS to discover TRUTH.
+
+[Sun_Uranus_House_12_House_10]
+You are A REBEL who illuminates THE UNCONSCIOUS to build A LEGACY.
+
+[Sun_Uranus_House_12_House_11]
+You are A REBEL who illuminates THE UNCONSCIOUS to manifest YOUR VISION.
+
+[Sun_Uranus_House_12_House_12]
+You are A REBEL who illuminates THE UNCONSCIOUS to find PEACE.
+
+[Sun_Uranus_House_12_NorthNode]
+You are A REBEL who illuminates THE UNCONSCIOUS to fulfill THE CALL OF DESTINY.
+
+[Sun_Pluto_square_House_1]
+You are A PHOENIX who overcomes CONFLICT to claim YOURSELF.
+
+[Sun_Pluto_square_House_2]
+You are A PHOENIX who overcomes CONFLICT to build VALUE.
+
+[Sun_Pluto_square_House_3]
+You are A PHOENIX who overcomes CONFLICT to find YOUR VOICE.
+
+[Sun_Pluto_square_House_4]
+You are A PHOENIX who overcomes CONFLICT to secure FOUNDATION.
+
+[Sun_Pluto_square_House_5]
+You are A PHOENIX who overcomes CONFLICT to manifest A MASTERPIECE.
+
+[Sun_Pluto_square_House_6]
+You are A PHOENIX who overcomes CONFLICT to perfect YOUR CRAFT.
+
+[Sun_Pluto_square_House_7]
+You are A PHOENIX who overcomes CONFLICT to forge CONNECTION.
+
+[Sun_Pluto_square_House_8]
+You are A PHOENIX who overcomes CONFLICT to embrace TRANSFORMATION.
+
+[Sun_Pluto_square_House_9]
+You are A PHOENIX who overcomes CONFLICT to discover TRUTH.
+
+[Sun_Pluto_square_House_10]
+You are A PHOENIX who overcomes CONFLICT to build A LEGACY.
+
+[Sun_Pluto_square_House_11]
+You are A PHOENIX who overcomes CONFLICT to manifest YOUR VISION.
+
+[Sun_Pluto_square_House_12]
+You are A PHOENIX who overcomes CONFLICT to find PEACE.
+
+[Sun_Pluto_square_NorthNode]
+You are A PHOENIX who overcomes CONFLICT to fulfill THE CALL OF DESTINY.
+
+[Sun_Pluto_opposition_House_1]
+You are A PHOENIX who overcomes RESISTANCE to claim YOURSELF.
+
+[Sun_Pluto_opposition_House_2]
+You are A PHOENIX who overcomes RESISTANCE to build VALUE.
+
+[Sun_Pluto_opposition_House_3]
+You are A PHOENIX who overcomes RESISTANCE to find YOUR VOICE.
+
+[Sun_Pluto_opposition_House_4]
+You are A PHOENIX who overcomes RESISTANCE to secure FOUNDATION.
+
+[Sun_Pluto_opposition_House_5]
+You are A PHOENIX who overcomes RESISTANCE to manifest A MASTERPIECE.
+
+[Sun_Pluto_opposition_House_6]
+You are A PHOENIX who overcomes RESISTANCE to perfect YOUR CRAFT.
+
+[Sun_Pluto_opposition_House_7]
+You are A PHOENIX who overcomes RESISTANCE to forge CONNECTION AND MEANING.
+
+[Sun_Pluto_opposition_House_8]
+You are A PHOENIX who overcomes RESISTANCE to embrace TRANSFORMATION.
+
+[Sun_Pluto_opposition_House_9]
+You are A PHOENIX who overcomes RESISTANCE to discover TRUTH.
+
+[Sun_Pluto_opposition_House_10]
+You are A PHOENIX who overcomes RESISTANCE to build A LEGACY.
+
+[Sun_Pluto_opposition_House_11]
+You are A PHOENIX who overcomes RESISTANCE to manifest YOUR VISION.
+
+[Sun_Pluto_opposition_House_12]
+You are A PHOENIX who overcomes RESISTANCE to find PEACE.
+
+[Sun_Pluto_opposition_NorthNode]
+You are A PHOENIX who overcomes RESISTANCE to fulfill THE CALL OF DESTINY.
+
+[Sun_Pluto_Saturn_House_1]
+You are A PHOENIX who breaks through RESTRICTION to claim YOURSELF.
+
+[Sun_Pluto_Saturn_House_2]
+You are A PHOENIX who breaks through RESTRICTION to build VALUE.
+
+[Sun_Pluto_Saturn_House_3]
+You are A PHOENIX who breaks through RESTRICTION to find YOUR VOICE.
+
+[Sun_Pluto_Saturn_House_4]
+You are A PHOENIX who breaks through RESTRICTION to secure FOUNDATION.
+
+[Sun_Pluto_Saturn_House_5]
+You are A PHOENIX who breaks through RESTRICTION to manifest A MASTERPIECE.
+
+[Sun_Pluto_Saturn_House_6]
+You are A PHOENIX who breaks through RESTRICTION to perfect YOUR CRAFT.
+
+[Sun_Pluto_Saturn_House_7]
+You are A PHOENIX who breaks through RESTRICTION to forge CONNECTION.
+
+[Sun_Pluto_Saturn_House_8]
+You are A PHOENIX who breaks through RESTRICTION to embrace TRANSFORMATION.
+
+[Sun_Pluto_Saturn_House_9]
+You are A PHOENIX who breaks through RESTRICTION to discover TRUTH.
+
+[Sun_Pluto_Saturn_House_10]
+You are A PHOENIX who breaks through RESTRICTION to build A LEGACY.
+
+[Sun_Pluto_Saturn_House_11]
+You are A PHOENIX who breaks through RESTRICTION to manifest YOUR VISION.
+
+[Sun_Pluto_Saturn_House_12]
+You are A PHOENIX who breaks through RESTRICTION to find PEACE.
+
+[Sun_Pluto_Saturn_NorthNode]
+You are A PHOENIX who breaks through RESTRICTION to fulfill THE CALL OF DESTINY.
+
+[Sun_Pluto_Neptune_House_1]
+You are A PHOENIX who parts THE FOG to claim YOURSELF.
+
+[Sun_Pluto_Neptune_House_2]
+You are A PHOENIX who parts THE FOG to build VALUE.
+
+[Sun_Pluto_Neptune_House_3]
+You are A PHOENIX who parts THE FOG to find YOUR VOICE.
+
+[Sun_Pluto_Neptune_House_4]
+You are A PHOENIX who parts THE FOG to secure FOUNDATION.
+
+[Sun_Pluto_Neptune_House_5]
+You are A PHOENIX who parts THE FOG to manifest A MASTERPIECE.
+
+[Sun_Pluto_Neptune_House_6]
+You are A PHOENIX who parts THE FOG to perfect YOUR CRAFT.
+
+[Sun_Pluto_Neptune_House_7]
+You are A PHOENIX who parts THE FOG to forge CONNECTION AND MEANING.
+
+[Sun_Pluto_Neptune_House_8]
+You are A PHOENIX who parts THE FOG to embrace TRANSFORMATION.
+
+[Sun_Pluto_Neptune_House_9]
+You are A PHOENIX who parts THE FOG to discover TRUTH.
+
+[Sun_Pluto_Neptune_House_10]
+You are A PHOENIX who parts THE FOG to build A LEGACY.
+
+[Sun_Pluto_Neptune_House_11]
+You are A PHOENIX who parts THE FOG to manifest YOUR VISION.
+
+[Sun_Pluto_Neptune_House_12]
+You are A PHOENIX who parts THE FOG to find PEACE.
+
+[Sun_Pluto_Neptune_NorthNode]
+You are A PHOENIX who parts THE FOG to fulfill THE CALL OF DESTINY.
+
+[Sun_Pluto_Pluto_House_1]
+You are A PHOENIX who transforms DESTRUCTION to claim YOURSELF.
+
+[Sun_Pluto_Pluto_House_2]
+You are A PHOENIX who transforms DESTRUCTION to build VALUE.
+
+[Sun_Pluto_Pluto_House_3]
+You are A PHOENIX who transforms DESTRUCTION to find YOUR VOICE.
+
+[Sun_Pluto_Pluto_House_4]
+You are A PHOENIX who transforms DESTRUCTION to secure FOUNDATION.
+
+[Sun_Pluto_Pluto_House_5]
+You are A PHOENIX who transforms DESTRUCTION to manifest A MASTERPIECE.
+
+[Sun_Pluto_Pluto_House_6]
+You are A PHOENIX who transforms DESTRUCTION to perfect YOUR CRAFT.
+
+[Sun_Pluto_Pluto_House_7]
+You are A PHOENIX who transforms DESTRUCTION to forge CONNECTION.
+
+[Sun_Pluto_Pluto_House_8]
+You are A PHOENIX who transforms DESTRUCTION to embrace TRANSFORMATION.
+
+[Sun_Pluto_Pluto_House_9]
+You are A PHOENIX who transforms DESTRUCTION to discover TRUTH.
+
+[Sun_Pluto_Pluto_House_10]
+You are A PHOENIX who transforms DESTRUCTION to build A LEGACY.
+
+[Sun_Pluto_Pluto_House_11]
+You are A PHOENIX who transforms DESTRUCTION to manifest YOUR VISION.
+
+[Sun_Pluto_Pluto_House_12]
+You are A PHOENIX who transforms DESTRUCTION to find PEACE.
+
+[Sun_Pluto_Pluto_NorthNode]
+You are A PHOENIX who transforms DESTRUCTION to fulfill THE CALL OF DESTINY.
+
+[Sun_Pluto_Mars_House_1]
+You are A PHOENIX who transforms BURNOUT to claim YOURSELF.
+
+[Sun_Pluto_Mars_House_2]
+You are A PHOENIX who transforms BURNOUT to build VALUE.
+
+[Sun_Pluto_Mars_House_3]
+You are A PHOENIX who transforms BURNOUT to find YOUR VOICE.
+
+[Sun_Pluto_Mars_House_4]
+You are A PHOENIX who transforms BURNOUT to secure FOUNDATION.
+
+[Sun_Pluto_Mars_House_5]
+You are A PHOENIX who transforms BURNOUT to manifest A MASTERPIECE.
+
+[Sun_Pluto_Mars_House_6]
+You are A PHOENIX who transforms BURNOUT to perfect YOUR CRAFT.
+
+[Sun_Pluto_Mars_House_7]
+You are A PHOENIX who transforms BURNOUT to forge CONNECTION.
+
+[Sun_Pluto_Mars_House_8]
+You are A PHOENIX who transforms BURNOUT to embrace TRANSFORMATION.
+
+[Sun_Pluto_Mars_House_9]
+You are A PHOENIX who transforms BURNOUT to discover TRUTH.
+
+[Sun_Pluto_Mars_House_10]
+You are A PHOENIX who transforms BURNOUT to build A LEGACY.
+
+[Sun_Pluto_Mars_House_11]
+You are A PHOENIX who transforms BURNOUT to manifest YOUR VISION.
+
+[Sun_Pluto_Mars_House_12]
+You are A PHOENIX who transforms BURNOUT to find PEACE.
+
+[Sun_Pluto_Mars_NorthNode]
+You are A PHOENIX who transforms BURNOUT to fulfill THE CALL OF DESTINY.
+
+[Sun_Pluto_Uranus_House_1]
+You are A PHOENIX who channels CHAOS to claim YOURSELF.
+
+[Sun_Pluto_Uranus_House_2]
+You are A PHOENIX who channels CHAOS to build VALUE.
+
+[Sun_Pluto_Uranus_House_3]
+You are A PHOENIX who channels CHAOS to find YOUR VOICE.
+
+[Sun_Pluto_Uranus_House_4]
+You are A PHOENIX who channels CHAOS to secure FOUNDATION.
+
+[Sun_Pluto_Uranus_House_5]
+You are A PHOENIX who channels CHAOS to manifest A MASTERPIECE.
+
+[Sun_Pluto_Uranus_House_6]
+You are A PHOENIX who channels CHAOS to perfect YOUR CRAFT.
+
+[Sun_Pluto_Uranus_House_7]
+You are A PHOENIX who channels CHAOS to forge CONNECTION.
+
+[Sun_Pluto_Uranus_House_8]
+You are A PHOENIX who channels CHAOS to embrace TRANSFORMATION.
+
+[Sun_Pluto_Uranus_House_9]
+You are A PHOENIX who channels CHAOS to discover TRUTH.
+
+[Sun_Pluto_Uranus_House_10]
+You are A PHOENIX who channels CHAOS to build A LEGACY.
+
+[Sun_Pluto_Uranus_House_11]
+You are A PHOENIX who channels CHAOS to manifest YOUR VISION.
+
+[Sun_Pluto_Uranus_House_12]
+You are A PHOENIX who channels CHAOS to find PEACE.
+
+[Sun_Pluto_Uranus_NorthNode]
+You are A PHOENIX who channels CHAOS to fulfill THE CALL OF DESTINY.
+
+[Sun_Pluto_House_12_House_1]
+You are A PHOENIX who illuminates THE UNCONSCIOUS to claim YOURSELF.
+
+[Sun_Pluto_House_12_House_2]
+You are A PHOENIX who illuminates THE UNCONSCIOUS to build VALUE.
+
+[Sun_Pluto_House_12_House_3]
+You are A PHOENIX who illuminates THE UNCONSCIOUS to find YOUR VOICE.
+
+[Sun_Pluto_House_12_House_4]
+You are A PHOENIX who illuminates THE UNCONSCIOUS to secure FOUNDATION.
+
+[Sun_Pluto_House_12_House_5]
+You are A PHOENIX who illuminates THE UNCONSCIOUS to manifest A MASTERPIECE.
+
+[Sun_Pluto_House_12_House_6]
+You are A PHOENIX who illuminates THE UNCONSCIOUS to perfect YOUR CRAFT.
+
+[Sun_Pluto_House_12_House_7]
+You are A PHOENIX who illuminates THE UNCONSCIOUS to forge CONNECTION.
+
+[Sun_Pluto_House_12_House_8]
+You are A PHOENIX who illuminates THE UNCONSCIOUS to embrace TRANSFORMATION.
+
+[Sun_Pluto_House_12_House_9]
+You are A PHOENIX who illuminates THE UNCONSCIOUS to discover TRUTH.
+
+[Sun_Pluto_House_12_House_10]
+You are A PHOENIX who illuminates THE UNCONSCIOUS to build A LEGACY.
+
+[Sun_Pluto_House_12_House_11]
+You are A PHOENIX who illuminates THE UNCONSCIOUS to manifest YOUR VISION.
+
+[Sun_Pluto_House_12_House_12]
+You are A PHOENIX who illuminates THE UNCONSCIOUS to find PEACE.
+
+[Sun_Pluto_House_12_NorthNode]
+You are A PHOENIX who illuminates THE UNCONSCIOUS to fulfill THE CALL OF DESTINY.
+
+[Moon_Pluto_square_House_1]
+You are A SEER who overcomes CONFLICT to claim YOURSELF.
+
+[Moon_Pluto_square_House_2]
+You are A SEER who overcomes CONFLICT to build VALUE.
+
+[Moon_Pluto_square_House_3]
+You are A SEER who overcomes CONFLICT to find YOUR VOICE.
+
+[Moon_Pluto_square_House_4]
+You are A SEER who overcomes CONFLICT to secure FOUNDATION.
+
+[Moon_Pluto_square_House_5]
+You are A SEER who overcomes CONFLICT to manifest A MASTERPIECE.
+
+[Moon_Pluto_square_House_6]
+You are A SEER who overcomes CONFLICT to perfect YOUR CRAFT.
+
+[Moon_Pluto_square_House_7]
+You are A SEER who overcomes CONFLICT to forge CONNECTION.
+
+[Moon_Pluto_square_House_8]
+You are A SEER who overcomes CONFLICT to embrace TRANSFORMATION.
+
+[Moon_Pluto_square_House_9]
+You are A SEER who overcomes CONFLICT to discover TRUTH.
+
+[Moon_Pluto_square_House_10]
+You are A SEER who overcomes CONFLICT to build A LEGACY.
+
+[Moon_Pluto_square_House_11]
+You are A SEER who overcomes CONFLICT to manifest YOUR VISION.
+
+[Moon_Pluto_square_House_12]
+You are A SEER who overcomes CONFLICT to find PEACE.
+
+[Moon_Pluto_square_NorthNode]
+You are A SEER who overcomes CONFLICT to fulfill THE CALL OF DESTINY.
+
+[Moon_Pluto_opposition_House_1]
+You are A SEER who overcomes RESISTANCE to claim YOURSELF.
+
+[Moon_Pluto_opposition_House_2]
+You are A SEER who overcomes RESISTANCE to build VALUE.
+
+[Moon_Pluto_opposition_House_3]
+You are A SEER who overcomes RESISTANCE to find YOUR VOICE.
+
+[Moon_Pluto_opposition_House_4]
+You are A SEER who overcomes RESISTANCE to secure FOUNDATION.
+
+[Moon_Pluto_opposition_House_5]
+You are A SEER who overcomes RESISTANCE to manifest A MASTERPIECE.
+
+[Moon_Pluto_opposition_House_6]
+You are A SEER who overcomes RESISTANCE to perfect YOUR CRAFT.
+
+[Moon_Pluto_opposition_House_7]
+You are A SEER who overcomes RESISTANCE to forge CONNECTION AND MEANING.
+
+[Moon_Pluto_opposition_House_8]
+You are A SEER who overcomes RESISTANCE to embrace TRANSFORMATION.
+
+[Moon_Pluto_opposition_House_9]
+You are A SEER who overcomes RESISTANCE to discover TRUTH.
+
+[Moon_Pluto_opposition_House_10]
+You are A SEER who overcomes RESISTANCE to build A LEGACY.
+
+[Moon_Pluto_opposition_House_11]
+You are A SEER who overcomes RESISTANCE to manifest YOUR VISION.
+
+[Moon_Pluto_opposition_House_12]
+You are A SEER who overcomes RESISTANCE to find PEACE.
+
+[Moon_Pluto_opposition_NorthNode]
+You are A SEER who overcomes RESISTANCE to fulfill THE CALL OF DESTINY.
+
+[Moon_Pluto_Saturn_House_1]
+You are A SEER who breaks through RESTRICTION to claim YOURSELF.
+
+[Moon_Pluto_Saturn_House_2]
+You are A SEER who breaks through RESTRICTION to build VALUE.
+
+[Moon_Pluto_Saturn_House_3]
+You are A SEER who breaks through RESTRICTION to find YOUR VOICE.
+
+[Moon_Pluto_Saturn_House_4]
+You are A SEER who breaks through RESTRICTION to secure FOUNDATION.
+
+[Moon_Pluto_Saturn_House_5]
+You are A SEER who breaks through RESTRICTION to manifest A MASTERPIECE.
+
+[Moon_Pluto_Saturn_House_6]
+You are A SEER who breaks through RESTRICTION to perfect YOUR CRAFT.
+
+[Moon_Pluto_Saturn_House_7]
+You are A SEER who breaks through RESTRICTION to forge CONNECTION.
+
+[Moon_Pluto_Saturn_House_8]
+You are A SEER who breaks through RESTRICTION to embrace TRANSFORMATION.
+
+[Moon_Pluto_Saturn_House_9]
+You are A SEER who breaks through RESTRICTION to discover TRUTH.
+
+[Moon_Pluto_Saturn_House_10]
+You are A SEER who breaks through RESTRICTION to build A LEGACY.
+
+[Moon_Pluto_Saturn_House_11]
+You are A SEER who breaks through RESTRICTION to manifest YOUR VISION.
+
+[Moon_Pluto_Saturn_House_12]
+You are A SEER who breaks through RESTRICTION to find PEACE.
+
+[Moon_Pluto_Saturn_NorthNode]
+You are A SEER who breaks through RESTRICTION to fulfill THE CALL OF DESTINY.
+
+[Moon_Pluto_Neptune_House_1]
+You are A SEER who parts THE FOG to claim YOURSELF.
+
+[Moon_Pluto_Neptune_House_2]
+You are A SEER who parts THE FOG to build VALUE.
+
+[Moon_Pluto_Neptune_House_3]
+You are A SEER who parts THE FOG to find YOUR VOICE.
+
+[Moon_Pluto_Neptune_House_4]
+You are A SEER who parts THE FOG to secure FOUNDATION.
+
+[Moon_Pluto_Neptune_House_5]
+You are A SEER who parts THE FOG to manifest A MASTERPIECE.
+
+[Moon_Pluto_Neptune_House_6]
+You are A SEER who parts THE FOG to perfect YOUR CRAFT.
+
+[Moon_Pluto_Neptune_House_7]
+You are A SEER who parts THE FOG to forge CONNECTION AND MEANING.
+
+[Moon_Pluto_Neptune_House_8]
+You are A SEER who parts THE FOG to embrace TRANSFORMATION.
+
+[Moon_Pluto_Neptune_House_9]
+You are A SEER who parts THE FOG to discover TRUTH.
+
+[Moon_Pluto_Neptune_House_10]
+You are A SEER who parts THE FOG to build A LEGACY.
+
+[Moon_Pluto_Neptune_House_11]
+You are A SEER who parts THE FOG to manifest YOUR VISION.
+
+[Moon_Pluto_Neptune_House_12]
+You are A SEER who parts THE FOG to find PEACE.
+
+[Moon_Pluto_Neptune_NorthNode]
+You are A SEER who parts THE FOG to fulfill THE CALL OF DESTINY.
+
+[Moon_Pluto_Pluto_House_1]
+You are A SEER who transforms DESTRUCTION to claim YOURSELF.
+
+[Moon_Pluto_Pluto_House_2]
+You are A SEER who transforms DESTRUCTION to build VALUE.
+
+[Moon_Pluto_Pluto_House_3]
+You are A SEER who transforms DESTRUCTION to find YOUR VOICE.
+
+[Moon_Pluto_Pluto_House_4]
+You are A SEER who transforms DESTRUCTION to secure FOUNDATION.
+
+[Moon_Pluto_Pluto_House_5]
+You are A SEER who transforms DESTRUCTION to manifest A MASTERPIECE.
+
+[Moon_Pluto_Pluto_House_6]
+You are A SEER who transforms DESTRUCTION to perfect YOUR CRAFT.
+
+[Moon_Pluto_Pluto_House_7]
+You are A SEER who transforms DESTRUCTION to forge CONNECTION.
+
+[Moon_Pluto_Pluto_House_8]
+You are A SEER who transforms DESTRUCTION to embrace TRANSFORMATION.
+
+[Moon_Pluto_Pluto_House_9]
+You are A SEER who transforms DESTRUCTION to discover TRUTH.
+
+[Moon_Pluto_Pluto_House_10]
+You are A SEER who transforms DESTRUCTION to build A LEGACY.
+
+[Moon_Pluto_Pluto_House_11]
+You are A SEER who transforms DESTRUCTION to manifest YOUR VISION.
+
+[Moon_Pluto_Pluto_House_12]
+You are A SEER who transforms DESTRUCTION to find PEACE.
+
+[Moon_Pluto_Pluto_NorthNode]
+You are A SEER who parts THE VOID to fulfill THE CALL OF DESTINY.
+
+[Moon_Pluto_Mars_House_1]
+You are A SEER who transforms BURNOUT to claim YOURSELF.
+
+[Moon_Pluto_Mars_House_2]
+You are A SEER who transforms BURNOUT to build VALUE.
+
+[Moon_Pluto_Mars_House_3]
+You are A SEER who transforms BURNOUT to find YOUR VOICE.
+
+[Moon_Pluto_Mars_House_4]
+You are A SEER who transforms BURNOUT to secure FOUNDATION.
+
+[Moon_Pluto_Mars_House_5]
+You are A SEER who transforms BURNOUT to manifest A MASTERPIECE.
+
+[Moon_Pluto_Mars_House_6]
+You are A SEER who transforms BURNOUT to perfect YOUR CRAFT.
+
+[Moon_Pluto_Mars_House_7]
+You are A SEER who transforms BURNOUT to forge CONNECTION.
+
+[Moon_Pluto_Mars_House_8]
+You are A SEER who transforms BURNOUT to embrace TRANSFORMATION.
+
+[Moon_Pluto_Mars_House_9]
+You are A SEER who transforms BURNOUT to discover TRUTH.
+
+[Moon_Pluto_Mars_House_10]
+You are A SEER who transforms BURNOUT to build A LEGACY.
+
+[Moon_Pluto_Mars_House_11]
+You are A SEER who transforms BURNOUT to manifest YOUR VISION.
+
+[Moon_Pluto_Mars_House_12]
+You are A SEER who transforms BURNOUT to find PEACE.
+
+[Moon_Pluto_Mars_NorthNode]
+You are A SEER who transforms BURNOUT to fulfill THE CALL OF DESTINY.
+
+[Moon_Pluto_Uranus_House_1]
+You are A SEER who channels CHAOS to claim YOURSELF.
+
+[Moon_Pluto_Uranus_House_2]
+You are A SEER who channels CHAOS to build VALUE.
+
+[Moon_Pluto_Uranus_House_3]
+You are A SEER who channels CHAOS to find YOUR VOICE.
+
+[Moon_Pluto_Uranus_House_4]
+You are A SEER who channels CHAOS to secure FOUNDATION.
+
+[Moon_Pluto_Uranus_House_5]
+You are A SEER who channels CHAOS to manifest A MASTERPIECE.
+
+[Moon_Pluto_Uranus_House_6]
+You are A SEER who channels CHAOS to perfect YOUR CRAFT.
+
+[Moon_Pluto_Uranus_House_7]
+You are A SEER who channels CHAOS to forge CONNECTION.
+
+[Moon_Pluto_Uranus_House_8]
+You are A SEER who channels CHAOS to embrace TRANSFORMATION.
+
+[Moon_Pluto_Uranus_House_9]
+You are A SEER who channels CHAOS to discover TRUTH.
+
+[Moon_Pluto_Uranus_House_10]
+You are A SEER who channels CHAOS to build A LEGACY.
+
+[Moon_Pluto_Uranus_House_11]
+You are A SEER who channels CHAOS to manifest YOUR VISION.
+
+[Moon_Pluto_Uranus_House_12]
+You are A SEER who channels CHAOS to find PEACE.
+
+[Moon_Pluto_Uranus_NorthNode]
+You are A SEER who channels CHAOS to fulfill THE CALL OF DESTINY.
+
+[Moon_Pluto_House_12_House_1]
+You are A SEER who illuminates THE UNCONSCIOUS to claim YOURSELF.
+
+[Moon_Pluto_House_12_House_2]
+You are A SEER who illuminates THE UNCONSCIOUS to build VALUE.
+
+[Moon_Pluto_House_12_House_3]
+You are A SEER who illuminates THE UNCONSCIOUS to find YOUR VOICE.
+
+[Moon_Pluto_House_12_House_4]
+You are A SEER who illuminates THE UNCONSCIOUS to secure FOUNDATION.
+
+[Moon_Pluto_House_12_House_5]
+You are A SEER who illuminates THE UNCONSCIOUS to manifest A MASTERPIECE.
+
+[Moon_Pluto_House_12_House_6]
+You are A SEER who illuminates THE UNCONSCIOUS to perfect YOUR CRAFT.
+
+[Moon_Pluto_House_12_House_7]
+You are A SEER who illuminates THE UNCONSCIOUS to forge CONNECTION.
+
+[Moon_Pluto_House_12_House_8]
+You are A SEER who illuminates THE UNCONSCIOUS to embrace TRANSFORMATION.
+
+[Moon_Pluto_House_12_House_9]
+You are A SEER who illuminates THE UNCONSCIOUS to discover TRUTH.
+
+[Moon_Pluto_House_12_House_10]
+You are A SEER who illuminates THE UNCONSCIOUS to build A LEGACY.
+
+[Moon_Pluto_House_12_House_11]
+You are A SEER who illuminates THE UNCONSCIOUS to manifest YOUR VISION.
+
+[Moon_Pluto_House_12_House_12]
+You are A SEER who illuminates THE UNCONSCIOUS to find PEACE.
+
+[Moon_Pluto_House_12_NorthNode]
+You are A SEER who illuminates THE UNCONSCIOUS to fulfill THE CALL OF DESTINY.
+
+[Mercury_Uranus_square_House_1]
+You are AN INVENTOR who overcomes CONFLICT to claim YOURSELF.
+
+[Mercury_Uranus_square_House_2]
+You are AN INVENTOR who overcomes CONFLICT to build VALUE.
+
+[Mercury_Uranus_square_House_3]
+You are AN INVENTOR who overcomes CONFLICT to find YOUR VOICE.
+
+[Mercury_Uranus_square_House_4]
+You are AN INVENTOR who overcomes CONFLICT to secure FOUNDATION.
+
+[Mercury_Uranus_square_House_5]
+You are AN INVENTOR who overcomes CONFLICT to manifest A MASTERPIECE.
+
+[Mercury_Uranus_square_House_6]
+You are AN INVENTOR who overcomes CONFLICT to perfect YOUR CRAFT.
+
+[Mercury_Uranus_square_House_7]
+You are AN INVENTOR who overcomes CONFLICT to forge CONNECTION.
+
+[Mercury_Uranus_square_House_8]
+You are AN INVENTOR who overcomes CONFLICT to embrace TRANSFORMATION.
+
+[Mercury_Uranus_square_House_9]
+You are AN INVENTOR who overcomes CONFLICT to discover TRUTH.
+
+[Mercury_Uranus_square_House_10]
+You are AN INVENTOR who overcomes CONFLICT to build A LEGACY.
+
+[Mercury_Uranus_square_House_11]
+You are AN INVENTOR who overcomes CONFLICT to manifest YOUR VISION.
+
+[Mercury_Uranus_square_House_12]
+You are AN INVENTOR who overcomes CONFLICT to find PEACE.
+
+[Mercury_Uranus_square_NorthNode]
+You are AN INVENTOR who overcomes CONFLICT to fulfill THE CALL OF DESTINY.
+
+[Mercury_Uranus_opposition_House_1]
+You are AN INVENTOR who overcomes RESISTANCE to claim YOURSELF.
+
+[Mercury_Uranus_opposition_House_2]
+You are AN INVENTOR who overcomes RESISTANCE to build VALUE.
+
+[Mercury_Uranus_opposition_House_3]
+You are AN INVENTOR who overcomes RESISTANCE to find YOUR VOICE.
+
+[Mercury_Uranus_opposition_House_4]
+You are AN INVENTOR who overcomes RESISTANCE to secure FOUNDATION.
+
+[Mercury_Uranus_opposition_House_5]
+You are AN INVENTOR who overcomes RESISTANCE to manifest A MASTERPIECE.
+
+[Mercury_Uranus_opposition_House_6]
+You are AN INVENTOR who overcomes RESISTANCE to perfect YOUR CRAFT.
+
+[Mercury_Uranus_opposition_House_7]
+You are AN INVENTOR who overcomes RESISTANCE to forge CONNECTION AND MEANING.
+
+[Mercury_Uranus_opposition_House_8]
+You are AN INVENTOR who overcomes RESISTANCE to embrace TRANSFORMATION.
+
+[Mercury_Uranus_opposition_House_9]
+You are AN INVENTOR who overcomes RESISTANCE to discover TRUTH.
+
+[Mercury_Uranus_opposition_House_10]
+You are AN INVENTOR who overcomes RESISTANCE to build A LEGACY.
+
+[Mercury_Uranus_opposition_House_11]
+You are AN INVENTOR who overcomes RESISTANCE to manifest YOUR VISION.
+
+[Mercury_Uranus_opposition_House_12]
+You are AN INVENTOR who overcomes RESISTANCE to find PEACE.
+
+[Mercury_Uranus_opposition_NorthNode]
+You are AN INVENTOR who overcomes RESISTANCE to fulfill THE CALL OF DESTINY.
+
+[Mercury_Uranus_Saturn_House_1]
+You are AN INVENTOR who breaks through RESTRICTION to claim YOURSELF.
+
+[Mercury_Uranus_Saturn_House_2]
+You are AN INVENTOR who breaks through RESTRICTION to build VALUE.
+
+[Mercury_Uranus_Saturn_House_3]
+You are AN INVENTOR who breaks through RESTRICTION to find YOUR VOICE.
+
+[Mercury_Uranus_Saturn_House_4]
+You are AN INVENTOR who breaks through RESTRICTION to secure FOUNDATION.
+
+[Mercury_Uranus_Saturn_House_5]
+You are AN INVENTOR who breaks through RESTRICTION to manifest A MASTERPIECE.
+
+[Mercury_Uranus_Saturn_House_6]
+You are AN INVENTOR who breaks through RESTRICTION to perfect YOUR CRAFT.
+
+[Mercury_Uranus_Saturn_House_7]
+You are AN INVENTOR who breaks through RESTRICTION to forge CONNECTION.
+
+[Mercury_Uranus_Saturn_House_8]
+You are AN INVENTOR who breaks through RESTRICTION to embrace TRANSFORMATION.
+
+[Mercury_Uranus_Saturn_House_9]
+You are AN INVENTOR who breaks through RESTRICTION to discover TRUTH.
+
+[Mercury_Uranus_Saturn_House_10]
+You are AN INVENTOR who breaks through RESTRICTION to build A LEGACY.
+
+[Mercury_Uranus_Saturn_House_11]
+You are AN INVENTOR who breaks through RESTRICTION to manifest YOUR VISION.
+
+[Mercury_Uranus_Saturn_House_12]
+You are AN INVENTOR who breaks through RESTRICTION to find PEACE.
+
+[Mercury_Uranus_Saturn_NorthNode]
+You are AN INVENTOR who breaks through RESTRICTION to fulfill THE CALL OF DESTINY.
+
+[Mercury_Uranus_Neptune_House_1]
+You are AN INVENTOR who parts THE FOG to claim YOURSELF.
+
+[Mercury_Uranus_Neptune_House_2]
+You are AN INVENTOR who parts THE FOG to build VALUE.
+
+[Mercury_Uranus_Neptune_House_3]
+You are AN INVENTOR who parts THE FOG to find YOUR VOICE.
+
+[Mercury_Uranus_Neptune_House_4]
+You are AN INVENTOR who parts THE FOG to secure FOUNDATION.
+
+[Mercury_Uranus_Neptune_House_5]
+You are AN INVENTOR who parts THE FOG to manifest A MASTERPIECE.
+
+[Mercury_Uranus_Neptune_House_6]
+You are AN INVENTOR who parts THE FOG to perfect YOUR CRAFT.
+
+[Mercury_Uranus_Neptune_House_7]
+You are AN INVENTOR who parts THE FOG to forge CONNECTION AND MEANING.
+
+[Mercury_Uranus_Neptune_House_8]
+You are AN INVENTOR who parts THE FOG to embrace TRANSFORMATION.
+
+[Mercury_Uranus_Neptune_House_9]
+You are AN INVENTOR who parts THE FOG to discover TRUTH.
+
+[Mercury_Uranus_Neptune_House_10]
+You are AN INVENTOR who parts THE FOG to build A LEGACY.
+
+[Mercury_Uranus_Neptune_House_11]
+You are AN INVENTOR who parts THE FOG to manifest YOUR VISION.
+
+[Mercury_Uranus_Neptune_House_12]
+You are AN INVENTOR who parts THE FOG to find PEACE.
+
+[Mercury_Uranus_Neptune_NorthNode]
+You are AN INVENTOR who parts THE FOG to fulfill THE CALL OF DESTINY.
+
+[Mercury_Uranus_Pluto_House_1]
+You are AN INVENTOR who transforms DESTRUCTION to claim YOURSELF.
+
+[Mercury_Uranus_Pluto_House_2]
+You are AN INVENTOR who transforms DESTRUCTION to build VALUE.
+
+[Mercury_Uranus_Pluto_House_3]
+You are AN INVENTOR who transforms DESTRUCTION to find YOUR VOICE.
+
+[Mercury_Uranus_Pluto_House_4]
+You are AN INVENTOR who transforms DESTRUCTION to secure FOUNDATION.
+
+[Mercury_Uranus_Pluto_House_5]
+You are AN INVENTOR who transforms DESTRUCTION to manifest A MASTERPIECE.
+
+[Mercury_Uranus_Pluto_House_6]
+You are AN INVENTOR who transforms DESTRUCTION to perfect YOUR CRAFT.
+
+[Mercury_Uranus_Pluto_House_7]
+You are AN INVENTOR who transforms DESTRUCTION to forge CONNECTION.
+
+[Mercury_Uranus_Pluto_House_8]
+You are AN INVENTOR who transforms DESTRUCTION to embrace TRANSFORMATION.
+
+[Mercury_Uranus_Pluto_House_9]
+You are AN INVENTOR who transforms DESTRUCTION to discover TRUTH.
+
+[Mercury_Uranus_Pluto_House_10]
+You are AN INVENTOR who transforms DESTRUCTION to build A LEGACY.
+
+[Mercury_Uranus_Pluto_House_11]
+You are AN INVENTOR who transforms DESTRUCTION to manifest YOUR VISION.
+
+[Mercury_Uranus_Pluto_House_12]
+You are AN INVENTOR who transforms DESTRUCTION to find PEACE.
+
+[Mercury_Uranus_Pluto_NorthNode]
+You are AN INVENTOR who transforms DESTRUCTION to fulfill THE CALL OF DESTINY.
+
+[Mercury_Uranus_Mars_House_1]
+You are AN INVENTOR who transforms BURNOUT to claim YOURSELF.
+
+[Mercury_Uranus_Mars_House_2]
+You are AN INVENTOR who transforms BURNOUT to build VALUE.
+
+[Mercury_Uranus_Mars_House_3]
+You are AN INVENTOR who transforms BURNOUT to find YOUR VOICE.
+
+[Mercury_Uranus_Mars_House_4]
+You are AN INVENTOR who transforms BURNOUT to secure FOUNDATION.
+
+[Mercury_Uranus_Mars_House_5]
+You are AN INVENTOR who transforms BURNOUT to manifest A MASTERPIECE.
+
+[Mercury_Uranus_Mars_House_6]
+You are AN INVENTOR who transforms BURNOUT to perfect YOUR CRAFT.
+
+[Mercury_Uranus_Mars_House_7]
+You are AN INVENTOR who transforms BURNOUT to forge CONNECTION.
+
+[Mercury_Uranus_Mars_House_8]
+You are AN INVENTOR who transforms BURNOUT to embrace TRANSFORMATION.
+
+[Mercury_Uranus_Mars_House_9]
+You are AN INVENTOR who transforms BURNOUT to discover TRUTH.
+
+[Mercury_Uranus_Mars_House_10]
+You are AN INVENTOR who transforms BURNOUT to build A LEGACY.
+
+[Mercury_Uranus_Mars_House_11]
+You are AN INVENTOR who transforms BURNOUT to manifest YOUR VISION.
+
+[Mercury_Uranus_Mars_House_12]
+You are AN INVENTOR who transforms BURNOUT to find PEACE.
+
+[Mercury_Uranus_Mars_NorthNode]
+You are AN INVENTOR who transforms BURNOUT to fulfill THE CALL OF DESTINY.
+
+[Mercury_Uranus_Uranus_House_1]
+You are AN INVENTOR who channels CHAOS to claim YOURSELF.
+
+[Mercury_Uranus_Uranus_House_2]
+You are AN INVENTOR who channels CHAOS to build VALUE.
+
+[Mercury_Uranus_Uranus_House_3]
+You are AN INVENTOR who channels CHAOS to find YOUR VOICE.
+
+[Mercury_Uranus_Uranus_House_4]
+You are AN INVENTOR who channels CHAOS to secure FOUNDATION.
+
+[Mercury_Uranus_Uranus_House_5]
+You are AN INVENTOR who channels CHAOS to manifest A MASTERPIECE.
+
+[Mercury_Uranus_Uranus_House_6]
+You are AN INVENTOR who channels CHAOS to perfect YOUR CRAFT.
+
+[Mercury_Uranus_Uranus_House_7]
+You are AN INVENTOR who channels CHAOS to forge CONNECTION.
+
+[Mercury_Uranus_Uranus_House_8]
+You are AN INVENTOR who channels CHAOS to embrace TRANSFORMATION.
+
+[Mercury_Uranus_Uranus_House_9]
+You are AN INVENTOR who channels CHAOS to discover TRUTH.
+
+[Mercury_Uranus_Uranus_House_10]
+You are AN INVENTOR who channels CHAOS to build A LEGACY.
+
+[Mercury_Uranus_Uranus_House_11]
+You are AN INVENTOR who channels CHAOS to manifest YOUR VISION.
+
+[Mercury_Uranus_Uranus_House_12]
+You are AN INVENTOR who channels CHAOS to find PEACE.
+
+[Mercury_Uranus_Uranus_NorthNode]
+You are AN INVENTOR who channels CHAOS to fulfill THE CALL OF DESTINY.
+
+[Mercury_Uranus_House_12_House_1]
+You are AN INVENTOR who illuminates THE UNCONSCIOUS to claim YOURSELF.
+
+[Mercury_Uranus_House_12_House_2]
+You are AN INVENTOR who illuminates THE UNCONSCIOUS to build VALUE.
+
+[Mercury_Uranus_House_12_House_3]
+You are AN INVENTOR who illuminates THE UNCONSCIOUS to find YOUR VOICE.
+
+[Mercury_Uranus_House_12_House_4]
+You are AN INVENTOR who illuminates THE UNCONSCIOUS to secure FOUNDATION.
+
+[Mercury_Uranus_House_12_House_5]
+You are AN INVENTOR who illuminates THE UNCONSCIOUS to manifest A MASTERPIECE.
+
+[Mercury_Uranus_House_12_House_6]
+You are AN INVENTOR who illuminates THE UNCONSCIOUS to perfect YOUR CRAFT.
+
+[Mercury_Uranus_House_12_House_7]
+You are AN INVENTOR who illuminates THE UNCONSCIOUS to forge CONNECTION.
+
+[Mercury_Uranus_House_12_House_8]
+You are AN INVENTOR who illuminates THE UNCONSCIOUS to embrace TRANSFORMATION.
+
+[Mercury_Uranus_House_12_House_9]
+You are AN INVENTOR who illuminates THE UNCONSCIOUS to discover TRUTH.
+
+[Mercury_Uranus_House_12_House_10]
+You are AN INVENTOR who illuminates THE UNCONSCIOUS to build A LEGACY.
+
+[Mercury_Uranus_House_12_House_11]
+You are AN INVENTOR who illuminates THE UNCONSCIOUS to manifest YOUR VISION.
+
+[Mercury_Uranus_House_12_House_12]
+You are AN INVENTOR who illuminates THE UNCONSCIOUS to find PEACE.
+
+[Mercury_Uranus_House_12_NorthNode]
+You are AN INVENTOR who illuminates THE UNCONSCIOUS to fulfill THE CALL OF DESTINY.
+
+[Mars_Saturn_square_House_1]
+You are A STRATEGIST who overcomes CONFLICT to claim YOURSELF.
+
+[Mars_Saturn_square_House_2]
+You are A STRATEGIST who overcomes CONFLICT to build VALUE.
+
+[Mars_Saturn_square_House_3]
+You are A STRATEGIST who overcomes CONFLICT to find YOUR VOICE.
+
+[Mars_Saturn_square_House_4]
+You are A STRATEGIST who overcomes CONFLICT to secure FOUNDATION.
+
+[Mars_Saturn_square_House_5]
+You are A STRATEGIST who overcomes CONFLICT to manifest A MASTERPIECE.
+
+[Mars_Saturn_square_House_6]
+You are A STRATEGIST who overcomes CONFLICT to perfect YOUR CRAFT.
+
+[Mars_Saturn_square_House_7]
+You are A STRATEGIST who overcomes CONFLICT to forge CONNECTION.
+
+[Mars_Saturn_square_House_8]
+You are A STRATEGIST who overcomes CONFLICT to embrace TRANSFORMATION.
+
+[Mars_Saturn_square_House_9]
+You are A STRATEGIST who overcomes CONFLICT to discover TRUTH.
+
+[Mars_Saturn_square_House_10]
+You are A STRATEGIST who overcomes CONFLICT to build A LEGACY.
+
+[Mars_Saturn_square_House_11]
+You are A STRATEGIST who overcomes CONFLICT to manifest YOUR VISION.
+
+[Mars_Saturn_square_House_12]
+You are A STRATEGIST who overcomes CONFLICT to find PEACE.
+
+[Mars_Saturn_square_NorthNode]
+You are A STRATEGIST who overcomes CONFLICT to fulfill THE CALL OF DESTINY.
+
+[Mars_Saturn_opposition_House_1]
+You are A STRATEGIST who overcomes RESISTANCE to claim YOURSELF.
+
+[Mars_Saturn_opposition_House_2]
+You are A STRATEGIST who overcomes RESISTANCE to build VALUE.
+
+[Mars_Saturn_opposition_House_3]
+You are A STRATEGIST who overcomes RESISTANCE to find YOUR VOICE.
+
+[Mars_Saturn_opposition_House_4]
+You are A STRATEGIST who overcomes RESISTANCE to secure FOUNDATION.
+
+[Mars_Saturn_opposition_House_5]
+You are A STRATEGIST who overcomes RESISTANCE to manifest A MASTERPIECE.
+
+[Mars_Saturn_opposition_House_6]
+You are A STRATEGIST who overcomes RESISTANCE to perfect YOUR CRAFT.
+
+[Mars_Saturn_opposition_House_7]
+You are A STRATEGIST who overcomes RESISTANCE to forge CONNECTION AND MEANING.
+
+[Mars_Saturn_opposition_House_8]
+You are A STRATEGIST who overcomes RESISTANCE to embrace TRANSFORMATION.
+
+[Mars_Saturn_opposition_House_9]
+You are A STRATEGIST who overcomes RESISTANCE to discover TRUTH.
+
+[Mars_Saturn_opposition_House_10]
+You are A STRATEGIST who overcomes RESISTANCE to build A LEGACY.
+
+[Mars_Saturn_opposition_House_11]
+You are A STRATEGIST who overcomes RESISTANCE to manifest YOUR VISION.
+
+[Mars_Saturn_opposition_House_12]
+You are A STRATEGIST who overcomes RESISTANCE to find PEACE.
+
+[Mars_Saturn_opposition_NorthNode]
+You are A STRATEGIST who overcomes RESISTANCE to fulfill THE CALL OF DESTINY.
+
+[Mars_Saturn_Saturn_House_1]
+You are A STRATEGIST who breaks through RESTRICTION to claim YOURSELF.
+
+[Mars_Saturn_Saturn_House_2]
+You are A STRATEGIST who breaks through RESTRICTION to build VALUE.
+
+[Mars_Saturn_Saturn_House_3]
+You are A STRATEGIST who breaks through RESTRICTION to find YOUR VOICE.
+
+[Mars_Saturn_Saturn_House_4]
+You are A STRATEGIST who breaks through RESTRICTION to secure FOUNDATION.
+
+[Mars_Saturn_Saturn_House_5]
+You are A STRATEGIST who breaks through RESTRICTION to manifest A MASTERPIECE.
+
+[Mars_Saturn_Saturn_House_6]
+You are A STRATEGIST who breaks through RESTRICTION to perfect YOUR CRAFT.
+
+[Mars_Saturn_Saturn_House_7]
+You are A STRATEGIST who breaks through RESTRICTION to forge CONNECTION.
+
+[Mars_Saturn_Saturn_House_8]
+You are A STRATEGIST who breaks through RESTRICTION to embrace TRANSFORMATION.
+
+[Mars_Saturn_Saturn_House_9]
+You are A STRATEGIST who breaks through RESTRICTION to discover TRUTH.
+
+[Mars_Saturn_Saturn_House_10]
+You are A STRATEGIST who breaks through RESTRICTION to build A LEGACY.
+
+[Mars_Saturn_Saturn_House_11]
+You are A STRATEGIST who breaks through RESTRICTION to manifest YOUR VISION.
+
+[Mars_Saturn_Saturn_House_12]
+You are A STRATEGIST who breaks through RESTRICTION to find PEACE.
+
+[Mars_Saturn_Saturn_NorthNode]
+You are A STRATEGIST who breaks through RESTRICTION to fulfill THE CALL OF DESTINY.
+
+[Mars_Saturn_Neptune_House_1]
+You are A STRATEGIST who parts THE FOG to claim YOURSELF.
+
+[Mars_Saturn_Neptune_House_2]
+You are A STRATEGIST who parts THE FOG to build VALUE.
+
+[Mars_Saturn_Neptune_House_3]
+You are A STRATEGIST who parts THE FOG to find YOUR VOICE.
+
+[Mars_Saturn_Neptune_House_4]
+You are A STRATEGIST who parts THE FOG to secure FOUNDATION.
+
+[Mars_Saturn_Neptune_House_5]
+You are A STRATEGIST who parts THE FOG to manifest A MASTERPIECE.
+
+[Mars_Saturn_Neptune_House_6]
+You are A STRATEGIST who parts THE FOG to perfect YOUR CRAFT.
+
+[Mars_Saturn_Neptune_House_7]
+You are A STRATEGIST who parts THE FOG to forge CONNECTION AND MEANING.
+
+[Mars_Saturn_Neptune_House_8]
+You are A STRATEGIST who parts THE FOG to embrace TRANSFORMATION.
+
+[Mars_Saturn_Neptune_House_9]
+You are A STRATEGIST who parts THE FOG to discover TRUTH.
+
+[Mars_Saturn_Neptune_House_10]
+You are A STRATEGIST who parts THE FOG to build A LEGACY.
+
+[Mars_Saturn_Neptune_House_11]
+You are A STRATEGIST who parts THE FOG to manifest YOUR VISION.
+
+[Mars_Saturn_Neptune_House_12]
+You are A STRATEGIST who parts THE FOG to find PEACE.
+
+[Mars_Saturn_Neptune_NorthNode]
+You are A STRATEGIST who parts THE FOG to fulfill THE CALL OF DESTINY.
+
+[Mars_Saturn_Pluto_House_1]
+You are A STRATEGIST who transforms DESTRUCTION to claim YOURSELF.
+
+[Mars_Saturn_Pluto_House_2]
+You are A STRATEGIST who transforms DESTRUCTION to build VALUE.
+
+[Mars_Saturn_Pluto_House_3]
+You are A STRATEGIST who transforms DESTRUCTION to find YOUR VOICE.
+
+[Mars_Saturn_Pluto_House_4]
+You are A STRATEGIST who transforms DESTRUCTION to secure FOUNDATION.
+
+[Mars_Saturn_Pluto_House_5]
+You are A STRATEGIST who transforms DESTRUCTION to manifest A MASTERPIECE.
+
+[Mars_Saturn_Pluto_House_6]
+You are A STRATEGIST who transforms DESTRUCTION to perfect YOUR CRAFT.
+
+[Mars_Saturn_Pluto_House_7]
+You are A STRATEGIST who transforms DESTRUCTION to forge CONNECTION.
+
+[Mars_Saturn_Pluto_House_8]
+You are A STRATEGIST who transforms DESTRUCTION to embrace TRANSFORMATION.
+
+[Mars_Saturn_Pluto_House_9]
+You are A STRATEGIST who transforms DESTRUCTION to discover TRUTH.
+
+[Mars_Saturn_Pluto_House_10]
+You are A STRATEGIST who transforms DESTRUCTION to build A LEGACY.
+
+[Mars_Saturn_Pluto_House_11]
+You are A STRATEGIST who transforms DESTRUCTION to manifest YOUR VISION.
+
+[Mars_Saturn_Pluto_House_12]
+You are A STRATEGIST who transforms DESTRUCTION to find PEACE.
+
+[Mars_Saturn_Pluto_NorthNode]
+You are A STRATEGIST who transforms DESTRUCTION to fulfill THE CALL OF DESTINY.
+
+[Mars_Saturn_Mars_House_1]
+You are A STRATEGIST who transforms BURNOUT to claim YOURSELF.
+
+[Mars_Saturn_Mars_House_2]
+You are A STRATEGIST who transforms BURNOUT to build VALUE.
+
+[Mars_Saturn_Mars_House_3]
+You are A STRATEGIST who transforms BURNOUT to find YOUR VOICE.
+
+[Mars_Saturn_Mars_House_4]
+You are A STRATEGIST who transforms BURNOUT to secure FOUNDATION.
+
+[Mars_Saturn_Mars_House_5]
+You are A STRATEGIST who transforms BURNOUT to manifest A MASTERPIECE.
+
+[Mars_Saturn_Mars_House_6]
+You are A STRATEGIST who transforms BURNOUT to perfect YOUR CRAFT.
+
+[Mars_Saturn_Mars_House_7]
+You are A STRATEGIST who transforms BURNOUT to forge CONNECTION.
+
+[Mars_Saturn_Mars_House_8]
+You are A STRATEGIST who transforms BURNOUT to embrace TRANSFORMATION.
+
+[Mars_Saturn_Mars_House_9]
+You are A STRATEGIST who transforms BURNOUT to discover TRUTH.
+
+[Mars_Saturn_Mars_House_10]
+You are A STRATEGIST who transforms BURNOUT to build A LEGACY.
+
+[Mars_Saturn_Mars_House_11]
+You are A STRATEGIST who transforms BURNOUT to manifest YOUR VISION.
+
+[Mars_Saturn_Mars_House_12]
+You are A STRATEGIST who transforms BURNOUT to find PEACE.
+
+[Mars_Saturn_Mars_NorthNode]
+You are A STRATEGIST who transforms BURNOUT to fulfill THE CALL OF DESTINY.
+
+[Mars_Saturn_Uranus_House_1]
+You are A STRATEGIST who channels CHAOS to claim YOURSELF.
+
+[Mars_Saturn_Uranus_House_2]
+You are A STRATEGIST who channels CHAOS to build VALUE.
+
+[Mars_Saturn_Uranus_House_3]
+You are A STRATEGIST who channels CHAOS to find YOUR VOICE.
+
+[Mars_Saturn_Uranus_House_4]
+You are A STRATEGIST who channels CHAOS to secure FOUNDATION.
+
+[Mars_Saturn_Uranus_House_5]
+You are A STRATEGIST who channels CHAOS to manifest A MASTERPIECE.
+
+[Mars_Saturn_Uranus_House_6]
+You are A STRATEGIST who channels CHAOS to perfect YOUR CRAFT.
+
+[Mars_Saturn_Uranus_House_7]
+You are A STRATEGIST who channels CHAOS to forge CONNECTION.
+
+[Mars_Saturn_Uranus_House_8]
+You are A STRATEGIST who channels CHAOS to embrace TRANSFORMATION.
+
+[Mars_Saturn_Uranus_House_9]
+You are A STRATEGIST who channels CHAOS to discover TRUTH.
+
+[Mars_Saturn_Uranus_House_10]
+You are A STRATEGIST who channels CHAOS to build A LEGACY.
+
+[Mars_Saturn_Uranus_House_11]
+You are A STRATEGIST who channels CHAOS to manifest YOUR VISION.
+
+[Mars_Saturn_Uranus_House_12]
+You are A STRATEGIST who channels CHAOS to find PEACE.
+
+[Mars_Saturn_Uranus_NorthNode]
+You are A STRATEGIST who channels CHAOS to fulfill THE CALL OF DESTINY.
+
+[Mars_Saturn_House_12_House_1]
+You are A STRATEGIST who illuminates THE UNCONSCIOUS to claim YOURSELF.
+
+[Mars_Saturn_House_12_House_2]
+You are A STRATEGIST who illuminates THE UNCONSCIOUS to build VALUE.
+
+[Mars_Saturn_House_12_House_3]
+You are A STRATEGIST who illuminates THE UNCONSCIOUS to find YOUR VOICE.
+
+[Mars_Saturn_House_12_House_4]
+You are A STRATEGIST who illuminates THE UNCONSCIOUS to secure FOUNDATION.
+
+[Mars_Saturn_House_12_House_5]
+You are A STRATEGIST who illuminates THE UNCONSCIOUS to manifest A MASTERPIECE.
+
+[Mars_Saturn_House_12_House_6]
+You are A STRATEGIST who illuminates THE UNCONSCIOUS to perfect YOUR CRAFT.
+
+[Mars_Saturn_House_12_House_7]
+You are A STRATEGIST who illuminates THE UNCONSCIOUS to forge CONNECTION.
+
+[Mars_Saturn_House_12_House_8]
+You are A STRATEGIST who illuminates THE UNCONSCIOUS to embrace TRANSFORMATION.
+
+[Mars_Saturn_House_12_House_9]
+You are A STRATEGIST who illuminates THE UNCONSCIOUS to discover TRUTH.
+
+[Mars_Saturn_House_12_House_10]
+You are A STRATEGIST who illuminates THE UNCONSCIOUS to build A LEGACY.
+
+[Mars_Saturn_House_12_House_11]
+You are A STRATEGIST who illuminates THE UNCONSCIOUS to manifest YOUR VISION.
+
+[Mars_Saturn_House_12_House_12]
+You are A STRATEGIST who illuminates THE UNCONSCIOUS to find PEACE.
+
+[Mars_Saturn_House_12_NorthNode]
+You are A STRATEGIST who illuminates THE UNCONSCIOUS to fulfill THE CALL OF DESTINY.
+
+[Mars_Pluto_square_House_1]
+You are A VOLCANO who overcomes CONFLICT to claim YOURSELF.
+
+[Mars_Pluto_square_House_2]
+You are A VOLCANO who overcomes CONFLICT to build VALUE.
+
+[Mars_Pluto_square_House_3]
+You are A VOLCANO who overcomes CONFLICT to find YOUR VOICE.
+
+[Mars_Pluto_square_House_4]
+You are A VOLCANO who overcomes CONFLICT to secure FOUNDATION.
+
+[Mars_Pluto_square_House_5]
+You are A VOLCANO who overcomes CONFLICT to manifest A MASTERPIECE.
+
+[Mars_Pluto_square_House_6]
+You are A VOLCANO who overcomes CONFLICT to perfect YOUR CRAFT.
+
+[Mars_Pluto_square_House_7]
+You are A VOLCANO who overcomes CONFLICT to forge CONNECTION.
+
+[Mars_Pluto_square_House_8]
+You are A VOLCANO who overcomes CONFLICT to embrace TRANSFORMATION.
+
+[Mars_Pluto_square_House_9]
+You are A VOLCANO who overcomes CONFLICT to discover TRUTH.
+
+[Mars_Pluto_square_House_10]
+You are A VOLCANO who overcomes CONFLICT to build A LEGACY.
+
+[Mars_Pluto_square_House_11]
+You are A VOLCANO who overcomes CONFLICT to manifest YOUR VISION.
+
+[Mars_Pluto_square_House_12]
+You are A VOLCANO who overcomes CONFLICT to find PEACE.
+
+[Mars_Pluto_square_NorthNode]
+You are A VOLCANO who overcomes CONFLICT to fulfill THE CALL OF DESTINY.
+
+[Mars_Pluto_opposition_House_1]
+You are A VOLCANO who overcomes RESISTANCE to claim YOURSELF.
+
+[Mars_Pluto_opposition_House_2]
+You are A VOLCANO who overcomes RESISTANCE to build VALUE.
+
+[Mars_Pluto_opposition_House_3]
+You are A VOLCANO who overcomes RESISTANCE to find YOUR VOICE.
+
+[Mars_Pluto_opposition_House_4]
+You are A VOLCANO who overcomes RESISTANCE to secure FOUNDATION.
+
+[Mars_Pluto_opposition_House_5]
+You are A VOLCANO who overcomes RESISTANCE to manifest A MASTERPIECE.
+
+[Mars_Pluto_opposition_House_6]
+You are A VOLCANO who overcomes RESISTANCE to perfect YOUR CRAFT.
+
+[Mars_Pluto_opposition_House_7]
+You are A VOLCANO who overcomes RESISTANCE to forge CONNECTION AND MEANING.
+
+[Mars_Pluto_opposition_House_8]
+You are A VOLCANO who overcomes RESISTANCE to embrace TRANSFORMATION.
+
+[Mars_Pluto_opposition_House_9]
+You are A VOLCANO who overcomes RESISTANCE to discover TRUTH.
+
+[Mars_Pluto_opposition_House_10]
+You are A VOLCANO who overcomes RESISTANCE to build A LEGACY.
+
+[Mars_Pluto_opposition_House_11]
+You are A VOLCANO who overcomes RESISTANCE to manifest YOUR VISION.
+
+[Mars_Pluto_opposition_House_12]
+You are A VOLCANO who overcomes RESISTANCE to find PEACE.
+
+[Mars_Pluto_opposition_NorthNode]
+You are A VOLCANO who overcomes RESISTANCE to fulfill THE CALL OF DESTINY.
+
+[Mars_Pluto_Saturn_House_1]
+You are A VOLCANO who breaks through RESTRICTION to claim YOURSELF.
+
+[Mars_Pluto_Saturn_House_2]
+You are A VOLCANO who breaks through RESTRICTION to build VALUE.
+
+[Mars_Pluto_Saturn_House_3]
+You are A VOLCANO who breaks through RESTRICTION to find YOUR VOICE.
+
+[Mars_Pluto_Saturn_House_4]
+You are A VOLCANO who breaks through RESTRICTION to secure FOUNDATION.
+
+[Mars_Pluto_Saturn_House_5]
+You are A VOLCANO who breaks through RESTRICTION to manifest A MASTERPIECE.
+
+[Mars_Pluto_Saturn_House_6]
+You are A VOLCANO who breaks through RESTRICTION to perfect YOUR CRAFT.
+
+[Mars_Pluto_Saturn_House_7]
+You are A VOLCANO who breaks through RESTRICTION to forge CONNECTION.
+
+[Mars_Pluto_Saturn_House_8]
+You are A VOLCANO who breaks through RESTRICTION to embrace TRANSFORMATION.
+
+[Mars_Pluto_Saturn_House_9]
+You are A VOLCANO who breaks through RESTRICTION to discover TRUTH.
+
+[Mars_Pluto_Saturn_House_10]
+You are A VOLCANO who breaks through RESTRICTION to build A LEGACY.
+
+[Mars_Pluto_Saturn_House_11]
+You are A VOLCANO who breaks through RESTRICTION to manifest YOUR VISION.
+
+[Mars_Pluto_Saturn_House_12]
+You are A VOLCANO who breaks through RESTRICTION to find PEACE.
+
+[Mars_Pluto_Saturn_NorthNode]
+You are A VOLCANO who breaks through RESTRICTION to fulfill THE CALL OF DESTINY.
+
+[Mars_Pluto_Neptune_House_1]
+You are A VOLCANO who parts THE FOG to claim YOURSELF.
+
+[Mars_Pluto_Neptune_House_2]
+You are A VOLCANO who parts THE FOG to build VALUE.
+
+[Mars_Pluto_Neptune_House_3]
+You are A VOLCANO who parts THE FOG to find YOUR VOICE.
+
+[Mars_Pluto_Neptune_House_4]
+You are A VOLCANO who parts THE FOG to secure FOUNDATION.
+
+[Mars_Pluto_Neptune_House_5]
+You are A VOLCANO who parts THE FOG to manifest A MASTERPIECE.
+
+[Mars_Pluto_Neptune_House_6]
+You are A VOLCANO who parts THE FOG to perfect YOUR CRAFT.
+
+[Mars_Pluto_Neptune_House_7]
+You are A VOLCANO who parts THE FOG to forge CONNECTION AND MEANING.
+
+[Mars_Pluto_Neptune_House_8]
+You are A VOLCANO who parts THE FOG to embrace TRANSFORMATION.
+
+[Mars_Pluto_Neptune_House_9]
+You are A VOLCANO who parts THE FOG to discover TRUTH.
+
+[Mars_Pluto_Neptune_House_10]
+You are A VOLCANO who parts THE FOG to build A LEGACY.
+
+[Mars_Pluto_Neptune_House_11]
+You are A VOLCANO who parts THE FOG to manifest YOUR VISION.
+
+[Mars_Pluto_Neptune_House_12]
+You are A VOLCANO who parts THE FOG to find PEACE.
+
+[Mars_Pluto_Neptune_NorthNode]
+You are A VOLCANO who parts THE FOG to fulfill THE CALL OF DESTINY.
+
+[Mars_Pluto_Pluto_House_1]
+You are A VOLCANO who transforms DESTRUCTION to claim YOURSELF.
+
+[Mars_Pluto_Pluto_House_2]
+You are A VOLCANO who transforms DESTRUCTION to build VALUE.
+
+[Mars_Pluto_Pluto_House_3]
+You are A VOLCANO who transforms DESTRUCTION to find YOUR VOICE.
+
+[Mars_Pluto_Pluto_House_4]
+You are A VOLCANO who transforms DESTRUCTION to secure FOUNDATION.
+
+[Mars_Pluto_Pluto_House_5]
+You are A VOLCANO who transforms DESTRUCTION to manifest A MASTERPIECE.
+
+[Mars_Pluto_Pluto_House_6]
+You are A VOLCANO who transforms DESTRUCTION to perfect YOUR CRAFT.
+
+[Mars_Pluto_Pluto_House_7]
+You are A VOLCANO who transforms DESTRUCTION to forge CONNECTION.
+
+[Mars_Pluto_Pluto_House_8]
+You are A VOLCANO who transforms DESTRUCTION to embrace TRANSFORMATION.
+
+[Mars_Pluto_Pluto_House_9]
+You are A VOLCANO who transforms DESTRUCTION to discover TRUTH.
+
+[Mars_Pluto_Pluto_House_10]
+You are A VOLCANO who transforms DESTRUCTION to build A LEGACY.
+
+[Mars_Pluto_Pluto_House_11]
+You are A VOLCANO who transforms DESTRUCTION to manifest YOUR VISION.
+
+[Mars_Pluto_Pluto_House_12]
+You are A VOLCANO who transforms DESTRUCTION to find PEACE.
+
+[Mars_Pluto_Pluto_NorthNode]
+You are A VOLCANO who transforms DESTRUCTION to fulfill THE CALL OF DESTINY.
+
+[Mars_Pluto_Mars_House_1]
+You are A VOLCANO who transforms BURNOUT to claim YOURSELF.
+
+[Mars_Pluto_Mars_House_2]
+You are A VOLCANO who transforms BURNOUT to build VALUE.
+
+[Mars_Pluto_Mars_House_3]
+You are A VOLCANO who transforms BURNOUT to find YOUR VOICE.
+
+[Mars_Pluto_Mars_House_4]
+You are A VOLCANO who transforms BURNOUT to secure FOUNDATION.
+
+[Mars_Pluto_Mars_House_5]
+You are A VOLCANO who transforms BURNOUT to manifest A MASTERPIECE.
+
+[Mars_Pluto_Mars_House_6]
+You are A VOLCANO who transforms BURNOUT to perfect YOUR CRAFT.
+
+[Mars_Pluto_Mars_House_7]
+You are A VOLCANO who transforms BURNOUT to forge CONNECTION.
+
+[Mars_Pluto_Mars_House_8]
+You are A VOLCANO who transforms BURNOUT to embrace TRANSFORMATION.
+
+[Mars_Pluto_Mars_House_9]
+You are A VOLCANO who transforms BURNOUT to discover TRUTH.
+
+[Mars_Pluto_Mars_House_10]
+You are A VOLCANO who transforms BURNOUT to build A LEGACY.
+
+[Mars_Pluto_Mars_House_11]
+You are A VOLCANO who transforms BURNOUT to manifest YOUR VISION.
+
+[Mars_Pluto_Mars_House_12]
+You are A VOLCANO who transforms BURNOUT to find PEACE.
+
+[Mars_Pluto_Mars_NorthNode]
+You are A VOLCANO who transforms BURNOUT to fulfill THE CALL OF DESTINY.
+
+[Mars_Pluto_Uranus_House_1]
+You are A VOLCANO who channels CHAOS to claim YOURSELF.
+
+[Mars_Pluto_Uranus_House_2]
+You are A VOLCANO who channels CHAOS to build VALUE.
+
+[Mars_Pluto_Uranus_House_3]
+You are A VOLCANO who channels CHAOS to find YOUR VOICE.
+
+[Mars_Pluto_Uranus_House_4]
+You are A VOLCANO who channels CHAOS to secure FOUNDATION.
+
+[Mars_Pluto_Uranus_House_5]
+You are A VOLCANO who channels CHAOS to manifest A MASTERPIECE.
+
+[Mars_Pluto_Uranus_House_6]
+You are A VOLCANO who channels CHAOS to perfect YOUR CRAFT.
+
+[Mars_Pluto_Uranus_House_7]
+You are A VOLCANO who channels CHAOS to forge CONNECTION.
+
+[Mars_Pluto_Uranus_House_8]
+You are A VOLCANO who channels CHAOS to embrace TRANSFORMATION.
+
+[Mars_Pluto_Uranus_House_9]
+You are A VOLCANO who channels CHAOS to discover TRUTH.
+
+[Mars_Pluto_Uranus_House_10]
+You are A VOLCANO who channels CHAOS to build A LEGACY.
+
+[Mars_Pluto_Uranus_House_11]
+You are A VOLCANO who channels CHAOS to manifest YOUR VISION.
+
+[Mars_Pluto_Uranus_House_12]
+You are A VOLCANO who channels CHAOS to find PEACE.
+
+[Mars_Pluto_Uranus_NorthNode]
+You are A VOLCANO who channels CHAOS to fulfill THE CALL OF DESTINY.
+
+[Mars_Pluto_House_12_House_1]
+You are A VOLCANO who illuminates THE UNCONSCIOUS to claim YOURSELF.
+
+[Mars_Pluto_House_12_House_2]
+You are A VOLCANO who illuminates THE UNCONSCIOUS to build VALUE.
+
+[Mars_Pluto_House_12_House_3]
+You are A VOLCANO who illuminates THE UNCONSCIOUS to find YOUR VOICE.
+
+[Mars_Pluto_House_12_House_4]
+You are A VOLCANO who illuminates THE UNCONSCIOUS to secure FOUNDATION.
+
+[Mars_Pluto_House_12_House_5]
+You are A VOLCANO who illuminates THE UNCONSCIOUS to manifest A MASTERPIECE.
+
+[Mars_Pluto_House_12_House_6]
+You are A VOLCANO who illuminates THE UNCONSCIOUS to perfect YOUR CRAFT.
+
+[Mars_Pluto_House_12_House_7]
+You are A VOLCANO who illuminates THE UNCONSCIOUS to forge CONNECTION.
+
+[Mars_Pluto_House_12_House_8]
+You are A VOLCANO who illuminates THE UNCONSCIOUS to embrace TRANSFORMATION.
+
+[Mars_Pluto_House_12_House_9]
+You are A VOLCANO who illuminates THE UNCONSCIOUS to discover TRUTH.
+
+[Mars_Pluto_House_12_House_10]
+You are A VOLCANO who illuminates THE UNCONSCIOUS to build A LEGACY.
+
+[Mars_Pluto_House_12_House_11]
+You are A VOLCANO who illuminates THE UNCONSCIOUS to manifest YOUR VISION.
+
+[Mars_Pluto_House_12_House_12]
+You are A VOLCANO who illuminates THE UNCONSCIOUS to find PEACE.
+
+[Mars_Pluto_House_12_NorthNode]
+You are A VOLCANO who illuminates THE UNCONSCIOUS to fulfill THE CALL OF DESTINY.
+
+[Venus_Pluto_square_House_1]
+You are AN OBSESSION who overcomes CONFLICT to claim YOURSELF.
+
+[Venus_Pluto_square_House_2]
+You are AN OBSESSION who overcomes CONFLICT to build VALUE.
+
+[Venus_Pluto_square_House_3]
+You are AN OBSESSION who overcomes CONFLICT to find YOUR VOICE.
+
+[Venus_Pluto_square_House_4]
+You are AN OBSESSION who overcomes CONFLICT to secure FOUNDATION.
+
+[Venus_Pluto_square_House_5]
+You are AN OBSESSION who overcomes CONFLICT to manifest A MASTERPIECE.
+
+[Venus_Pluto_square_House_6]
+You are AN OBSESSION who overcomes CONFLICT to perfect YOUR CRAFT.
+
+[Venus_Pluto_square_House_7]
+You are AN OBSESSION who overcomes CONFLICT to forge CONNECTION.
+
+[Venus_Pluto_square_House_8]
+You are AN OBSESSION who overcomes CONFLICT to embrace TRANSFORMATION.
+
+[Venus_Pluto_square_House_9]
+You are AN OBSESSION who overcomes CONFLICT to discover TRUTH.
+
+[Venus_Pluto_square_House_10]
+You are AN OBSESSION who overcomes CONFLICT to build A LEGACY.
+
+[Venus_Pluto_square_House_11]
+You are AN OBSESSION who overcomes CONFLICT to manifest YOUR VISION.
+
+[Venus_Pluto_square_House_12]
+You are AN OBSESSION who overcomes CONFLICT to find PEACE.
+
+[Venus_Pluto_square_NorthNode]
+You are AN OBSESSION who overcomes CONFLICT to fulfill THE CALL OF DESTINY.
+
+[Venus_Pluto_opposition_House_1]
+You are AN OBSESSION who overcomes RESISTANCE to claim YOURSELF.
+
+[Venus_Pluto_opposition_House_2]
+You are AN OBSESSION who overcomes RESISTANCE to build VALUE.
+
+[Venus_Pluto_opposition_House_3]
+You are AN OBSESSION who overcomes RESISTANCE to find YOUR VOICE.
+
+[Venus_Pluto_opposition_House_4]
+You are AN OBSESSION who overcomes RESISTANCE to secure FOUNDATION.
+
+[Venus_Pluto_opposition_House_5]
+You are AN OBSESSION who overcomes RESISTANCE to manifest A MASTERPIECE.
+
+[Venus_Pluto_opposition_House_6]
+You are AN OBSESSION who overcomes RESISTANCE to perfect YOUR CRAFT.
+
+[Venus_Pluto_opposition_House_7]
+You are AN OBSESSION who overcomes RESISTANCE to forge CONNECTION AND MEANING.
+
+[Venus_Pluto_opposition_House_8]
+You are AN OBSESSION who overcomes RESISTANCE to embrace TRANSFORMATION.
+
+[Venus_Pluto_opposition_House_9]
+You are AN OBSESSION who overcomes RESISTANCE to discover TRUTH.
+
+[Venus_Pluto_opposition_House_10]
+You are AN OBSESSION who overcomes RESISTANCE to build A LEGACY.
+
+[Venus_Pluto_opposition_House_11]
+You are AN OBSESSION who overcomes RESISTANCE to manifest YOUR VISION.
+
+[Venus_Pluto_opposition_House_12]
+You are AN OBSESSION who overcomes RESISTANCE to find PEACE.
+
+[Venus_Pluto_opposition_NorthNode]
+You are AN OBSESSION who overcomes RESISTANCE to fulfill THE CALL OF DESTINY.
+
+[Venus_Pluto_Saturn_House_1]
+You are AN OBSESSION who breaks through RESTRICTION to claim YOURSELF.
+
+[Venus_Pluto_Saturn_House_2]
+You are AN OBSESSION who breaks through RESTRICTION to build VALUE.
+
+[Venus_Pluto_Saturn_House_3]
+You are AN OBSESSION who breaks through RESTRICTION to find YOUR VOICE.
+
+[Venus_Pluto_Saturn_House_4]
+You are AN OBSESSION who breaks through RESTRICTION to secure FOUNDATION.
+
+[Venus_Pluto_Saturn_House_5]
+You are AN OBSESSION who breaks through RESTRICTION to manifest A MASTERPIECE.
+
+[Venus_Pluto_Saturn_House_6]
+You are AN OBSESSION who breaks through RESTRICTION to perfect YOUR CRAFT.
+
+[Venus_Pluto_Saturn_House_7]
+You are AN OBSESSION who breaks through RESTRICTION to forge CONNECTION.
+
+[Venus_Pluto_Saturn_House_8]
+You are AN OBSESSION who breaks through RESTRICTION to embrace TRANSFORMATION.
+
+[Venus_Pluto_Saturn_House_9]
+You are AN OBSESSION who breaks through RESTRICTION to discover TRUTH.
+
+[Venus_Pluto_Saturn_House_10]
+You are AN OBSESSION who breaks through RESTRICTION to build A LEGACY.
+
+[Venus_Pluto_Saturn_House_11]
+You are AN OBSESSION who breaks through RESTRICTION to manifest YOUR VISION.
+
+[Venus_Pluto_Saturn_House_12]
+You are AN OBSESSION who breaks through RESTRICTION to find PEACE.
+
+[Venus_Pluto_Saturn_NorthNode]
+You are AN OBSESSION who breaks through RESTRICTION to fulfill THE CALL OF DESTINY.
+
+[Venus_Pluto_Neptune_House_1]
+You are AN OBSESSION who parts THE FOG to claim YOURSELF.
+
+[Venus_Pluto_Neptune_House_2]
+You are AN OBSESSION who parts THE FOG to build VALUE.
+
+[Venus_Pluto_Neptune_House_3]
+You are AN OBSESSION who parts THE FOG to find YOUR VOICE.
+
+[Venus_Pluto_Neptune_House_4]
+You are AN OBSESSION who parts THE FOG to secure FOUNDATION.
+
+[Venus_Pluto_Neptune_House_5]
+You are AN OBSESSION who parts THE FOG to manifest A MASTERPIECE.
+
+[Venus_Pluto_Neptune_House_6]
+You are AN OBSESSION who parts THE FOG to perfect YOUR CRAFT.
+
+[Venus_Pluto_Neptune_House_7]
+You are AN OBSESSION who parts THE FOG to forge CONNECTION AND MEANING.
+
+[Venus_Pluto_Neptune_House_8]
+You are AN OBSESSION who parts THE FOG to embrace TRANSFORMATION.
+
+[Venus_Pluto_Neptune_House_9]
+You are AN OBSESSION who parts THE FOG to discover TRUTH.
+
+[Venus_Pluto_Neptune_House_10]
+You are AN OBSESSION who parts THE FOG to build A LEGACY.
+
+[Venus_Pluto_Neptune_House_11]
+You are AN OBSESSION who parts THE FOG to manifest YOUR VISION.
+
+[Venus_Pluto_Neptune_House_12]
+You are AN OBSESSION who parts THE FOG to find PEACE.
+
+[Venus_Pluto_Neptune_NorthNode]
+You are AN OBSESSION who parts THE FOG to fulfill THE CALL OF DESTINY.
+
+[Venus_Pluto_Pluto_House_1]
+You are AN OBSESSION who transforms DESTRUCTION to claim YOURSELF.
+
+[Venus_Pluto_Pluto_House_2]
+You are AN OBSESSION who transforms DESTRUCTION to build VALUE.
+
+[Venus_Pluto_Pluto_House_3]
+You are AN OBSESSION who transforms DESTRUCTION to find YOUR VOICE.
+
+[Venus_Pluto_Pluto_House_4]
+You are AN OBSESSION who transforms DESTRUCTION to secure FOUNDATION.
+
+[Venus_Pluto_Pluto_House_5]
+You are AN OBSESSION who transforms DESTRUCTION to manifest A MASTERPIECE.
+
+[Venus_Pluto_Pluto_House_6]
+You are AN OBSESSION who transforms DESTRUCTION to perfect YOUR CRAFT.
+
+[Venus_Pluto_Pluto_House_7]
+You are AN OBSESSION who transforms DESTRUCTION to forge CONNECTION.
+
+[Venus_Pluto_Pluto_House_8]
+You are AN OBSESSION who transforms DESTRUCTION to embrace TRANSFORMATION.
+
+[Venus_Pluto_Pluto_House_9]
+You are AN OBSESSION who transforms DESTRUCTION to discover TRUTH.
+
+[Venus_Pluto_Pluto_House_10]
+You are AN OBSESSION who transforms DESTRUCTION to build A LEGACY.
+
+[Venus_Pluto_Pluto_House_11]
+You are AN OBSESSION who transforms DESTRUCTION to manifest YOUR VISION.
+
+[Venus_Pluto_Pluto_House_12]
+You are AN OBSESSION who transforms DESTRUCTION to find PEACE.
+
+[Venus_Pluto_Pluto_NorthNode]
+You are AN OBSESSION who transforms DESTRUCTION to fulfill THE CALL OF DESTINY.
+
+[Venus_Pluto_Mars_House_1]
+You are AN OBSESSION who transforms BURNOUT to claim YOURSELF.
+
+[Venus_Pluto_Mars_House_2]
+You are AN OBSESSION who transforms BURNOUT to build VALUE.
+
+[Venus_Pluto_Mars_House_3]
+You are AN OBSESSION who transforms BURNOUT to find YOUR VOICE.
+
+[Venus_Pluto_Mars_House_4]
+You are AN OBSESSION who transforms BURNOUT to secure FOUNDATION.
+
+[Venus_Pluto_Mars_House_5]
+You are AN OBSESSION who transforms BURNOUT to manifest A MASTERPIECE.
+
+[Venus_Pluto_Mars_House_6]
+You are AN OBSESSION who transforms BURNOUT to perfect YOUR CRAFT.
+
+[Venus_Pluto_Mars_House_7]
+You are AN OBSESSION who transforms BURNOUT to forge CONNECTION.
+
+[Venus_Pluto_Mars_House_8]
+You are AN OBSESSION who transforms BURNOUT to embrace TRANSFORMATION.
+
+[Venus_Pluto_Mars_House_9]
+You are AN OBSESSION who transforms BURNOUT to discover TRUTH.
+
+[Venus_Pluto_Mars_House_10]
+You are AN OBSESSION who transforms BURNOUT to build A LEGACY.
+
+[Venus_Pluto_Mars_House_11]
+You are AN OBSESSION who transforms BURNOUT to manifest YOUR VISION.
+
+[Venus_Pluto_Mars_House_12]
+You are AN OBSESSION who transforms BURNOUT to find PEACE.
+
+[Venus_Pluto_Mars_NorthNode]
+You are AN OBSESSION who transforms BURNOUT to fulfill THE CALL OF DESTINY.
+
+[Venus_Pluto_Uranus_House_1]
+You are AN OBSESSION who channels CHAOS to claim YOURSELF.
+
+[Venus_Pluto_Uranus_House_2]
+You are AN OBSESSION who channels CHAOS to build VALUE.
+
+[Venus_Pluto_Uranus_House_3]
+You are AN OBSESSION who channels CHAOS to find YOUR VOICE.
+
+[Venus_Pluto_Uranus_House_4]
+You are AN OBSESSION who channels CHAOS to secure FOUNDATION.
+
+[Venus_Pluto_Uranus_House_5]
+You are AN OBSESSION who channels CHAOS to manifest A MASTERPIECE.
+
+[Venus_Pluto_Uranus_House_6]
+You are AN OBSESSION who channels CHAOS to perfect YOUR CRAFT.
+
+[Venus_Pluto_Uranus_House_7]
+You are AN OBSESSION who channels CHAOS to forge CONNECTION.
+
+[Venus_Pluto_Uranus_House_8]
+You are AN OBSESSION who channels CHAOS to embrace TRANSFORMATION.
+
+[Venus_Pluto_Uranus_House_9]
+You are AN OBSESSION who channels CHAOS to discover TRUTH.
+
+[Venus_Pluto_Uranus_House_10]
+You are AN OBSESSION who channels CHAOS to build A LEGACY.
+
+[Venus_Pluto_Uranus_House_11]
+You are AN OBSESSION who channels CHAOS to manifest YOUR VISION.
+
+[Venus_Pluto_Uranus_House_12]
+You are AN OBSESSION who channels CHAOS to find PEACE.
+
+[Venus_Pluto_Uranus_NorthNode]
+You are AN OBSESSION who channels CHAOS to fulfill THE CALL OF DESTINY.
+
+[Venus_Pluto_House_12_House_1]
+You are AN OBSESSION who illuminates THE UNCONSCIOUS to claim YOURSELF.
+
+[Venus_Pluto_House_12_House_2]
+You are AN OBSESSION who illuminates THE UNCONSCIOUS to build VALUE.
+
+[Venus_Pluto_House_12_House_3]
+You are AN OBSESSION who illuminates THE UNCONSCIOUS to find YOUR VOICE.
+
+[Venus_Pluto_House_12_House_4]
+You are AN OBSESSION who illuminates THE UNCONSCIOUS to secure FOUNDATION.
+
+[Venus_Pluto_House_12_House_5]
+You are AN OBSESSION who illuminates THE UNCONSCIOUS to manifest A MASTERPIECE.
+
+[Venus_Pluto_House_12_House_6]
+You are AN OBSESSION who illuminates THE UNCONSCIOUS to perfect YOUR CRAFT.
+
+[Venus_Pluto_House_12_House_7]
+You are AN OBSESSION who illuminates THE UNCONSCIOUS to forge CONNECTION.
+
+[Venus_Pluto_House_12_House_8]
+You are AN OBSESSION who illuminates THE UNCONSCIOUS to embrace TRANSFORMATION.
+
+[Venus_Pluto_House_12_House_9]
+You are AN OBSESSION who illuminates THE UNCONSCIOUS to discover TRUTH.
+
+[Venus_Pluto_House_12_House_10]
+You are AN OBSESSION who illuminates THE UNCONSCIOUS to build A LEGACY.
+
+[Venus_Pluto_House_12_House_11]
+You are AN OBSESSION who illuminates THE UNCONSCIOUS to manifest YOUR VISION.
+
+[Venus_Pluto_House_12_House_12]
+You are AN OBSESSION who illuminates THE UNCONSCIOUS to find PEACE.
+
+[Venus_Pluto_House_12_NorthNode]
+You are AN OBSESSION who illuminates THE UNCONSCIOUS to fulfill THE CALL OF DESTINY.
+

@@ -1,0 +1,21 @@
+# Node modules (if any)
+node_modules/
+
+# Build files
+dist/
+build/
+
+# Local development
+*.log
+.DS_Store
+
+# Large files that exceed GitHub's 100MB limit
+boom_combinations_raw.json
+
+# Keep these for GitHub Pages:
+# - All JSON files (libraries, boom sentences, etc.)
+# - All JS files (chart.js, etc.)
+# - index.html
+# - CNAME
+# - style.css (if separate)
+
